@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "name": "CHINOIZECUP #200",
+  "author": "chinoizecup-scraper",
+  "description": "Top 4 from \"CHINOIZECUP #200\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a43969983fd320299bd4a17",
+  "decks": [
+    {
+      "name": "Roronoa Zoro & Sanji — Krullzor (1)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xST12-001\n4xOP15-023\n3xOP10-045\n4xST12-003\n4xST32-003\n4xST32-002\n2xOP13-118\n4xOP16-054\n4xOP16-055\n4xOP16-056\n4xOP12-034\n4xST32-005\n3xOP10-030\n4xST33-003\n2xOP12-037"
+    },
+    {
+      "name": "Monkey.D.Luffy — igordiasr (2)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP16-022\n2xOP16-032\n1xOP15-032\n4xOP16-048\n4xOP16-045\n2xST12-010\n2xOP16-026\n4xOP16-034\n4xOP16-054\n4xOP16-055\n3xST30-014\n4xOP16-056\n9xOP16-042\n1xOP12-037\n2xOP06-058\n1xOP11-061\n1xOP02-068\n2xOP16-038"
+    },
+    {
+      "name": "Dracule Mihawk — mirkosp95 (3)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-020\n1xOP14-119\n3xST32-003\n4xOP14-023\n4xST32-001\n4xST32-002\n4xST24-004\n4xOP07-022\n4xOP14-033\n4xOP12-034\n3xST32-005\n1xST16-004\n3xOP13-031\n2xOP12-037\n3xOP13-040\n2xOP06-038\n4xOP01-055"
+    },
+    {
+      "name": "Monkey.D.Luffy — igot2staydown (4)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-001\n2xOP15-032\n3xEB04-002\n4xOP15-035\n4xST31-004\n4xOP13-118\n2xOP01-016\n4xEB02-017\n4xOP14-031\n2xOP13-037\n3xEB04-007\n4xOP13-027\n2xST21-003\n4xOP14-022\n4xOP05-038\n4xST31-005"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "name": "OP16 4th July 2026 - Regional Bielefeld",
+  "author": "limitlesstcg-scraper",
+  "description": "Top 16 from \"OP16 4th July 2026 - Regional Bielefeld\" (region=Europe, time=3months). Scraped from https://onepiece.limitlesstcg.com/decks/lists. Source tournament: https://onepiece.limitlesstcg.com/tournaments/431",
+  "decks": [
+    {
+      "name": "Purple Enel — Luka Forjan (1st)",
+      "tags": [
+        "meta",
+        "Europe",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP15-061\n4xOP15-067\n3xOP12-071\n3xOP15-066\n4xOP12-063\n3xOP09-072\n2xOP10-067\n4xOP15-118\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n3xOP15-074\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Red/Black Koby — Marc@@@1 (2nd)",
+      "tags": [
+        "meta",
+        "Europe",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP11-001\n4xOP11-004\n4xOP11-082\n4xOP11-096\n3xOP13-007\n4xEB03-008\n4xEB04-047\n4xOP11-008\n4xPRB02-001\n3xEB03-041\n4xOP11-092\n4xEB04-044\n2xEB04-003\n4xOP11-099\n2xOP14-096"
+    },
+    {
+      "name": "Green/Blue Luffy — Sammy Wang (3rd)",
+      "tags": [
+        "meta",
+        "Europe",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP16-022\n4xOP16-034\n4xOP16-054\n4xOP16-055\n2xST30-014\n1xOP16-037\n4xOP16-045\n4xOP16-056\n3xOP16-026\n4xOP16-048\n8xOP16-042\n1xOP15-032\n1xOP16-032\n1xOP02-068\n1xEB01-028\n1xOP12-037\n1xOP12-038\n1xOP13-040\n1xOP16-038\n3xOP08-036\n1xOP06-058"
+    },
+    {
+      "name": "Red/Green Luffy & Ace — Davide Ferrari (4th)",
+      "tags": [
+        "meta",
+        "Europe",
+        "op16",
+        "2026"
+      ],
+      "text": "1xST30-001\n4xST30-002\n4xST30-004\n1xST30-014\n3xOP16-015\n3xST30-012\n2xOP14-031\n2xP-119\n4xOP12-118\n4xOP16-118\n3xOP12-002\n3xST30-005\n1xST21-014\n4xOP13-031\n2xOP12-018\n4xST30-016\n4xOP08-036\n2xOP16-021"
+    },
+    {
+      "name": "Purple Enel — Georgios Karapiperis (5th)",
+      "tags": [
+        "meta",
+        "Europe",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n4xOP15-071\n4xOP12-063\n4xOP15-118\n4xOP15-074\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n2xOP13-076\n4xOP05-077"
+    },
+    {
+      "name": "Green/Blue Luffy — Cameron Varden (6th)",
+      "tags": [
+        "meta",
+        "Europe",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP16-022\n4xOP16-034\n4xOP16-054\n4xOP16-055\n3xST30-014\n1xOP16-037\n2xST12-010\n4xOP16-045\n4xOP16-056\n1xOP16-026\n4xOP16-048\n8xOP16-042\n1xOP15-032\n3xOP16-032\n1xOP02-068\n2xOP16-038\n1xOP12-037\n3xOP06-058"
+    },
+    {
+      "name": "Purple Enel — Enma (7th)",
+      "tags": [
+        "meta",
+        "Europe",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n3xOP15-071\n4xOP12-063\n2xOP09-072\n1xST10-010\n1xOP10-067\n4xOP15-118\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n3xOP15-074\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Green/Blue Luffy — Coolman (8th)",
+      "tags": [
+        "meta",
+        "Europe",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP16-022\n4xOP16-034\n4xOP16-054\n4xOP16-055\n3xST30-014\n3xST12-010\n4xOP16-045\n4xOP16-056\n2xOP16-026\n4xOP16-048\n8xOP16-042\n1xOP15-032\n3xOP16-032\n1xOP02-068\n3xOP16-038\n1xOP11-061\n1xOP06-058"
+    },
+    {
+      "name": "Green/Blue Luffy — Deniz Plantikow (9th)",
+      "tags": [
+        "meta",
+        "Europe",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP16-022\n4xOP16-034\n4xOP16-054\n4xOP16-055\n2xOP16-027\n2xST30-014\n1xOP16-037\n4xOP16-056\n3xOP16-026\n3xOP16-045\n1xST30-012\n4xOP16-048\n8xOP16-042\n2xOP15-032\n2xOP16-032\n2xOP16-038\n1xOP12-037\n2xOP08-036\n1xOP06-058"
+    },
+    {
+      "name": "Blue/Yellow Nami — Molliccio (10th)",
+      "tags": [
+        "meta",
+        "Europe",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP14-102\n4xOP11-106\n3xP-096\n4xOP14-110\n4xOP14-111\n4xOP16-056\n3xOP06-104\n2xOP12-112\n1xPRB02-008\n4xEB03-053\n4xEB04-058\n4xEB03-055\n4xOP14-104\n3xOP13-042\n2xOP06-058"
+    },
+    {
+      "name": "Green/Blue Luffy — Georgios Militsopoulos (11th)",
+      "tags": [
+        "meta",
+        "Europe",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP16-022\n4xOP16-034\n4xOP16-054\n4xOP16-055\n3xST30-014\n4xOP16-056\n3xOP16-026\n3xOP16-045\n4xOP16-048\n8xOP16-042\n1xOP15-032\n3xOP16-032\n1xOP02-068\n3xOP13-040\n3xOP16-038\n2xOP06-058"
+    },
+    {
+      "name": "Blue/Yellow Nami — Jack_Crunkie (12th)",
+      "tags": [
+        "meta",
+        "Europe",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP14-102\n4xOP11-106\n4xOP14-110\n4xOP14-111\n3xOP06-104\n3xOP16-056\n2xOP12-112\n1xPRB02-008\n1xOP15-113\n4xEB03-053\n4xEB04-058\n2xOP14-108\n4xEB03-055\n4xOP14-104\n2xOP16-119\n2xOP13-042\n1xOP14-118\n1xOP06-058"
+    },
+    {
+      "name": "Purple Enel — Juan Méndez Casado (13th)",
+      "tags": [
+        "meta",
+        "Europe",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n4xOP15-071\n3xOP09-072\n2xOP12-063\n1xOP10-067\n4xOP15-118\n1xOP15-060\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n3xOP15-074\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Black/Yellow Blackbeard — SenSeiKhaKhashi [GOAT] (14th)",
+      "tags": [
+        "meta",
+        "Europe",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP16-080\n4xOP16-110\n3xOP16-102\n3xOP16-109\n2xOP09-095\n4xOP09-086\n4xOP16-104\n4xEB04-058\n4xOP16-108\n4xOP16-119\n4xOP09-093\n4xOP09-096\n4xEB04-059\n2xOP16-116\n4xOP09-099"
+    },
+    {
+      "name": "Black Crocodile — Odri (15th)",
+      "tags": [
+        "meta",
+        "Europe",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP14-079\n4xOP14-083\n4xOP14-087\n4xOP14-088\n2xOP14-085\n4xOP14-091\n2xOP14-093\n4xOP14-090\n3xOP14-094\n4xOP14-084\n4xOP15-092\n4xOP14-120\n4xOP14-096\n4xOP14-099\n3xOP05-094"
+    },
+    {
+      "name": "Green/Blue Luffy — momi961 (16th)",
+      "tags": [
+        "meta",
+        "Europe",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP16-022\n4xOP16-034\n4xOP16-054\n4xOP16-055\n2xOP16-027\n2xST30-014\n3xST12-010\n4xOP16-056\n3xOP16-045\n1xOP16-026\n4xOP16-048\n8xOP16-042\n1xOP15-032\n3xOP16-032\n1xOP02-068\n3xOP16-038\n1xOP12-037\n2xOP06-058"
+    }
+  ]
+}
