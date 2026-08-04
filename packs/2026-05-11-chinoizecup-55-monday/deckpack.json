@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "name": "ChinoizeCup #55 Monday",
+  "author": "chinoizecup-scraper",
+  "description": "Top 16 from \"ChinoizeCup #55 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/69fc51d9e23aab068aadd0a1",
+  "decks": [
+    {
+      "name": "Enel — blund (1)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-118\n3xOP09-072\n4xOP15-061\n2xOP10-067\n4xOP15-067\n2xST10-010\n4xOP12-063\n2xOP13-076\n4xOP15-075\n3xOP05-077\n4xOP15-076\n4xOP15-077\n4xOP15-078\n2xOP15-074"
+    },
+    {
+      "name": "Enel — Gefen H (2)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP05-098\n3xOP12-119\n4xEB04-058\n3xEB01-056\n4xOP14-110\n4xEB02-052\n4xOP14-104\n3xOP06-104\n4xOP14-102\n4xOP14-111\n4xOP15-113\n4xEB04-053\n4xOP11-106\n4xEB01-059\n1xOP06-115"
+    },
+    {
+      "name": "Monkey.D.Luffy — ricmasterflash (3)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-001\n2xOP15-032\n4xEB04-002\n4xOP15-035\n4xOP13-016\n4xOP13-118\n1xOP01-016\n1xEB02-017\n4xOP14-031\n4xEB04-007\n2xOP13-037\n4xOP13-027\n2xST21-003\n2xOP13-028\n4xOP14-022\n4xOP05-038\n4xOP08-036"
+    },
+    {
+      "name": "Enel — WPKaptain (4)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-118\n2xOP09-072\n4xOP15-061\n1xOP15-066\n2xOP10-067\n4xOP15-067\n4xOP12-063\n2xOP13-076\n4xOP15-075\n3xOP05-077\n4xOP15-076\n4xOP15-077\n4xOP15-078\n4xOP15-074"
+    },
+    {
+      "name": "Crocodile — mblawluffy (5)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-079\n4xOP14-120\n2xOP14-085\n4xOP14-088\n4xOP14-087\n4xOP15-092\n4xOP14-090\n4xOP14-091\n2xOP14-093\n3xOP14-094\n4xOP14-084\n4xOP14-083\n3xOP14-099\n4xOP14-096\n4xOP05-094"
+    },
+    {
+      "name": "Nami — Legandes (6)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-041\n2xOP12-112\n4xEB04-058\n4xOP14-110\n3xOP13-042\n4xOP14-104\n4xP-096\n4xOP06-104\n4xOP14-102\n4xEB03-053\n4xEB03-055\n4xOP14-111\n1xOP15-113\n1xOP15-047\n4xOP11-106\n3xEB03-060"
+    },
+    {
+      "name": "Kalgara — Nightingale (7)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP08-098\n4xEB04-058\n2xEB02-052\n4xOP15-101\n4xOP12-099\n3xOP08-099\n3xOP15-111\n3xOP08-109\n2xOP15-108\n2xEB03-053\n2xOP15-113\n3xOP08-110\n4xOP15-114\n2xOP12-114\n2xOP11-106\n2xEB01-059\n1xOP10-117\n3xOP08-115\n4xOP05-117"
+    },
+    {
+      "name": "Enel — prootipie (8)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP05-098\n3xOP12-119\n4xEB04-058\n2xEB01-056\n3xOP14-110\n4xEB02-052\n4xOP14-104\n4xOP14-102\n4xOP14-111\n4xOP15-113\n4xEB04-053\n2xOP10-114\n4xOP11-106\n3xOP15-117\n4xEB01-059\n1xOP06-115"
+    },
+    {
+      "name": "Enel — Olaf (9)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-118\n2xOP09-072\n2xOP15-071\n4xOP15-061\n2xOP15-066\n2xOP10-067\n2xOP15-067\n2xST10-010\n3xOP12-063\n2xOP13-076\n4xOP15-075\n3xOP05-077\n4xOP15-076\n4xOP15-077\n4xOP15-078\n2xOP15-074"
+    },
+    {
+      "name": "Enel — jonjp (10)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n3xOP12-071\n4xOP15-118\n1xOP15-060\n3xOP15-071\n4xOP15-061\n3xOP15-066\n2xOP10-067\n4xOP15-067\n1xST10-010\n3xOP12-063\n1xOP13-076\n4xOP15-075\n2xOP05-077\n4xOP15-076\n4xOP15-077\n4xOP15-078\n3xOP15-074"
+    },
+    {
+      "name": "Lucy — keeftcg (11)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-002\n2xOP15-014\n2xOP05-015\n3xOP10-045\n1xOP13-042\n1xOP09-118\n4xOP15-052\n4xOP15-053\n4xOP15-046\n4xOP15-040\n4xOP15-054\n4xOP10-060\n4xOP15-020\n2xOP05-019\n2xOP15-055\n4xOP15-021\n2xOP15-056\n3xOP15-057"
+    },
+    {
+      "name": "Lucy — BabaSanfour (12)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-002\n3xOP15-014\n3xOP10-045\n1xOP09-118\n4xOP15-052\n4xOP15-053\n4xOP15-046\n4xOP15-040\n4xOP15-054\n2xOP15-019\n3xOP10-060\n4xOP15-020\n2xOP05-019\n4xOP15-055\n4xOP15-021\n2xOP15-056\n2xOP15-057"
+    },
+    {
+      "name": "Nami — Spartacus2224 (13)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-041\n2xOP12-112\n4xEB04-058\n4xOP14-110\n4xOP13-042\n4xOP14-104\n4xP-096\n3xOP06-104\n4xOP14-102\n1xOP15-119\n4xEB03-053\n4xEB03-055\n4xOP14-111\n1xOP15-113\n1xOP15-047\n2xOP14-108\n4xOP11-106"
+    },
+    {
+      "name": "Enel — SaTa (14)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-118\n3xOP09-072\n4xOP15-061\n1xOP15-066\n2xOP10-067\n4xOP15-067\n2xST10-010\n4xOP12-063\n1xOP13-076\n4xOP15-075\n3xOP05-077\n4xOP15-076\n4xOP15-077\n4xOP15-078\n2xOP15-074"
+    },
+    {
+      "name": "Enel — Slodea (15)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP05-098\n2xOP12-119\n4xEB04-058\n2xEB01-055\n2xEB01-056\n2xOP14-110\n4xEB02-052\n4xOP14-104\n4xOP14-102\n4xOP14-111\n1xOP07-119\n4xOP15-113\n4xEB04-053\n4xOP11-106\n4xOP15-117\n4xEB01-059\n1xOP06-115"
+    },
+    {
+      "name": "Enel — MaxiFree (16)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-118\n1xOP15-060\n2xOP09-072\n4xOP15-061\n2xOP07-064\n3xOP15-066\n2xOP10-067\n3xOP15-067\n1xST10-010\n3xOP12-063\n1xOP13-076\n4xOP15-075\n2xOP05-077\n4xOP15-076\n4xOP15-077\n4xOP15-078\n2xOP15-074"
+    }
+  ]
+}

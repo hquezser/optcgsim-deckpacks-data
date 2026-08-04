@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "name": "OP16 26th July 2026 - Treasure Cup Sofia",
+  "author": "limitlesstcg-scraper",
+  "description": "Top 16 from \"OP16 26th July 2026 - Treasure Cup Sofia\" (region=all, time=6months). Scraped from https://onepiece.limitlesstcg.com/decks/lists. Source tournament: https://onepiece.limitlesstcg.com/tournaments/447",
+  "decks": [
+    {
+      "name": "Green/Blue Luffy — Gabi313 (1st)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP16-022\n4xOP16-034\n4xOP16-054\n4xOP16-055\n3xST30-014\n2xST12-010\n4xOP16-045\n4xOP16-056\n2xOP16-026\n4xOP16-048\n9xOP16-042\n1xOP15-032\n2xOP16-032\n1xOP02-068\n2xOP16-038\n1xOP12-037\n1xOP11-061\n2xOP06-058"
+    },
+    {
+      "name": "Black/Yellow Blackbeard — Klimczur (2nd)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP16-080\n4xOP16-109\n4xOP16-110\n1xOP09-095\n1xOP16-103\n4xOP09-086\n4xOP16-104\n3xOP12-112\n1xOP16-106\n4xEB04-058\n4xOP16-108\n4xOP16-119\n3xOP09-093\n4xOP09-096\n3xEB04-059\n2xOP16-116\n4xOP09-099"
+    },
+    {
+      "name": "Green/Blue Luffy — ΜΣΦΡ Feno (3rd)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP16-022\n4xOP16-034\n4xOP16-054\n4xOP16-055\n4xST30-014\n1xOP16-037\n2xST12-010\n4xOP16-045\n4xOP16-056\n2xOP16-026\n4xOP16-048\n8xOP16-042\n1xOP15-032\n2xOP16-032\n1xOP02-068\n2xOP16-038\n2xOP11-061\n1xOP06-058"
+    },
+    {
+      "name": "Purple/Yellow Rosinante — MaGe (4th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP12-061\n4xOP12-108\n4xOP16-064\n1xOP16-067\n4xP-088\n4xP-093\n3xST10-010\n2xOP16-068\n4xEB04-058\n4xEB04-038\n4xOP16-065\n4xOP15-078\n2xOP13-076\n4xOP12-115\n2xOP09-077\n4xOP16-078"
+    },
+    {
+      "name": "Blue/Yellow Nami — JoseVi (5th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP14-102\n3xOP11-106\n1xOP15-047\n4xOP14-110\n4xOP14-111\n3xOP16-056\n2xOP06-104\n2xOP16-104\n1xOP15-113\n4xEB03-053\n4xEB04-058\n2xOP14-108\n4xEB03-055\n4xOP14-104\n4xOP16-119\n2xOP06-058\n2xOP16-116"
+    },
+    {
+      "name": "Purple Enel — Sandro Kišur (6th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n2xOP15-066\n4xOP12-063\n2xOP09-072\n1xOP10-067\n4xOP15-118\n1xOP15-060\n4xOP15-074\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Blue/Yellow Nami — Ludox2 (7th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP14-102\n3xOP06-106\n3xOP11-106\n2xP-096\n4xOP14-110\n4xOP14-111\n4xOP16-056\n3xOP06-104\n1xOP15-113\n4xEB03-053\n4xEB04-058\n4xEB03-055\n4xOP14-104\n3xOP13-042\n3xOP06-058"
+    },
+    {
+      "name": "Blue/Yellow Nami — Imran Khan Jadoon (8th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP14-102\n3xOP11-106\n3xOP16-052\n2xOP06-106\n4xOP16-056\n3xOP06-104\n3xOP14-110\n3xOP14-111\n1xPRB02-008\n1xOP16-104\n4xEB03-053\n4xEB04-058\n2xOP14-108\n4xEB03-055\n4xOP14-104\n3xOP13-042\n1xEB04-061\n1xOP15-116"
+    },
+    {
+      "name": "Purple Enel — Juan Méndez Casado (9th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n4xOP15-071\n3xOP09-072\n2xOP12-063\n1xOP10-067\n4xOP15-118\n1xOP15-060\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n3xOP15-074\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Green/Purple Luffy — Doc. P (10th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xEB02-010\n4xEB02-017\n4xPRB02-012\n4xST18-001\n4xST18-004\n2xEB02-019\n2xOP14-031\n1xST30-012\n4xEB02-035\n2xOP13-027\n4xOP07-064\n1xEB02-061\n1xOP15-032\n4xOP15-078\n4xOP09-078\n2xOP12-037\n2xOP13-040\n2xOP08-036\n3xEB02-041"
+    },
+    {
+      "name": "Purple Enel — Georgios Karapiperis (11th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-066\n4xOP15-067\n4xOP12-063\n4xOP15-118\n4xOP15-074\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n2xOP13-076\n4xOP05-077"
+    },
+    {
+      "name": "Green/Blue Luffy — Luca Caré (12th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP16-022\n4xOP16-034\n4xOP16-054\n4xOP16-055\n3xST30-014\n4xST12-010\n4xOP16-045\n4xOP16-056\n4xOP16-048\n8xOP16-042\n1xOP15-032\n3xOP16-032\n1xOP02-068\n2xOP16-038\n1xOP12-037\n1xOP13-040\n1xOP11-061\n1xOP06-058"
+    },
+    {
+      "name": "Purple Enel — Gianluca Noviello (13th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n1xOP15-066\n4xOP12-063\n3xOP09-072\n1xST10-010\n2xOP10-067\n4xOP15-118\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n3xOP15-074\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Purple/Yellow Rosinante — Daniel Winkler (14th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP12-061\n4xOP12-108\n4xOP16-064\n4xP-088\n4xP-093\n3xST10-010\n1xOP16-068\n4xEB04-058\n2xOP15-114\n4xEB04-038\n4xOP16-065\n4xOP15-078\n2xOP13-076\n4xOP12-115\n2xOP09-077\n4xOP16-078"
+    },
+    {
+      "name": "Green/Blue Luffy — Bartosz Kosmacz (15th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP16-022\n4xOP16-034\n4xOP16-054\n4xOP16-055\n3xST30-014\n2xST12-010\n4xOP16-045\n4xOP16-056\n2xOP16-026\n4xOP16-048\n9xOP16-042\n1xOP15-032\n2xOP16-032\n1xOP02-068\n2xOP06-038\n2xOP16-038\n1xOP12-037\n1xOP11-061"
+    },
+    {
+      "name": "Green/Blue Luffy — Morscinho (16th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP16-022\n4xOP16-034\n4xOP16-054\n4xOP16-055\n3xST30-014\n4xOP16-045\n4xOP16-056\n3xOP16-026\n4xOP16-048\n9xOP16-042\n2xOP15-032\n3xOP16-032\n1xOP02-068\n2xOP16-038\n1xOP11-061\n2xOP06-058"
+    }
+  ]
+}

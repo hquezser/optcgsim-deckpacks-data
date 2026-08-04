@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "name": "ChinoizeCup #111 Monday",
+  "author": "chinoizecup-scraper",
+  "description": "Top 16 from \"ChinoizeCup #111 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/69259eb052eafbbc81177ff8",
+  "decks": [
+    {
+      "name": "Imu — Patpat (1)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2025"
+      ],
+      "text": "1xOP13-079\n4xOP13-082\n2xOP13-087\n3xOP13-092\n4xOP13-086\n4xOP05-082\n4xOP13-080\n4xOP13-083\n4xOP13-091\n4xOP13-084\n4xOP13-089\n1xOP11-097\n4xOP13-098\n4xOP13-096\n2xOP13-097\n1xOP05-097\n1xOP13-099"
+    },
+    {
+      "name": "Portgas.D.Ace — Jellybeanzs (2)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2025"
+      ],
+      "text": "1xOP13-002\n2xOP08-040\n2xOP06-047\n2xOP02-004\n4xOP13-042\n2xOP09-118\n4xST22-002\n4xOP08-047\n4xPRB02-008\n4xOP13-016\n4xOP13-043\n2xST15-004\n4xST23-001\n4xOP13-054\n3xOP04-056\n4xST22-015\n1xOP01-029"
+    },
+    {
+      "name": "Lim — Sbillo99 (3)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2025"
+      ],
+      "text": "1xOP09-022\n4xOP09-031\n4xOP10-029\n4xOP10-025\n4xOP09-037\n4xOP10-037\n1xOP02-085\n3xOP09-036\n4xOP10-033\n4xOP09-035\n4xOP09-027\n4xEB01-015\n4xOP13-028\n3xOP12-037\n2xOP02-089\n1xOP07-076"
+    },
+    {
+      "name": "Portgas.D.Ace — Felipe R (4)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2025"
+      ],
+      "text": "1xOP13-002\n2xOP08-040\n2xOP06-047\n2xOP02-004\n4xOP13-042\n2xOP09-118\n4xST22-002\n1xOP02-008\n4xOP08-047\n4xPRB02-008\n4xOP13-016\n4xOP13-043\n4xST15-004\n3xST23-001\n4xOP13-054\n2xOP04-056\n4xST22-015"
+    },
+    {
+      "name": "Portgas.D.Ace — erki (5)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2025"
+      ],
+      "text": "1xOP13-002\n2xOP08-040\n2xOP06-047\n2xOP02-004\n4xOP13-042\n2xOP09-118\n4xST22-002\n4xOP08-047\n4xPRB02-008\n4xOP13-016\n4xOP13-043\n2xST15-004\n4xST23-001\n4xOP13-054\n3xOP04-056\n4xST22-015\n1xOP01-029"
+    },
+    {
+      "name": "Portgas.D.Ace — bornax10 (6)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2025"
+      ],
+      "text": "1xOP13-002\n2xOP08-040\n2xOP06-047\n2xOP02-004\n1xOP08-043\n4xOP13-042\n2xOP09-118\n4xST22-002\n4xOP08-047\n4xPRB02-008\n4xOP13-016\n4xOP13-043\n2xST15-004\n4xST23-001\n4xOP13-054\n3xOP04-056\n4xST22-015"
+    },
+    {
+      "name": "Imu — Texxirloaded (7)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2025"
+      ],
+      "text": "1xOP13-079\n4xOP13-082\n3xOP13-087\n3xOP13-092\n4xOP13-086\n4xOP05-082\n4xOP13-080\n4xOP13-083\n4xOP13-091\n4xOP13-084\n4xOP13-089\n4xOP13-098\n4xOP13-096\n2xOP13-097\n1xOP05-097\n1xOP13-099"
+    },
+    {
+      "name": "Portgas.D.Ace — asce712 (8)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2025"
+      ],
+      "text": "1xOP13-002\n2xOP08-040\n2xOP06-047\n2xOP02-004\n4xOP13-042\n2xOP09-118\n4xST22-002\n4xOP08-047\n4xPRB02-008\n4xOP13-016\n4xOP13-043\n2xST15-004\n4xST23-001\n4xOP13-054\n3xOP04-056\n4xST22-015\n1xOP01-029"
+    },
+    {
+      "name": "Marshall.D.Teach — fuat (9)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2025"
+      ],
+      "text": "1xOP09-081\n4xOP11-083\n3xST27-002\n4xOP09-086\n4xOP10-082\n4xST27-003\n4xOP09-095\n3xOP09-093\n2xOP05-086\n1xOP10-086\n2xPRB02-015\n4xOP09-089\n3xOP09-098\n3xOP09-097\n1xOP10-098\n4xOP09-096\n4xOP09-099"
+    },
+    {
+      "name": "Imu — Simpiii (10)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2025"
+      ],
+      "text": "1xOP13-079\n4xOP13-082\n2xOP13-087\n3xOP13-092\n4xOP13-086\n4xOP05-082\n4xOP13-080\n4xOP13-083\n4xOP13-091\n4xOP13-084\n4xOP13-089\n1xOP11-097\n4xOP13-098\n4xOP13-096\n2xOP13-097\n1xOP05-097\n1xOP13-099"
+    },
+    {
+      "name": "Imu — Doctogone (11)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2025"
+      ],
+      "text": "1xOP13-079\n4xOP13-082\n2xOP13-087\n3xOP13-092\n4xOP13-086\n4xOP05-082\n4xOP13-080\n4xOP13-083\n4xOP13-091\n4xOP13-084\n4xOP13-089\n1xOP11-097\n4xOP13-098\n4xOP13-096\n2xOP13-097\n1xOP05-097\n1xOP13-099"
+    },
+    {
+      "name": "Portgas.D.Ace — Lexinator22 (12)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2025"
+      ],
+      "text": "1xOP13-002\n2xOP08-040\n2xOP06-047\n1xOP02-004\n4xOP13-042\n2xOP09-118\n4xST22-002\n2xOP03-003\n2xOP02-008\n4xOP08-047\n4xPRB02-008\n4xOP13-016\n4xOP13-043\n4xST23-001\n4xOP13-054\n3xOP04-056\n4xST22-015"
+    },
+    {
+      "name": "Lim — Dissonance075 (13)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2025"
+      ],
+      "text": "1xOP09-022\n1xP-078\n4xST05-014\n4xOP09-031\n4xOP10-029\n4xOP10-025\n4xOP09-037\n4xOP10-037\n3xOP02-085\n3xOP10-033\n3xOP09-035\n4xOP09-027\n4xOP13-028\n2xOP13-030\n3xOP12-037\n3xOP02-089"
+    },
+    {
+      "name": "Imu — Dennyyooo11 (14)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2025"
+      ],
+      "text": "1xOP13-079\n4xOP13-082\n2xOP13-087\n3xOP13-092\n4xOP13-086\n4xOP05-082\n4xOP13-080\n4xOP13-083\n4xOP13-091\n4xOP13-084\n4xOP13-089\n1xOP11-097\n4xOP13-098\n4xOP13-096\n2xOP13-097\n1xOP05-097\n1xOP13-099"
+    },
+    {
+      "name": "Monkey.D.Luffy — snorlax1cynda (15)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2025"
+      ],
+      "text": "1xOP13-001\n2xPRB02-004\n4xOP13-016\n4xOP13-118\n4xST01-007\n4xOP01-016\n2xEB02-017\n3xOP06-118\n4xOP13-027\n4xST21-003\n4xOP10-032\n2xOP10-011\n4xOP13-023\n4xOP05-038\n3xOP12-037\n2xEB02-021"
+    },
+    {
+      "name": "Sabo — Kibakoen (16)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2025"
+      ],
+      "text": "1xOP13-004\n4xOP05-015\n2xOP09-118\n4xOP12-089\n2xOP13-090\n4xOP12-086\n2xOP07-015\n3xOP12-094\n4xOP13-016\n4xOP12-093\n4xPRB02-014\n4xOP13-120\n3xOP07-085\n3xOP09-097\n3xOP12-098\n4xOP05-021"
+    }
+  ]
+}

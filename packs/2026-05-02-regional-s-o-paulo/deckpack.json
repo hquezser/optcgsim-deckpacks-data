@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "name": "OP15 2nd May 2026 - Regional São Paulo",
+  "author": "limitlesstcg-scraper",
+  "description": "Top 16 from \"OP15 2nd May 2026 - Regional São Paulo\" (region=Latin America, time=6months). Scraped from https://onepiece.limitlesstcg.com/decks/lists. Source tournament: https://onepiece.limitlesstcg.com/tournaments/399",
+  "decks": [
+    {
+      "name": "Blue/Yellow Nami — LGsus (1st)",
+      "tags": [
+        "meta",
+        "Latin America",
+        "op15",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP14-102\n4xOP11-106\n4xP-096\n1xOP15-047\n4xOP14-110\n4xOP14-111\n3xOP06-104\n2xOP12-112\n2xOP15-113\n4xEB03-053\n4xEB04-058\n2xOP14-108\n4xEB03-055\n4xOP14-104\n4xOP13-042"
+    },
+    {
+      "name": "Blue/Yellow Nami — PimentonAsado (2nd)",
+      "tags": [
+        "meta",
+        "Latin America",
+        "op15",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP14-102\n4xOP11-106\n4xP-096\n1xOP15-047\n4xOP14-111\n3xOP14-110\n2xOP06-104\n2xOP12-112\n2xOP15-113\n4xEB03-053\n4xEB04-058\n2xOP15-119\n4xEB03-055\n4xOP14-104\n3xOP13-042\n3xEB03-060"
+    },
+    {
+      "name": "Purple Enel — Matias Castro (3rd)",
+      "tags": [
+        "meta",
+        "Latin America",
+        "op15",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n1xOP15-066\n1xOP12-070\n3xOP09-072\n3xOP12-063\n1xOP10-067\n4xOP15-118\n3xOP07-064\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n2xOP15-074\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Purple Enel — Capt_Karoo (4th)",
+      "tags": [
+        "meta",
+        "Latin America",
+        "op15",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n2xOP15-066\n2xOP15-071\n4xOP12-063\n1xOP09-072\n2xOP10-067\n4xOP15-118\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n3xOP15-074\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Blue/Yellow Nami — Jose Luis Buezo (5th)",
+      "tags": [
+        "meta",
+        "Latin America",
+        "op15",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP14-102\n4xOP11-106\n4xP-096\n1xOP15-047\n4xOP06-104\n4xOP14-110\n4xOP14-111\n2xOP12-112\n2xOP15-113\n4xEB03-053\n4xEB04-058\n1xOP15-119\n4xEB03-055\n4xOP14-104\n4xOP13-042"
+    },
+    {
+      "name": "Purple Enel — Néstor Iván Rivera Espinosa (6th)",
+      "tags": [
+        "meta",
+        "Latin America",
+        "op15",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n2xOP15-066\n4xOP12-063\n2xOP09-072\n1xOP10-067\n4xOP15-118\n2xOP07-064\n1xOP15-060\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n2xOP15-074\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Purple Enel — foca (7th)",
+      "tags": [
+        "meta",
+        "Latin America",
+        "op15",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n4xOP12-063\n2xST10-010\n2xOP09-072\n2xOP10-067\n4xOP15-118\n1xOP07-064\n1xOP15-060\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n2xOP15-074\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Purple Enel — Dutinho1209 (8th)",
+      "tags": [
+        "meta",
+        "Latin America",
+        "op15",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n3xOP09-072\n3xOP12-063\n2xST10-010\n2xOP10-067\n4xOP15-118\n1xOP07-064\n1xOP15-060\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n2xOP15-074\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Purple Enel — Alexander Gonzalez (9th)",
+      "tags": [
+        "meta",
+        "Latin America",
+        "op15",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n1xOP15-066\n2xOP15-071\n4xOP12-063\n1xOP09-072\n2xOP10-067\n4xOP15-118\n4xOP15-074\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Purple Enel — Sam Martinez (10th)",
+      "tags": [
+        "meta",
+        "Latin America",
+        "op15",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n1xOP15-066\n2xOP15-071\n4xOP12-063\n1xOP09-072\n2xOP10-067\n4xOP15-118\n4xOP15-074\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Purple Enel — Elijah Quinby (11th)",
+      "tags": [
+        "meta",
+        "Latin America",
+        "op15",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n1xOP15-066\n2xOP15-071\n4xOP12-063\n1xOP09-072\n2xOP10-067\n4xOP15-118\n4xOP15-074\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Purple Enel — Luka Forjan (12th)",
+      "tags": [
+        "meta",
+        "Latin America",
+        "op15",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-066\n3xOP15-071\n3xOP09-072\n3xOP12-063\n3xOP10-067\n4xOP15-118\n2xOP07-064\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Red/Blue Ace — Windalf (13th)",
+      "tags": [
+        "meta",
+        "Latin America",
+        "op15",
+        "2026"
+      ],
+      "text": "1xOP13-002\n4xST22-002\n4xOP13-016\n4xOP13-043\n2xST15-004\n4xPRB02-008\n2xOP08-040\n4xOP13-054\n4xOP08-047\n4xST23-001\n2xOP07-051\n1xOP13-046\n3xEB04-007\n4xOP13-042\n1xOP09-118\n1xP-097\n2xEB04-008\n4xST22-015"
+    },
+    {
+      "name": "Purple Enel — João Pedro Medeiros Zambrano (14th)",
+      "tags": [
+        "meta",
+        "Latin America",
+        "op15",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n4xOP12-063\n2xST10-010\n2xOP09-072\n2xOP10-067\n4xOP15-118\n1xOP07-064\n1xOP15-060\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n2xOP15-074\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Green Mihawk — Arkros (15th)",
+      "tags": [
+        "meta",
+        "Latin America",
+        "op15",
+        "2026"
+      ],
+      "text": "1xOP14-020\n4xOP12-034\n4xOP15-035\n4xST24-002\n4xPRB02-006\n3xOP07-026\n3xOP14-033\n2xOP10-030\n2xOP12-118\n3xOP13-031\n2xOP14-119\n3xST24-004\n3xOP06-038\n3xOP13-040\n2xOP12-037\n4xOP08-036\n4xOP14-039"
+    },
+    {
+      "name": "Red/Green Luffy — LuffyCapoeira (16th)",
+      "tags": [
+        "meta",
+        "Latin America",
+        "op15",
+        "2026"
+      ],
+      "text": "1xOP13-001\n4xOP13-016\n4xOP15-035\n4xEB04-002\n2xST21-003\n4xOP14-022\n4xOP14-031\n4xOP13-027\n3xOP13-118\n3xOP15-032\n3xEB04-007\n3xOP13-040\n1xOP12-037\n4xOP05-038\n4xOP08-036\n3xEB02-021"
+    }
+  ]
+}

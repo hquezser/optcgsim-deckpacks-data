@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "name": "ChinoizeCup #69 Wednesday",
+  "author": "chinoizecup-scraper",
+  "description": "Top 16 from \"ChinoizeCup #69 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a21370c47f3797bf6bab668",
+  "decks": [
+    {
+      "name": "Luffy & Ace — kevyzhou (1)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xST30-001\n2xOP15-032\n2xST30-003\n4xST30-004\n4xST30-002\n2xOP12-118\n2xOP07-026\n4xST30-005\n4xOP16-015\n4xST30-012\n4xST30-014\n4xOP16-118\n3xP-119\n4xOP13-031\n4xST30-016\n3xOP08-036"
+    },
+    {
+      "name": "Donquixote Rosinante — GoroseiBest (2)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP12-061\n4xEB04-058\n2xOP12-108\n4xOP16-064\n4xEB04-038\n4xOP16-065\n2xOP16-068\n3xST10-010\n4xP-093\n4xP-088\n1xEB03-062\n4xOP10-114\n3xOP09-077\n3xOP12-115\n4xOP15-078\n4xOP16-078"
+    },
+    {
+      "name": "Marshall.D.Teach — fuat (3)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP16-080\n1xOP14-112\n4xEB04-058\n4xOP16-104\n4xOP16-109\n4xOP09-086\n4xOP16-119\n3xOP09-093\n3xOP16-106\n4xOP16-108\n3xOP16-103\n4xOP16-110\n2xOP15-114\n4xOP09-096\n2xOP16-116\n4xOP09-099"
+    },
+    {
+      "name": "Monkey.D.Luffy — tinnoy (4)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xEB02-010\n2xOP15-032\n2xEB02-061\n2xST30-012\n4xEB02-017\n2xOP14-031\n4xPRB02-012\n2xP-111\n4xOP07-064\n4xEB02-035\n4xST18-001\n4xST18-004\n3xOP08-036\n4xOP09-078\n1xEB02-021\n1xOP16-039\n4xOP15-078\n1xOP05-076\n2xEB02-041"
+    },
+    {
+      "name": "Koby — Serifisss (5)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-001\n4xOP13-007\n2xOP11-082\n4xOP11-008\n4xEB04-047\n4xOP11-092\n4xEB03-008\n4xPRB02-001\n4xEB04-044\n4xOP11-004\n3xEB03-041\n4xOP11-096\n1xEB04-003\n2xOP11-097\n2xOP11-018\n4xOP11-099"
+    },
+    {
+      "name": "Luffy & Ace — Pacio23 (6)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xST30-001\n4xST30-004\n4xST30-002\n4xST30-005\n4xST30-012\n4xST21-014\n4xST30-014\n4xOP16-118\n4xST15-005\n4xOP10-005\n4xOP13-031\n4xST30-016\n2xOP12-037\n2xOP13-040\n2xOP16-021"
+    },
+    {
+      "name": "Enel — ReydelosPiratas (7)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n3xOP15-118\n4xOP09-072\n4xOP15-061\n2xEB04-038\n2xOP10-067\n4xOP15-067\n3xOP12-063\n1xOP13-076\n4xOP15-075\n4xOP05-077\n4xOP15-076\n4xOP15-077\n4xOP15-078\n3xOP15-074"
+    },
+    {
+      "name": "Boa Hancock — volkiso (8)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-041\n4xOP12-119\n4xOP14-112\n4xST17-004\n4xOP16-113\n4xOP16-111\n4xEB04-058\n4xOP14-105\n4xOP06-106\n4xOP16-119\n4xOP14-114\n4xOP14-107\n2xOP07-057\n2xOP07-056\n2xOP14-118"
+    },
+    {
+      "name": "Marshall.D.Teach — igordiasr (9)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP16-080\n2xOP14-112\n4xEB04-058\n4xOP16-104\n4xOP16-109\n4xOP09-086\n4xOP16-119\n4xOP09-093\n3xOP16-106\n4xOP16-108\n3xOP16-103\n4xOP16-110\n4xOP09-096\n2xOP16-116\n4xOP09-099"
+    },
+    {
+      "name": "Donquixote Rosinante — asce712 (10)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP12-061\n4xEB04-058\n3xOP12-108\n4xOP16-064\n4xEB04-038\n4xOP16-065\n3xOP16-068\n4xST10-010\n4xP-093\n4xP-088\n3xOP10-114\n3xOP09-077\n3xOP12-115\n4xOP15-078\n3xOP16-078"
+    },
+    {
+      "name": "Marshall.D.Teach — Polishh00 (11)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP16-080\n4xEB04-058\n4xOP16-104\n4xOP16-109\n4xOP09-086\n4xOP16-119\n3xOP09-093\n4xOP16-106\n4xOP16-108\n4xOP16-103\n4xOP16-110\n1xOP15-114\n1xOP16-115\n4xOP09-096\n2xOP16-116\n3xOP09-099"
+    },
+    {
+      "name": "Kalgara — BMKid (12)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP08-098\n4xEB04-058\n2xOP08-099\n4xOP12-099\n4xOP15-101\n3xOP15-119\n4xOP08-109\n3xEB03-053\n4xOP15-108\n2xOP15-113\n3xOP12-114\n4xOP08-110\n4xOP15-114\n2xOP11-106\n2xOP08-115\n1xOP06-115\n4xOP05-117"
+    },
+    {
+      "name": "Donquixote Rosinante — GreenD (13)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP12-061\n4xEB04-058\n4xOP12-108\n4xOP16-064\n4xEB04-038\n3xOP16-065\n2xOP16-068\n2xST10-010\n4xP-093\n4xP-088\n2xEB03-062\n2xOP16-067\n2xOP10-114\n1xOP13-076\n4xOP12-115\n4xOP15-078\n2xOP07-076\n2xOP16-078"
+    },
+    {
+      "name": "Nami — Timaeh (14)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-041\n2xOP12-112\n4xEB04-058\n4xOP14-110\n3xOP13-042\n4xOP14-104\n4xOP06-104\n4xOP14-102\n2xPRB02-008\n3xOP16-119\n4xOP16-052\n4xEB03-053\n4xEB03-055\n4xOP14-111\n4xOP11-106"
+    },
+    {
+      "name": "Marshall.D.Teach — xomnietrek (15)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP16-080\n2xOP12-112\n4xOP16-104\n4xOP16-109\n4xOP09-095\n4xOP16-119\n4xOP09-093\n4xOP16-106\n4xOP16-108\n2xPRB02-015\n4xOP16-103\n4xOP16-110\n1xOP16-115\n2xOP09-096\n3xOP16-116\n4xOP09-099"
+    },
+    {
+      "name": "Lucy — Invictus (16)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-002\n3xOP15-014\n3xOP10-045\n1xOP09-118\n4xOP15-052\n4xOP15-053\n4xOP15-046\n4xOP15-040\n2xOP15-054\n2xOP15-019\n4xOP10-060\n4xOP15-020\n2xOP05-019\n1xOP10-059\n4xOP15-055\n4xOP15-021\n2xOP15-056\n2xOP15-057"
+    }
+  ]
+}

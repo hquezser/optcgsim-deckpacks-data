@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "name": "ChinoizeCup #39 Wednesday",
+  "author": "chinoizecup-scraper",
+  "description": "Top 16 from \"ChinoizeCup #39 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/69c56371d478313a15a33217",
+  "decks": [
+    {
+      "name": "Monkey.D.Luffy — Adimski (1)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-001\n2xOP15-032\n4xEB04-002\n4xOP13-016\n4xOP13-118\n3xEB02-017\n4xOP14-031\n3xP-111\n4xEB04-007\n4xST21-003\n4xOP13-027\n4xOP14-022\n4xOP05-038\n4xOP08-036\n2xOP13-040"
+    },
+    {
+      "name": "Enel — Wortaxx (2)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-060\n4xOP15-118\n4xOP15-071\n1xOP07-073\n4xOP15-061\n4xOP15-066\n2xST10-010\n2xOP13-076\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n2xOP07-076\n3xOP15-074"
+    },
+    {
+      "name": "Kalgara — BMKid (3)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP08-098\n4xEB04-058\n2xOP15-105\n4xOP08-099\n4xOP12-099\n4xOP15-101\n4xOP08-109\n4xOP15-108\n3xEB03-053\n2xOP15-113\n4xOP05-106\n4xOP12-114\n4xOP15-114\n2xOP08-110\n2xEB01-059\n1xOP06-115\n2xOP05-117"
+    },
+    {
+      "name": "Monkey.D.Luffy — tinnoy (4)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xEB02-010\n3xOP15-032\n2xOP13-118\n2xEB02-061\n4xPRB02-012\n4xEB02-017\n1xOP14-031\n3xP-111\n4xOP07-064\n4xEB02-035\n4xST18-001\n4xST18-004\n2xOP12-037\n1xOP13-076\n3xOP08-036\n4xOP09-078\n1xEB02-021\n2xOP15-078\n2xEB02-041"
+    },
+    {
+      "name": "Monkey.D.Luffy — CDCe (5)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-040\n2xOP14-069\n3xOP10-071\n4xOP10-072\n4xP-107\n4xEB01-061\n4xOP11-054\n4xOP13-043\n2xOP15-047\n4xOP06-119\n4xST18-001\n4xOP11-080\n4xOP09-078\n3xOP08-076\n4xOP14-077"
+    },
+    {
+      "name": "Nami — Gringoloco (6)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP12-112\n4xEB04-058\n4xOP14-110\n2xOP13-042\n4xOP14-104\n3xP-096\n4xOP06-104\n1xOP06-106\n2xOP14-102\n1xPRB02-008\n4xEB03-053\n4xEB03-055\n4xOP14-111\n1xOP15-113\n1xOP15-047\n3xOP11-106\n4xEB03-060"
+    },
+    {
+      "name": "Gecko Moria — Mangobrot (7)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-080\n4xOP14-100\n4xOP14-112\n4xOP06-090\n4xOP14-110\n4xOP15-084\n4xOP14-104\n4xPRB02-013\n4xOP14-102\n4xOP13-113\n4xOP14-111\n3xOP15-113\n2xOP14-089\n4xOP06-091\n1xOP14-109"
+    },
+    {
+      "name": "Dracule Mihawk — Pixsci (8)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-020\n4xOP08-023\n2xOP14-119\n3xOP07-026\n4xST02-007\n3xOP12-118\n3xOP01-039\n4xOP15-035\n4xST24-004\n4xOP12-034\n4xPRB02-006\n4xOP14-027\n2xOP10-030\n2xOP12-037\n3xOP08-036\n1xOP13-040\n3xOP06-038"
+    },
+    {
+      "name": "Monkey.D.Luffy — ricmasterflash (9)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-001\n1xOP15-032\n4xEB04-002\n3xOP15-035\n4xOP13-016\n3xOP13-118\n3xOP14-034\n4xOP01-016\n4xOP14-031\n1xOP06-118\n3xEB04-007\n4xOP13-027\n2xST21-003\n4xOP14-022\n3xOP05-038\n1xOP12-037\n4xOP08-036\n2xOP13-040"
+    },
+    {
+      "name": "Enel — TotoRambo (10)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP15-060\n4xOP15-118\n4xOP10-075\n4xOP15-071\n4xOP15-061\n4xOP07-072\n4xOP15-066\n4xOP15-067\n2xOP13-076\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078"
+    },
+    {
+      "name": "Lucy — Solmyr (11)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-002\n2xOP05-015\n4xOP10-045\n1xOP09-118\n2xOP05-006\n4xOP15-052\n4xOP15-053\n4xOP15-046\n4xOP15-040\n4xOP15-054\n4xOP10-060\n4xOP15-020\n3xOP05-019\n2xOP10-059\n4xOP15-021\n2xOP15-056\n2xOP15-057"
+    },
+    {
+      "name": "Lucy — Dietmarholzer (12)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-002\n4xOP05-015\n4xOP10-045\n1xOP09-118\n2xOP15-052\n4xOP15-053\n4xOP15-046\n4xOP10-049\n4xOP15-040\n4xOP15-054\n4xOP10-060\n4xOP15-020\n3xOP05-019\n2xOP10-059\n4xOP15-021\n2xOP15-057"
+    },
+    {
+      "name": "Enel — Simpiii (13)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n3xOP15-060\n4xOP15-118\n3xOP10-075\n2xST10-011\n4xOP15-071\n4xOP15-061\n4xOP07-072\n4xOP15-066\n4xOP15-067\n2xOP13-076\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078"
+    },
+    {
+      "name": "Portgas.D.Ace — lonotus (14)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-002\n3xOP07-051\n2xOP10-045\n1xOP08-043\n4xOP13-042\n1xOP09-118\n4xST22-002\n4xOP08-047\n3xOP08-044\n4xPRB02-008\n4xOP13-016\n4xOP13-043\n4xEB04-007\n2xST23-001\n4xOP13-054\n2xEB04-008\n4xST22-015"
+    },
+    {
+      "name": "Roronoa Zoro — 47Emre (15)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP12-020\n4xOP15-023\n4xEB01-012\n4xOP15-027\n4xST12-003\n4xOP12-028\n2xOP12-026\n4xOP15-035\n4xOP12-034\n4xOP13-037\n4xOP12-031\n4xOP13-031\n4xOP08-036\n4xOP12-039"
+    },
+    {
+      "name": "Monkey.D.Luffy — snorlax1cynda (16)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xST10-002\n4xP-107\n4xOP13-016\n4xEB01-061\n4xOP01-016\n4xEB04-007\n4xST21-003\n3xOP09-004\n3xST10-010\n4xST18-001\n4xOP05-067\n4xOP09-078\n4xOP08-076\n4xOP15-077"
+    }
+  ]
+}

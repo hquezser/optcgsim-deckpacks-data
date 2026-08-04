@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "name": "OP16 25th July 2026 - Regional Puebla",
+  "author": "limitlesstcg-scraper",
+  "description": "Top 16 from \"OP16 25th July 2026 - Regional Puebla\" (region=all, time=6months). Scraped from https://onepiece.limitlesstcg.com/decks/lists. Source tournament: https://onepiece.limitlesstcg.com/tournaments/436",
+  "decks": [
+    {
+      "name": "Green/Blue Luffy — Joshua Graham (1st)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP16-022\n4xOP16-034\n4xOP16-054\n4xOP16-055\n2xST30-014\n2xST12-010\n4xOP16-045\n4xOP16-056\n2xOP16-026\n4xOP16-048\n9xOP16-042\n1xOP15-032\n2xOP16-032\n1xOP02-068\n2xOP06-038\n2xOP16-038\n1xOP12-037\n2xOP06-058"
+    },
+    {
+      "name": "Blue/Yellow Nami — Alejandro Villalobos (2nd)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP14-102\n3xOP11-106\n4xOP14-110\n4xOP14-111\n4xOP16-056\n3xOP06-104\n3xOP12-112\n1xPRB02-008\n1xOP15-113\n4xEB03-053\n4xEB04-058\n1xOP15-114\n4xEB03-055\n4xOP14-104\n2xOP16-119\n3xOP13-042\n1xOP06-058"
+    },
+    {
+      "name": "Blue/Yellow Nami — Gilbert (3rd)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP14-102\n3xOP06-106\n3xOP11-106\n3xOP12-112\n3xOP14-110\n3xOP14-111\n3xOP16-056\n2xOP06-104\n2xPRB02-008\n2xOP15-113\n4xEB03-053\n4xEB04-058\n1xOP15-119\n4xEB03-055\n4xOP14-104\n3xOP13-042\n2xOP06-058"
+    },
+    {
+      "name": "Purple Enel — Matias Castro (4th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n2xOP15-066\n3xOP12-063\n2xOP09-072\n1xST10-010\n1xOP10-067\n4xOP15-118\n1xOP15-060\n4xOP15-074\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Purple Enel — Néstor Iván Rivera Espinosa (5th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n2xOP15-066\n4xOP12-063\n2xOP09-072\n1xOP10-067\n4xOP15-118\n1xOP15-060\n4xOP15-074\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Purple Enel — Capt_Karoo (6th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n2xOP15-066\n4xOP12-063\n2xOP09-072\n2xOP10-067\n4xOP15-118\n4xOP15-074\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Purple/Yellow Rosinante — Tlapaleria EL ROTOMARTILLO (7th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP12-061\n4xOP16-064\n3xOP12-108\n2xOP16-067\n4xP-088\n4xP-093\n3xST10-010\n4xEB04-058\n4xEB04-038\n4xOP16-065\n1xEB03-062\n4xOP15-078\n2xOP13-076\n4xOP12-115\n2xOP09-077\n1xOP07-076\n4xOP16-078"
+    },
+    {
+      "name": "Purple Enel — GutyXD (8th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n1xOP15-066\n4xOP12-063\n3xOP09-072\n1xOP10-067\n4xOP15-118\n1xOP07-064\n1xOP15-060\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n3xOP15-074\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Black/Yellow Blackbeard — GABWONG [WL] (9th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP16-080\n4xOP16-109\n4xOP16-110\n1xOP16-103\n4xOP12-112\n4xOP16-104\n3xOP09-086\n2xOP16-106\n3xEB04-058\n2xOP15-114\n4xOP16-108\n4xOP16-119\n1xOP14-112\n4xOP09-093\n3xOP09-096\n1xOP16-115\n2xOP16-116\n4xOP09-099"
+    },
+    {
+      "name": "Blue/Yellow Nami — Alexis Romero Soto (10th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP14-102\n3xOP06-106\n3xOP11-106\n4xOP14-110\n4xOP14-111\n3xOP16-056\n2xOP06-104\n2xOP15-113\n4xEB03-053\n4xEB04-058\n3xOP14-108\n4xEB03-055\n4xOP14-104\n3xOP16-119\n3xOP13-042"
+    },
+    {
+      "name": "Blue/Yellow Nami — Manuel Alejandro Canul Basto (11th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP14-102\n4xOP11-106\n4xOP14-110\n4xOP14-111\n4xOP16-056\n3xOP06-104\n3xOP12-112\n1xPRB02-008\n1xOP15-113\n4xEB03-053\n4xEB04-058\n1xOP15-119\n4xEB03-055\n4xOP14-104\n3xOP13-042\n2xOP06-058"
+    },
+    {
+      "name": "Purple Enel — Sam Martinez (12th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-061\n4xOP15-067\n2xOP15-066\n4xOP12-063\n2xOP09-072\n2xOP10-067\n4xOP15-118\n4xOP15-074\n4xOP15-075\n4xOP15-076\n4xOP15-077\n4xOP15-078\n1xOP13-076\n3xOP05-077"
+    },
+    {
+      "name": "Black/Yellow Blackbeard — Chakal (13th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP16-080\n4xOP16-110\n3xOP16-109\n2xOP09-095\n1xOP16-103\n4xOP12-112\n4xOP16-104\n3xOP09-086\n2xOP16-106\n4xEB04-058\n2xOP15-114\n4xOP16-108\n4xOP16-119\n4xOP09-093\n2xOP09-096\n1xOP16-115\n2xOP16-116\n4xOP09-099"
+    },
+    {
+      "name": "Blue/Yellow Nami — Santiago (14th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP14-102\n3xOP11-106\n4xOP12-112\n4xOP14-110\n4xOP14-111\n4xOP16-056\n3xOP06-104\n2xPRB02-008\n1xOP15-113\n4xEB03-053\n4xEB04-058\n3xEB03-055\n4xOP14-104\n3xOP13-042\n3xOP06-058"
+    },
+    {
+      "name": "Green/Blue Luffy — Aijao 13 (15th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP16-022\n4xOP16-034\n4xOP16-054\n4xOP16-055\n3xST30-014\n4xOP16-045\n4xOP16-056\n3xOP16-026\n4xOP16-048\n8xOP16-042\n1xOP15-032\n3xOP16-032\n1xOP02-068\n3xEB01-028\n2xOP16-038\n2xOP06-058"
+    },
+    {
+      "name": "Blue/Yellow Nami — UDT RichL (16th)",
+      "tags": [
+        "meta",
+        "all",
+        "op16",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP14-102\n4xOP11-106\n4xP-096\n4xOP12-112\n4xOP14-110\n4xOP14-111\n2xPRB02-008\n1xOP15-113\n4xEB03-053\n4xEB04-058\n1xOP15-119\n4xEB03-055\n3xOP14-104\n2xOP16-119\n4xOP13-042\n1xOP06-058"
+    }
+  ]
+}

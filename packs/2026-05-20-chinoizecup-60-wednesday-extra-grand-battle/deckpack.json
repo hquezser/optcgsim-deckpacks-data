@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "name": "ChinoizeCup #60 Wednesday EXTRA GRAND BATTLE",
+  "author": "chinoizecup-scraper",
+  "description": "Top 16 from \"ChinoizeCup #60 Wednesday EXTRA GRAND BATTLE\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a05ad7cdfbdf089cbbd9f97",
+  "decks": [
+    {
+      "name": "Monkey.D.Luffy — Gefen H (1)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-001\n3xOP15-032\n4xEB04-002\n4xOP15-035\n4xOP13-016\n4xOP13-118\n2xEB02-017\n4xOP14-031\n4xEB04-007\n2xST21-003\n4xOP13-027\n4xOP14-022\n4xOP05-038\n1xOP12-037\n2xOP08-036\n4xOP01-027"
+    },
+    {
+      "name": "Enel — ReydelosPiratas (2)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-118\n2xOP09-072\n4xOP15-061\n1xOP15-066\n2xOP10-067\n4xOP15-067\n2xST10-010\n4xOP12-063\n2xOP13-076\n4xOP15-075\n3xOP05-077\n4xOP15-076\n4xOP15-077\n4xOP15-078\n2xOP15-074"
+    },
+    {
+      "name": "Monkey.D.Luffy — Frodon (3)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-001\n2xOP15-032\n4xEB04-002\n4xOP15-035\n4xOP13-016\n4xOP13-118\n4xOP14-031\n2xEB04-007\n3xOP13-037\n4xOP13-027\n2xST21-003\n4xOP13-028\n4xOP14-022\n4xOP05-038\n1xOP12-037\n4xOP08-036"
+    },
+    {
+      "name": "Enel — Patpat (4)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-118\n3xOP09-072\n4xOP15-061\n2xOP15-066\n2xOP10-067\n4xOP15-067\n4xOP12-063\n1xOP13-076\n4xOP15-075\n3xOP05-077\n4xOP15-076\n4xOP15-077\n4xOP15-078\n3xOP15-074"
+    },
+    {
+      "name": "Nami — SaBR (5)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP12-112\n4xEB04-058\n3xOP13-042\n3xOP10-112\n4xP-096\n2xPRB02-008\n4xOP15-119\n4xEB03-053\n4xEB03-055\n3xOP15-113\n2xOP10-049\n2xOP15-047\n4xOP14-108\n4xOP11-106\n3xOP04-056"
+    },
+    {
+      "name": "Enel — Seraim (6)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-118\n3xOP09-072\n1xOP15-071\n4xOP15-061\n2xOP10-067\n4xOP15-067\n1xST10-010\n3xOP12-063\n2xOP13-076\n4xOP15-075\n3xOP05-077\n4xOP15-076\n4xOP15-077\n4xOP15-078\n3xOP15-074"
+    },
+    {
+      "name": "Monkey.D.Luffy — Launus (7)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-098\n4xEB04-058\n2xEB02-052\n2xOP05-102\n4xOP12-099\n4xOP15-119\n4xOP15-108\n4xOP15-109\n4xST29-009\n4xOP15-113\n2xOP05-105\n4xOP05-106\n4xOP15-114\n4xOP11-106\n4xOP15-116"
+    },
+    {
+      "name": "Enel — lordRafa (8)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-118\n1xOP09-072\n3xOP02-085\n4xOP15-061\n2xOP10-067\n4xOP15-067\n1xST10-010\n4xOP12-063\n2xOP13-076\n4xOP15-075\n3xOP05-077\n4xOP15-076\n4xOP15-077\n4xOP15-078\n2xOP15-074"
+    },
+    {
+      "name": "Portgas.D.Ace — asce712 (9)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-002\n2xOP08-040\n3xOP07-051\n4xOP13-042\n2xOP09-118\n4xST22-002\n4xOP08-047\n1xOP02-008\n4xPRB02-008\n4xOP13-016\n4xOP13-043\n3xEB04-007\n4xST23-001\n4xOP13-054\n2xOP04-056\n4xST22-015\n1xOP01-027"
+    },
+    {
+      "name": "Lucy — igordiasr (10)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-002\n3xOP15-014\n3xOP10-045\n1xOP09-118\n4xOP15-052\n4xOP15-053\n4xOP15-046\n4xOP15-040\n4xOP15-054\n4xOP10-060\n2xOP05-019\n4xOP15-020\n4xOP15-055\n4xOP15-021\n3xOP15-056\n2xOP15-057"
+    },
+    {
+      "name": "Enel — Ninja1k (11)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-118\n3xOP09-072\n4xOP15-061\n1xOP15-066\n2xOP10-067\n4xOP15-067\n4xOP12-063\n2xST04-016\n1xOP13-076\n4xOP15-075\n3xOP05-077\n4xOP15-076\n4xOP15-077\n4xOP15-078\n2xOP15-074"
+    },
+    {
+      "name": "Monkey.D.Luffy — Makima (12)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-040\n1xOP07-051\n1xOP10-072\n3xOP01-070\n4xP-107\n4xEB01-061\n4xOP11-054\n4xOP13-043\n4xOP06-119\n4xST18-001\n4xOP11-080\n4xOP09-078\n2xOP04-056\n4xOP08-076\n3xOP15-078\n4xOP01-119"
+    },
+    {
+      "name": "Enel — Kazzer (13)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n3xOP15-118\n3xOP09-072\n3xOP02-085\n4xOP15-061\n2xOP10-067\n4xOP15-067\n4xOP12-063\n2xOP13-076\n4xOP15-075\n2xOP05-077\n4xOP15-076\n4xOP15-077\n4xOP15-078\n3xOP15-074"
+    },
+    {
+      "name": "Monkey.D.Luffy — Karstinen (14)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-098\n4xEB04-058\n4xOP04-100\n2xEB02-052\n4xOP12-099\n4xOP15-119\n4xOP15-108\n4xST29-009\n4xOP15-109\n4xOP15-113\n4xOP05-106\n4xOP15-114\n4xOP11-106\n4xOP15-116"
+    },
+    {
+      "name": "Nami — Yuree (15)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-041\n2xOP12-112\n4xEB04-058\n4xOP14-110\n2xOP01-070\n3xOP13-042\n4xOP14-104\n4xP-096\n2xOP06-104\n4xOP14-102\n1xPRB02-008\n4xEB03-053\n4xEB03-055\n4xOP14-111\n1xOP15-113\n4xOP11-106\n3xOP04-056"
+    },
+    {
+      "name": "Portgas.D.Ace — GoroseiBest (16)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-002\n2xOP08-040\n2xOP07-051\n1xOP08-043\n4xOP13-042\n1xOP09-118\n4xOP03-003\n3xOP08-047\n2xOP02-008\n4xPRB02-008\n4xOP13-016\n4xOP13-043\n3xEB04-007\n3xST23-001\n1xOP13-046\n4xOP13-054\n2xOP04-056\n4xST22-015\n2xOP01-027"
+    }
+  ]
+}

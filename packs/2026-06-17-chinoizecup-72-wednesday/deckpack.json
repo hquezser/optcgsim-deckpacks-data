@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "name": "ChinoizeCup #72 Wednesday",
+  "author": "chinoizecup-scraper",
+  "description": "Top 16 from \"ChinoizeCup #72 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a290f27e334c3c9befd2ddb",
+  "decks": [
+    {
+      "name": "Foxy — maat201 (1)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP07-059\n4xEB04-036\n4xOP07-071\n3xOP10-075\n4xOP07-065\n2xEB04-033\n4xOP07-060\n1xOP07-074\n4xEB01-061\n4xOP15-069\n4xOP07-072\n4xEB04-037\n4xOP07-066\n2xOP13-076\n2xOP15-078\n2xOP07-078\n2xOP07-076"
+    },
+    {
+      "name": "Monkey.D.Luffy — Ccopie (2)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-001\n2xOP15-032\n4xEB04-002\n4xOP15-035\n4xOP13-016\n4xOP13-118\n4xOP14-031\n4xEB04-007\n4xOP13-027\n3xOP13-028\n4xOP10-011\n4xOP14-022\n4xOP05-038\n4xOP08-036\n1xOP13-040"
+    },
+    {
+      "name": "Marshall.D.Teach — prootipie (4)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP16-080\n4xOP14-112\n4xEB04-058\n4xOP16-104\n4xOP16-109\n3xOP16-107\n4xOP09-086\n3xOP09-093\n4xOP16-119\n4xOP16-106\n4xOP16-108\n4xOP16-110\n2xOP09-096\n2xOP16-116\n4xOP09-099"
+    },
+    {
+      "name": "Monkey.D.Luffy — Patpat (5)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP16-022\n3xOP16-032\n1xOP15-032\n4xOP16-048\n4xOP16-045\n1xST30-010\n3xOP16-026\n2xOP16-027\n4xOP16-034\n1xST30-012\n4xOP16-054\n4xOP16-055\n2xST30-014\n4xOP16-056\n8xOP16-042\n2xOP08-036\n1xOP13-040\n2xOP16-038"
+    },
+    {
+      "name": "Nami — Legandes (6)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xEB04-058\n4xOP14-110\n2xOP13-042\n4xOP14-104\n3xP-096\n3xOP06-104\n3xOP06-106\n4xOP14-102\n2xPRB02-008\n3xOP16-056\n4xEB03-053\n4xEB03-055\n4xOP14-111\n1xOP15-113\n3xOP11-106\n2xOP06-058"
+    },
+    {
+      "name": "Yamato — Yuree (7)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP16-079\n4xOP16-082\n4xOP16-084\n3xOP16-085\n2xOP16-095\n2xOP15-092\n4xOP16-091\n4xOP16-092\n2xOP16-086\n2xOP16-088\n4xOP16-087\n4xOP16-098\n4xOP16-096\n4xOP16-097\n3xOP14-096\n4xOP16-099"
+    },
+    {
+      "name": "Luffy & Ace — snorlax1cynda (8)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xST30-001\n2xOP15-032\n4xOP12-002\n4xST30-004\n4xST30-002\n2xOP12-118\n2xOP07-026\n4xST30-012\n4xST30-014\n3xOP14-033\n2xST30-007\n4xOP16-118\n4xOP13-031\n4xST30-016\n1xOP12-037\n3xOP08-036\n3xOP16-021"
+    },
+    {
+      "name": "Luffy & Ace — kevyzhou (9)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xST30-001\n2xOP15-032\n2xST30-003\n4xST30-004\n4xST30-002\n2xOP07-026\n2xOP12-118\n4xST30-005\n4xOP16-015\n4xST30-012\n4xST30-014\n2xOP14-033\n4xOP16-118\n1xP-119\n4xOP13-031\n4xST30-016\n3xOP08-036"
+    },
+    {
+      "name": "Sabo — lorne (10)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xST13-001\n4xOP12-112\n4xOP16-104\n4xOP14-110\n4xOP14-104\n4xOP06-104\n3xOP13-104\n4xOP14-102\n3xOP16-119\n4xOP13-016\n4xOP14-111\n4xOP15-113\n4xOP16-108\n3xOP14-108\n1xOP14-109"
+    },
+    {
+      "name": "Enel — Animalo92 (11)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-118\n1xOP15-060\n3xOP15-071\n4xOP15-061\n1xOP15-066\n1xOP10-067\n4xOP15-067\n2xST10-010\n4xOP12-063\n2xOP13-076\n4xOP15-075\n3xOP05-077\n4xOP15-076\n4xOP15-077\n4xOP15-078\n1xOP15-074"
+    },
+    {
+      "name": "Nami — Preyz25 (12)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP12-112\n4xEB04-058\n4xOP14-110\n3xOP13-042\n4xOP14-104\n4xP-096\n4xOP14-102\n2xPRB02-008\n2xOP16-119\n3xOP16-056\n4xEB03-053\n4xEB03-055\n4xOP14-111\n2xOP15-113\n2xEB01-059"
+    },
+    {
+      "name": "Monkey.D.Luffy — tinnoy (13)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xEB02-010\n2xOP15-032\n2xST30-012\n2xEB02-061\n4xPRB02-012\n4xEB02-017\n2xOP14-031\n4xOP07-064\n4xEB02-035\n4xST18-001\n4xST18-004\n4xOP08-036\n4xOP09-078\n1xEB02-021\n1xOP16-039\n4xOP15-078\n1xOP05-076\n3xEB02-041"
+    },
+    {
+      "name": "Monkey.D.Luffy — Deniz (14)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP16-022\n1xOP16-032\n4xOP16-048\n3xOP16-045\n2xST30-010\n4xOP16-026\n4xOP16-027\n2xST30-012\n4xOP16-034\n4xOP16-054\n4xOP16-055\n4xOP16-056\n8xOP16-042\n2xOP12-037\n2xOP08-036\n2xOP13-040"
+    },
+    {
+      "name": "Dracule Mihawk — Joschua K (15)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-020\n2xOP14-119\n4xOP07-026\n4xOP12-118\n4xST24-002\n2xOP14-023\n4xOP15-035\n3xST24-004\n4xOP12-034\n3xOP14-033\n4xEB01-015\n2xOP16-030\n3xOP13-031\n1xOP12-037\n2xOP08-036\n4xOP13-040\n2xOP06-038\n2xOP14-039"
+    },
+    {
+      "name": "Marshall.D.Teach — Vlets (16)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP16-080\n3xOP12-112\n2xOP14-112\n2xEB04-058\n4xOP16-104\n4xOP16-109\n3xOP09-086\n4xOP09-093\n4xOP16-119\n2xOP16-106\n4xOP16-108\n3xOP16-103\n3xOP16-110\n1xOP16-115\n2xOP10-098\n4xOP09-096\n2xOP16-116\n3xOP09-099"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "name": "ChinoizeCup - Heroine Battles",
+  "author": "chinoizecup-scraper",
+  "description": "Top 16 from \"ChinoizeCup - Heroine Battles\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6981f099bd2fb4559555ad00",
+  "decks": [
+    {
+      "name": "Nami — Gortiz (1)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP12-112\n2xOP06-047\n4xOP14-110\n4xOP14-104\n4xP-096\n4xOP06-104\n2xOP06-106\n4xOP14-102\n4xPRB02-008\n4xEB03-053\n4xEB03-055\n2xOP14-111\n3xOP04-056\n1xOP13-057\n4xEB03-060"
+    },
+    {
+      "name": "Nami — Hashiro (2)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP12-112\n4xOP12-119\n1xOP06-047\n4xOP14-110\n4xOP14-104\n4xP-096\n4xOP06-104\n2xOP06-106\n4xOP14-102\n1xPRB02-008\n4xEB03-053\n4xEB03-055\n2xOP14-111\n3xOP04-056\n1xOP13-057\n4xEB03-060"
+    },
+    {
+      "name": "Shirahoshi — Decim (3)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-022\n4xEB04-016\n2xEB01-056\n4xOP06-035\n3xEB04-018\n3xOP11-100\n4xEB04-011\n2xST16-004\n4xOP12-102\n4xEB03-052\n4xOP11-030\n4xOP11-036\n4xOP11-107\n3xOP11-037\n2xOP13-040\n3xOP11-115"
+    },
+    {
+      "name": "Nefeltari Vivi — Slodea (4)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xEB03-001\n4xOP09-009\n1xOP09-051\n4xEB04-023\n2xOP06-047\n2xOP04-002\n2xOP04-006\n3xOP11-054\n4xEB03-006\n4xEB03-024\n4xEB04-025\n4xOP13-012\n3xOP10-005\n2xOP06-007\n4xEB04-024\n4xOP10-011\n3xEB03-011"
+    },
+    {
+      "name": "Nefeltari Vivi — Potlehio (5)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xEB03-001\n4xOP09-009\n2xOP09-051\n3xEB04-023\n1xOP06-047\n4xOP04-002\n4xPRB02-001\n2xOP04-014\n3xEB03-006\n4xOP11-054\n4xOP13-011\n4xEB03-024\n3xEB04-025\n4xOP13-012\n4xEB04-024\n2xOP10-011\n2xOP06-058"
+    },
+    {
+      "name": "Shirahoshi — kevyzhou (6)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-022\n4xEB04-016\n3xOP06-035\n4xEB04-018\n4xOP11-100\n4xEB04-011\n2xST16-004\n4xEB03-052\n4xOP11-030\n4xOP12-102\n4xOP11-036\n4xOP11-107\n1xOP08-036\n1xOP13-040\n3xOP14-036\n4xOP11-115"
+    },
+    {
+      "name": "Nefeltari Vivi — TheCaptain14 (7)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xEB03-001\n4xOP09-009\n4xOP10-045\n4xEB04-023\n2xOP06-047\n4xOP04-002\n4xEB03-006\n3xOP11-054\n2xOP13-011\n4xEB03-024\n4xEB04-025\n4xOP13-012\n3xOP06-007\n4xEB04-024\n4xOP10-011"
+    },
+    {
+      "name": "Nami — Simpiii (8)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP12-112\n2xOP06-047\n2xOP13-042\n2xOP10-112\n4xP-096\n4xOP06-104\n4xOP06-106\n4xEB03-053\n4xOP11-054\n4xEB03-024\n4xEB03-055\n2xOP03-048\n2xOP11-053\n1xOP06-058\n2xOP04-056\n1xOP13-057\n4xEB03-060"
+    },
+    {
+      "name": "Lim — Ninja1k (9)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP09-022\n4xOP09-031\n4xOP10-029\n4xOP10-025\n4xOP14-023\n4xOP10-037\n2xEB03-037\n4xOP09-037\n4xOP10-033\n2xOP09-035\n3xOP09-027\n3xOP13-027\n4xOP13-028\n2xOP12-037\n2xOP13-076\n2xOP07-076\n2xOP09-041"
+    },
+    {
+      "name": "Nami — AkAtlas (10)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP12-112\n2xOP12-119\n4xOP04-100\n2xOP06-047\n2xST03-009\n2xOP10-112\n4xP-096\n4xOP06-104\n4xOP06-106\n4xEB03-053\n4xEB03-055\n3xOP03-048\n4xOP14-108\n3xOP04-056\n4xEB03-060"
+    },
+    {
+      "name": "Jewelry Bonney — Kakashiha (11)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP07-019\n2xST24-001\n3xOP08-023\n4xEB01-012\n4xOP04-031\n2xOP12-030\n2xOP06-035\n3xOP12-118\n4xPRB02-004\n4xST02-007\n4xOP14-033\n4xEB01-015\n2xST16-004\n2xOP10-030\n4xOP10-032\n2xEB03-061\n4xST24-005"
+    },
+    {
+      "name": "Nami — Gamerboi694 (12)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP12-112\n2xOP06-047\n4xOP10-112\n4xP-096\n2xOP08-047\n4xOP06-104\n4xOP06-106\n2xPRB02-008\n4xEB03-053\n4xEB03-055\n3xOP03-048\n4xPRB02-016\n2xOP06-058\n2xOP04-056\n1xOP13-057\n4xEB03-060"
+    },
+    {
+      "name": "Nami — volkiso (13)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-041\n2xOP12-112\n4xOP04-100\n2xOP06-047\n2xST03-009\n4xOP10-112\n4xP-096\n4xOP06-104\n4xOP06-106\n2xPRB02-008\n4xEB03-053\n4xEB03-055\n4xOP03-048\n2xOP07-116\n1xOP06-058\n3xOP04-056\n4xEB03-060"
+    },
+    {
+      "name": "Nefeltari Vivi — tsvaac (14)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xEB03-001\n4xOP09-009\n4xOP10-045\n4xOP04-002\n2xOP04-014\n2xOP11-054\n4xEB03-006\n2xOP13-011\n4xEB03-024\n4xOP13-012\n4xOP06-007\n4xOP08-118\n3xEB04-024\n4xOP10-011\n1xEB03-011\n4xOP13-058"
+    },
+    {
+      "name": "Boa Hancock — Nyler (15)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-041\n4xOP12-119\n4xOP14-112\n4xST17-004\n2xOP06-047\n3xOP14-103\n4xOP14-105\n4xOP06-106\n4xOP14-113\n4xEB03-053\n4xOP14-114\n4xOP14-107\n2xOP14-108\n2xOP06-058\n2xOP07-057\n3xOP07-056"
+    },
+    {
+      "name": "Jewelry Bonney — Traumis (16)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP07-019\n4xOP08-023\n4xEB01-012\n4xOP04-031\n3xOP12-030\n2xOP06-035\n4xOP12-118\n4xST02-007\n4xST24-002\n4xOP14-033\n4xEB01-015\n3xST16-004\n4xOP10-032\n3xOP13-031\n3xST24-005"
+    }
+  ]
+}

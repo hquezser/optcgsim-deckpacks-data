@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "name": "ChinoizeCup#32 Tuesday",
+  "author": "chinoizecup-scraper",
+  "description": "Top 16 from \"ChinoizeCup#32 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/69a80bf7f39e6e70969fb947",
+  "decks": [
+    {
+      "name": "Portgas.D.Ace — Lexinator22 (1)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-002\n2xOP13-007\n2xOP08-040\n3xOP10-045\n1xOP06-047\n4xOP13-042\n2xOP09-118\n4xST22-002\n4xOP08-047\n1xOP02-008\n3xPRB02-008\n4xOP13-016\n4xOP13-043\n2xST23-001\n3xOP13-046\n4xOP13-054\n3xOP04-056\n4xST22-015"
+    },
+    {
+      "name": "Donquixote Doflamingo — enderu (2)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-060\n3xOP14-072\n1xOP11-067\n4xOP14-067\n4xOP10-071\n3xOP14-069\n2xOP10-072\n4xOP14-074\n4xOP10-065\n3xOP14-063\n3xOP14-068\n3xST18-001\n4xOP14-061\n1xOP10-062\n2xOP14-078\n4xOP13-076\n1xOP10-078\n4xOP07-076"
+    },
+    {
+      "name": "Trafalgar Law — Szychu (3)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP01-002\n1xST02-004\n4xEB01-012\n2xOP01-051\n4xOP12-118\n4xST02-007\n4xST24-002\n1xOP14-005\n1xEB04-018\n4xOP14-013\n4xOP01-006\n4xOP12-034\n1xPRB02-006\n4xEB01-015\n3xST02-009\n1xOP01-047\n3xOP14-016\n1xOP12-037\n2xOP07-035\n2xOP01-027"
+    },
+    {
+      "name": "Nami — Nem182 (4)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-041\n4xOP12-112\n2xOP12-119\n2xOP06-047\n4xOP14-110\n4xOP14-104\n4xP-096\n4xOP06-104\n2xOP06-106\n4xOP14-102\n2xPRB02-008\n4xEB03-053\n4xEB03-055\n2xOP14-111\n1xOP06-058\n2xOP04-056\n1xOP13-057\n4xEB03-060"
+    },
+    {
+      "name": "Sanji — Radical (5)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP12-041\n3xOP12-071\n3xOP13-043\n4xOP12-070\n3xOP07-064\n1xST18-001\n4xEB03-031\n3xOP12-063\n4xOP12-060\n1xOP12-078\n1xOP13-076\n2xOP06-058\n4xOP09-078\n1xOP11-061\n2xOP04-056\n4xEB04-029\n2xOP11-060\n4xOP12-079\n1xOP07-056\n3xEB04-041"
+    },
+    {
+      "name": "Sanji — Ninja1k (6)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP12-041\n1xOP06-047\n4xOP13-043\n4xOP12-070\n4xOP07-064\n2xOP12-063\n4xEB03-031\n4xOP12-060\n1xOP12-078\n3xOP12-059\n2xOP06-058\n4xOP09-078\n2xOP04-056\n4xEB04-029\n3xOP11-060\n4xOP12-079\n4xEB04-041"
+    },
+    {
+      "name": "Trafalgar Law — MaGe (7)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP01-002\n4xEB01-012\n2xOP02-010\n2xOP01-051\n4xOP12-118\n4xST02-007\n4xST24-002\n3xOP14-005\n4xOP14-013\n4xOP01-006\n4xOP12-034\n4xPRB02-006\n2xEB01-015\n3xST02-009\n4xOP14-016\n2xOP12-037"
+    },
+    {
+      "name": "Imu — iacca7 (8)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-079\n4xOP13-082\n1xOP13-087\n3xOP13-092\n4xOP13-086\n3xOP05-082\n4xOP13-080\n4xOP13-083\n4xOP13-091\n4xOP13-084\n4xOP13-089\n1xOP11-097\n4xOP14-096\n4xOP13-098\n4xOP13-096\n1xOP05-097\n1xOP13-099"
+    },
+    {
+      "name": "Sabo — nytrex (9)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-004\n4xOP05-015\n3xOP09-009\n1xOP09-118\n4xOP13-090\n3xOP05-005\n4xOP05-006\n4xEB03-042\n3xOP12-094\n4xOP13-016\n3xP-105\n4xPRB02-014\n4xOP13-120\n2xOP07-085\n3xOP12-098\n4xOP05-021"
+    },
+    {
+      "name": "Donquixote Rosinante — Simpiii (10)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP12-061\n4xOP12-112\n4xOP12-108\n4xEB04-038\n4xOP12-102\n4xOP10-065\n3xOP12-073\n2xST10-010\n4xP-093\n3xP-088\n4xEB03-062\n3xOP09-069\n3xST18-001\n1xOP14-078\n2xOP05-077\n4xOP12-115\n1xOP07-076"
+    },
+    {
+      "name": "Portgas.D.Ace — onuron (11)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-002\n2xOP13-007\n2xOP08-040\n2xOP06-047\n1xOP02-004\n4xOP13-042\n1xOP09-118\n4xST22-002\n1xOP02-008\n4xOP08-047\n4xPRB02-008\n4xOP13-016\n4xOP13-043\n2xST23-001\n3xOP13-046\n4xOP13-054\n3xOP04-056\n4xST22-015\n1xOP01-027"
+    },
+    {
+      "name": "Portgas.D.Ace — asce712 (12)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-002\n2xOP13-007\n2xOP08-040\n2xOP06-047\n1xOP02-004\n4xOP13-042\n1xOP09-118\n4xST22-002\n1xOP02-008\n4xOP08-047\n4xPRB02-008\n4xOP13-016\n4xOP13-043\n2xST23-001\n3xOP13-046\n4xOP13-054\n3xOP04-056\n4xST22-015\n1xOP01-027"
+    },
+    {
+      "name": "Monkey.D.Luffy — Khaall (13)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-040\n3xEB03-034\n1xOP06-047\n3xOP01-070\n4xP-107\n1xOP09-119\n4xEB01-061\n4xOP11-054\n4xOP13-043\n4xOP06-119\n4xST18-001\n4xOP05-067\n4xOP11-080\n4xOP09-078\n3xOP04-056\n3xOP08-076"
+    },
+    {
+      "name": "Donquixote Rosinante — Prussia (14)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP12-061\n4xOP12-112\n4xOP12-108\n4xEB04-038\n4xOP10-065\n4xEB03-062\n4xOP09-069\n4xOP12-073\n4xP-088\n4xP-093\n2xST10-010\n3xST18-001\n2xOP14-061\n1xOP14-078\n2xOP05-077\n4xOP12-115"
+    },
+    {
+      "name": "Imu — AcePrado (15)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-079\n4xOP13-082\n4xOP13-092\n4xOP13-086\n2xOP05-082\n4xOP13-080\n4xOP13-083\n4xOP13-091\n4xOP13-084\n4xOP13-089\n3xOP11-097\n3xOP14-096\n4xOP13-098\n4xOP13-096\n1xOP05-097\n1xOP13-099"
+    },
+    {
+      "name": "Imu — Dearcan (16)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-079\n4xOP13-082\n4xOP13-092\n4xOP13-086\n2xOP05-082\n4xOP13-080\n4xOP13-083\n4xOP13-091\n4xOP13-084\n4xOP13-089\n2xOP11-097\n4xOP14-096\n4xOP13-098\n4xOP13-096\n1xOP05-097\n1xOP13-099"
+    }
+  ]
+}
