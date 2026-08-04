@@ -28,6 +28,9 @@ from pathlib import Path
 from typing import Iterable
 
 import requests
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import packmerge  # noqa: E402  (chemin ajusté juste au-dessus)
 from bs4 import BeautifulSoup
 
 BASE = "https://chinoizecupstats.com"
@@ -38,6 +41,8 @@ CARD_IMG_RE = re.compile(
     r"limitlesstcg\.nyc3\.cdn\.digitaloceanspaces\.com/one-piece/[^/]+/([^/]+)_EN\.webp"
 )
 COUNT_RE = re.compile(r"×\s*(\d+)")
+# A native decklist line: "4xOP15-061". Used to verify a fetched deck is complete.
+DECK_LINE_RE = re.compile(r"^(\d+)x([A-Za-z0-9][A-Za-z0-9-]*)$", re.MULTILINE)
 
 
 @dataclass
@@ -266,6 +271,11 @@ def main(argv: Iterable[str] | None = None) -> int:
         help="specific tournament IDs to scrape (skips the listing fetch). "
              "Example: 6a43969983fd320299bd4a17",
     )
+    ap.add_argument(
+        "--force", action="store_true",
+        help="replace existing packs instead of merging into them. Off by default: a run "
+             "that sees fewer decks must never destroy a richer pack already on disk.",
+    )
     args = ap.parse_args(argv)
 
     out = Path(args.output)
@@ -322,19 +332,44 @@ def main(argv: Iterable[str] | None = None) -> int:
             d["text"] = decklist_to_text(dl)
         before = len(dp["decks"])
         dp["decks"] = [d for d in dp["decks"] if d.get("text")]
+        # A One Piece deck is exactly 1 leader + 50 cards. A shorter list means the fetch
+        # came back incomplete: OPTCGSim refuses it at import ("Deck de 47 cartes (attendu
+        # 50)"), so shipping it would publish a decklist nobody can use. Drop it here rather
+        # than let a broken pack reach consumers.
+        kept = []
+        for d in dp["decks"]:
+            total = sum(int(m.group(1)) for m in DECK_LINE_RE.finditer(d["text"]))
+            leader = DECK_LINE_RE.match(d["text"].lstrip().splitlines()[0]) if d["text"] else None
+            if leader and total - int(leader.group(1)) == 50:
+                kept.append(d)
+            else:
+                print(f"  · {t.slug}: {d['name']}: {total - (int(leader.group(1)) if leader else 0)}"
+                      f" cards (expected 50), incomplete fetch — dropping", file=sys.stderr)
+        dp["decks"] = kept
         dropped = before - len(dp["decks"])
         if not dp["decks"]:
             print(f"  · {t.slug}: 0 decks fetched, skipping", file=sys.stderr)
             skipped += 1
             continue
         dp = strip_internal(dp)
-        pack_dir = out / t.slug
-        pack_dir.mkdir(parents=True, exist_ok=True)
-        (pack_dir / "deckpack.json").write_text(
-            json.dumps(dp, indent=2, ensure_ascii=False) + "\n",
-            encoding="utf-8",
-        )
-        print(f"  ✓ {t.slug}: {len(dp['decks'])} decks (dropped {dropped})", file=sys.stderr)
+
+        # Union avec ce qui est déjà sur disque, jamais un remplacement : un run qui voit
+        # moins de decks (site incomplet, decklist en échec) ne doit pas détruire un pack
+        # plus riche. Vu en usage réel sur l'autre scraper : 16 decks réduits à 5.
+        def describe(n: int, fusionne: bool, _t=t) -> str:
+            base = (f"Top {n} from \"{_t.name}\" (source=chinoizecupstats.com, online cup). "
+                    f"Scraped from {BASE}/tournaments. Source tournament: {_t.url}")
+            return base + (" Merged across runs." if fusionne else "")
+
+        try:
+            count, note = packmerge.write_pack_merged(
+                out / t.slug, dp, force=args.force, describe=describe)
+        except RuntimeError as e:
+            print(f"  ! {t.slug}: {e} — skipping", file=sys.stderr)
+            skipped += 1
+            continue
+        suffixe = f" — {note}" if note else ""
+        print(f"  ✓ {t.slug}: {count} decks (dropped {dropped}){suffixe}", file=sys.stderr)
         written += 1
 
     print(f"\nDone: {written} pack(s) written, {skipped} skipped → {out}/", file=sys.stderr)
