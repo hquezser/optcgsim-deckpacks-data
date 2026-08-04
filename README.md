@@ -12,14 +12,49 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 # EU, 3 derniers mois, top 16 par tournoi
 .venv/bin/python scripts/scrape_limitless.py --region eu --time 3months --top 16
 
+# Toutes régions confondues
+.venv/bin/python scripts/scrape_limitless.py --region all --time 6months --top 16
+
 # Autres filtres
-.venv/bin/python scripts/scrape_limitless.py --region na --time month --type regional --top 8
+.venv/bin/python scripts/scrape_limitless.py --region na --time 1months --type regional --top 8
 ```
 
-Args : `--region` (eu/na/la/oc/as/all), `--time` (month/3months/6months/12months),
-`--type` (all/regional/treasurecup/...), `--format` (all/OP16/...), `--played`,
-`--show` (100), `--top` (16), `--output` (packs), `--delay` (0.5s),
-`--limit-tournaments` (0 = tous, utile pour test).
+Args : `--region` (eu/na/la/oc/asia/all), `--time` (1months/3months/6months/12months),
+`--type` (all/regional/treasure/championship/unofficial/offline/online),
+`--format` (all/OP16/...), `--played`, `--show` (100, max 500), `--top` (16),
+`--output` (packs), `--delay` (0.5s, minimum 0.5), `--limit-tournaments` (0 = tous, utile
+pour test), `--max-pages` (50), `--force`.
+
+Les valeurs de `--region`, `--time` et `--type` sont validées localement : le site **ignore
+silencieusement** une valeur inconnue et renvoie alors un listing non filtré, donc une faute
+de frappe passerait pour un succès. `as` → `asia`, `month` → `1months` et `treasurecup` →
+`treasure` sont acceptés comme alias (avec un avertissement).
+
+### `--region all`
+
+Le `<select name="region">` du site n'a **pas** d'option `all` (ses valeurs sont
+`eu`/`na`/`la`/`oc`/`asia`) : `--region all` n'envoie donc aucun paramètre `region`, ce qui
+est le listing non filtré. C'est bien exhaustif — et strictement plus large que l'union des
+régions, qui rate les tournois sans région (ex. World Finals 2026, renvoyé par `region=jp`
+mais par aucun code de continent). Sur `--time 6months` : 32 tournois pour `all`, contre 15
+(eu) + 12 (na) + 3 (la) + 1 (oc) + 0 (asia) = 31 pour l'union.
+
+### Pagination
+
+Le listing pagine par **ligne de deck**, pas par tournoi : `--show` plafonne le nombre de
+decks par page, donc un tournoi à cheval sur deux pages n'expose qu'une partie de ses lignes
+sur chacune. Le scraper parcourt toutes les pages (`?page=N`) et fusionne par URL de tournoi.
+Ne lire que la première page tronquait silencieusement les tournois — c'est ce qui faisait
+tomber Treasure Cup Utrecht de 16 à 5 decks.
+
+### Écriture non destructive
+
+Un run fusionne avec le pack déjà sur disque (déduplication par nom de deck), donc **un pack
+ne peut jamais perdre de decks** : un run partiel, un fetch en échec ou un `--top` plus petit
+n'enlèvent rien. Sur un nom de deck déjà présent, les tags sont unionnés et le `text` n'est
+remplacé que si le nouveau run en a effectivement récupéré un. Un pack existant illisible fait
+échouer ce tournoi (code de sortie 1) plutôt que d'être écrasé. `--force` remplace le pack au
+lieu de fusionner — destructif, à n'utiliser que pour repartir de zéro.
 
 ### ChinoizeCupStats
 

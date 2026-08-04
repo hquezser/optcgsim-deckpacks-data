@@ -20,10 +20,25 @@ python3 ../optcgsim-deckpacks/scripts/validate.py packs/*
 python3 scripts/scrape_limitless.py --region eu --time 3months --top 16
 ```
 
-Args principaux : `--region` (eu/na/la/oc/as/all), `--time` (month/3months/6months/12months),
-`--type` (all/regional/treasurecup/...), `--format` (all/OP16/...), `--played` (all/leader/...),
-`--show` (100), `--top` (16), `--output` (default `packs`), `--delay` (0.5s entre requêtes),
-`--limit-tournaments` (0 = tous, utile pour test).
+Args principaux : `--region` (eu/na/la/oc/asia/all), `--time` (1months/3months/6months/12months),
+`--type` (all/regional/treasure/championship/unofficial/offline/online), `--format` (all/OP16/...),
+`--played` (all/leader/...), `--show` (100, max 500), `--top` (16), `--output` (default `packs`),
+`--delay` (0.5s entre requêtes, minimum), `--limit-tournaments` (0 = tous, utile pour test),
+`--max-pages` (50), `--force`.
+
+Trois pièges du site, détaillés dans [README.md](README.md#--region-all) :
+
+- `region`/`time`/`type` **ignorent silencieusement** toute valeur inconnue et renvoient un
+  listing non filtré. Le scraper valide donc localement au lieu d'envoyer n'importe quoi ;
+  `as`/`month`/`treasurecup` ne sont pas des valeurs du site (alias tolérés).
+- Il n'existe pas d'option `region=all` : `--region all` n'envoie aucun `region`, ce qui est
+  plus large que l'union des continents (certains tournois n'ont pas de continent).
+- Le listing pagine par **ligne de deck**, pas par tournoi. Un tournoi à cheval sur deux pages
+  n'expose qu'une partie de ses lignes sur chacune ; il faut parcourir `?page=N` et fusionner
+  par URL de tournoi, sinon les tournois sont tronqués sans le moindre signal.
+
+Écriture non destructive : un run fusionne avec le pack existant (clé = nom de deck), donc un
+pack ne perd jamais de decks. `--force` pour remplacer (destructif).
 
 ## Étendre (ajouter un scraper, importer d'autres sources)
 
