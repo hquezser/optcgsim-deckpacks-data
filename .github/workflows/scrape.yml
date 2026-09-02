@@ -103,15 +103,31 @@ jobs:
 
       # Le site vit dans un autre dépôt : il faut le prévenir, sinon il resterait sur des
       # données périmées jusqu'au prochain changement de son propre code.
-      - name: Demander le redéploiement du site
+      # Redéploiement IMMÉDIAT du site — optionnel, et jamais bloquant.
+      #
+      # Le chemin nominal est ailleurs : le dépôt du site a son propre horaire (05:45 UTC)
+      # et va chercher le corpus tout seul. Il n'a donc besoin d'aucun token, alors que ce
+      # dispatch en exige un — le GITHUB_TOKEN d'une Action ne peut pas déclencher un
+      # workflow dans un autre dépôt. Ce raccourci ne fait que gagner une demi-heure.
+      #
+      # `continue-on-error` : un problème de token ne doit pas faire échouer un scraping
+      # par ailleurs réussi et déjà commité. C'est arrivé — un 403 marquait tout le run en
+      # échec alors que 240 nouvelles decklists venaient d'être publiées correctement.
+      - name: Redéployer le site tout de suite (optionnel)
         if: steps.commit.outputs.change == 'oui'
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ secrets.DISPATCH_TOKEN }}
         run: |
           if [ -z "$GH_TOKEN" ]; then
-            echo "::warning::secret DISPATCH_TOKEN absent — le site ne sera pas redéployé."
-            echo "Créez un token à portée 'repo' et ajoutez-le en secret DISPATCH_TOKEN."
+            echo "Pas de DISPATCH_TOKEN : le site se rafraîchira à son horaire (05:45 UTC)."
             exit 0
           fi
-          gh api repos/hquezser/optcgsim-deckpacks-library/dispatches \
-            -f event_type=corpus-mis-a-jour
+          if gh api repos/hquezser/optcgsim-deckpacks-library/dispatches \
+               -f event_type=corpus-mis-a-jour; then
+            echo "Redéploiement demandé."
+          else
+            echo "::warning::dispatch refusé (permissions du token) — le site se"
+            echo "rafraîchira à son horaire. Le token doit couvrir le dépôt LIBRARY"
+            echo "(pas data) avec « Contents: Read and write »."
+          fi
