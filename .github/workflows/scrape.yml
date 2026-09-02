@@ -40,9 +40,13 @@ jobs:
 
       - name: Installer les dépendances
         working-directory: optcgsim-deckpacks-data
+        # pytest est nécessaire à l'étape « Tests de la règle de fusion » et n'est PAS dans
+        # requirements.txt (qui liste les dépendances d'exécution des scrapers). Sans lui,
+        # le run échouait juste avant de commiter : le scraping et la validation
+        # réussissaient, puis « No module named pytest » jetait tout le travail.
         run: |
           python -m pip install --upgrade pip
-          python -m pip install -r requirements.txt
+          python -m pip install -r requirements.txt pytest
 
       # ChinoizeCupStats : coupes en ligne, quotidiennes. C'est la source qui bouge le plus,
       # et celle dont le pool est en avance sur le circuit papier.
