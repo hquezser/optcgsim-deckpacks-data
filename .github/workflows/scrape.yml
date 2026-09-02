@@ -11,6 +11,13 @@ on:
         description: "Scraper aussi Limitless (circuit papier, plus lent)"
         type: boolean
         default: true
+      forcer_notification:
+        description: >
+          Notifier le site même si le corpus n'a pas changé. Sert à ÉPROUVER le chemin de
+          notification : sans cela il ne s'exécute qu'en cas de changement de corpus, donc
+          jamais au moment où on cherche justement à le tester.
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -114,7 +121,7 @@ jobs:
       # par ailleurs réussi et déjà commité. C'est arrivé — un 403 marquait tout le run en
       # échec alors que 240 nouvelles decklists venaient d'être publiées correctement.
       - name: Redéployer le site tout de suite (optionnel)
-        if: steps.commit.outputs.change == 'oui'
+        if: steps.commit.outputs.change == 'oui' || inputs.forcer_notification
         continue-on-error: true
         env:
           GH_TOKEN: ${{ secrets.DISPATCH_TOKEN }}
