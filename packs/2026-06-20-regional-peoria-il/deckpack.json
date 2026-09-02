@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "OP16 20th June 2026 - Regional Peoria, IL",
   "author": "limitlesstcg-scraper",
-  "description": "Top 16 from \"OP16 20th June 2026 - Regional Peoria, IL\" (region=North America, time=6months). Scraped from https://onepiece.limitlesstcg.com/decks/lists. Source tournament: https://onepiece.limitlesstcg.com/tournaments/413",
+  "description": "Top 16 from \"OP16 20th June 2026 - Regional Peoria, IL\" (region=North America, time=3months). Scraped from https://onepiece.limitlesstcg.com/decks/lists. Merged with the previously scraped pack. Source tournament: https://onepiece.limitlesstcg.com/tournaments/413",
   "decks": [
     {
       "name": "Red/Blue Lucy — BahiaéBH (1st)",
