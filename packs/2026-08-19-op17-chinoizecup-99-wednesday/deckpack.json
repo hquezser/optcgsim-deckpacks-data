@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "name": "[OP17] ChinoizeCup #99 Wednesday",
+  "author": "chinoizecup-scraper",
+  "description": "Top 16 from \"[OP17] ChinoizeCup #99 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a7d7ed32b308b6067b529d0",
+  "decks": [
+    {
+      "name": "Rocks.D.Xebec — Cenkonator (1)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-039\n3xOP08-051\n2xOP17-044\n4xOP17-049\n4xOP17-052\n4xOP17-040\n4xOP17-046\n3xOP17-042\n4xOP17-045\n4xOP17-054\n4xOP17-118\n4xOP17-048\n2xOP17-041\n4xOP17-056\n4xOP17-055"
+    },
+    {
+      "name": "Monkey.D.Luffy — LilyKei (2)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP11-040\n3xOP17-046\n4xP-107\n2xOP17-054\n4xEB01-061\n3xOP16-056\n4xOP11-054\n4xOP13-043\n2xOP17-065\n2xOP07-064\n4xOP06-119\n4xST18-001\n4xOP17-074\n4xOP11-080\n4xOP09-078\n2xOP08-076"
+    },
+    {
+      "name": "Portgas.D.Ace — mstrkenc (3)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP16-001\n4xOP16-004\n4xOP16-003\n4xOP17-005\n4xOP16-017\n4xOP16-014\n4xOP13-016\n4xOP16-015\n4xOP16-010\n3xOP16-118\n4xOP16-005\n4xOP16-011\n3xOP04-016\n4xOP16-021"
+    },
+    {
+      "name": "Sabo — Noostag (4)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-004\n3xST01-011\n2xOP11-012\n4xOP17-089\n1xOP17-083\n4xOP17-119\n3xOP17-093\n4xOP17-086\n3xOP01-016\n4xOP17-087\n3xOP15-088\n4xOP17-095\n3xOP17-082\n3xOP17-084\n4xOP17-080\n2xOP04-016\n1xOP14-096\n2xOP17-098"
+    },
+    {
+      "name": "Luffy & Ace — Tetra (5)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xST30-001\n4xEB04-002\n3xST30-012\n4xOP12-015\n4xST21-014\n4xEB02-017\n4xOP01-016\n4xST31-001\n3xOP04-016\n3xOP12-018\n3xOP12-037\n2xOP06-018\n4xOP13-040\n4xOP14-018\n4xST31-005"
+    },
+    {
+      "name": "Rocks.D.Xebec — Gaston78910 (6)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-039\n4xOP08-051\n4xOP17-044\n4xOP17-049\n4xOP17-040\n4xOP17-046\n1xOP14-049\n2xOP17-042\n4xOP17-045\n4xOP17-054\n4xOP17-118\n4xOP17-048\n2xOP17-050\n1xEB02-030\n4xOP17-056\n4xOP17-055"
+    },
+    {
+      "name": "Dracule Mihawk — FenoHS (7)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-020\n4xST32-003\n4xOP14-023\n4xST32-001\n4xST32-002\n2xST24-004\n4xOP07-022\n4xOP12-034\n4xOP14-033\n1xST16-004\n2xOP14-027\n3xOP17-022\n1xOP08-036\n2xOP14-037\n2xOP13-040\n3xOP06-038\n4xOP01-055\n2xOP14-039"
+    },
+    {
+      "name": "Kaido — MaGe (8)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-058\n4xOP17-073\n4xST34-004\n4xOP17-062\n2xOP17-063\n4xEB04-031\n4xOP17-061\n4xEB04-032\n2xOP17-065\n3xST18-001\n4xOP17-074\n2xOP17-077\n4xOP15-078\n4xOP07-076\n4xOP07-077\n1xOP17-076"
+    },
+    {
+      "name": "Dracule Mihawk — Brian (9)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-020\n4xST32-003\n4xOP14-023\n4xST32-001\n4xST32-002\n3xST24-004\n4xOP07-022\n4xOP12-034\n4xOP14-033\n1xST16-004\n2xOP14-027\n3xOP17-022\n2xOP12-037\n3xOP08-036\n2xOP06-038\n4xOP01-055\n2xOP14-039"
+    },
+    {
+      "name": "Kaido — petemess (10)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-058\n4xOP17-073\n4xOP11-068\n3xOP11-067\n3xST34-004\n2xOP17-069\n4xOP17-062\n2xOP17-063\n4xEB04-031\n2xOP17-067\n2xOP17-061\n4xEB04-032\n4xOP17-074\n1xOP17-077\n3xOP15-078\n2xOP07-076\n4xOP07-077\n2xOP17-076"
+    },
+    {
+      "name": "Portgas.D.Ace — Yonxlj (11)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP16-001\n4xOP16-004\n4xOP16-003\n3xOP17-005\n1xOP09-118\n1xOP17-009\n4xOP17-006\n4xOP16-017\n4xOP16-014\n4xOP13-016\n4xOP16-015\n2xOP16-010\n2xOP16-118\n1xOP16-005\n2xST23-001\n3xOP16-011\n2xOP04-016\n1xOP12-018\n4xOP16-021"
+    },
+    {
+      "name": "Dracule Mihawk — Dearcan (12)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-020\n4xST32-003\n3xOP12-023\n2xOP14-023\n4xST32-001\n4xST32-002\n2xST24-004\n4xOP07-022\n4xOP12-034\n3xOP14-033\n1xST16-004\n2xOP14-027\n3xOP17-022\n2xOP12-037\n2xOP14-037\n3xOP06-038\n4xOP01-055\n3xOP14-039"
+    },
+    {
+      "name": "Kaido — theribeyesteak (13)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-058\n4xOP17-073\n3xST34-004\n4xOP17-062\n4xOP17-063\n4xEB04-031\n4xOP17-061\n4xEB04-032\n2xOP17-065\n3xST18-001\n4xOP17-074\n4xOP15-078\n4xOP07-076\n4xOP07-077\n2xOP17-076"
+    },
+    {
+      "name": "Rocks.D.Xebec — Miguelitorinho (14)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-039\n3xOP17-044\n4xOP17-049\n2xOP17-052\n4xOP17-040\n4xOP17-046\n3xOP17-042\n4xOP17-045\n4xOP17-054\n4xOP17-118\n4xOP17-048\n4xOP17-050\n2xEB02-030\n4xOP17-056\n4xOP17-055"
+    },
+    {
+      "name": "Sabo — WPKaptain (15)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-004\n4xST01-011\n4xOP17-089\n2xOP17-083\n4xOP17-119\n4xOP17-093\n4xOP17-086\n4xOP01-016\n2xOP17-087\n3xOP15-088\n4xOP17-095\n4xOP17-082\n4xOP17-084\n4xOP17-080\n2xOP04-016\n1xOP17-096"
+    },
+    {
+      "name": "Rocks.D.Xebec — Gefen H (16)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-039\n2xOP08-051\n1xOP17-044\n4xOP17-049\n3xOP17-052\n4xOP17-040\n4xOP17-046\n4xOP17-042\n4xOP17-045\n4xOP17-054\n4xOP17-118\n4xOP17-048\n4xOP17-050\n4xOP17-056\n4xOP17-055"
+    }
+  ]
+}

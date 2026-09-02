@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "ChinoizeCup #88 Monday",
   "author": "chinoizecup-scraper",
-  "description": "Top 16 from \"ChinoizeCup #88 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a60912952c24ac2da648c87",
+  "description": "Top 16 from \"ChinoizeCup #88 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a60912952c24ac2da648c87 Merged across runs.",
   "decks": [
     {
       "name": "Sabo — WPKaptain (1)",

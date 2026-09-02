@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "ChinoizeCup #90 Wednesday",
   "author": "chinoizecup-scraper",
-  "description": "Top 16 from \"ChinoizeCup #90 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a6094dd52c24ac2da648c8e",
+  "description": "Top 16 from \"ChinoizeCup #90 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a6094dd52c24ac2da648c8e Merged across runs.",
   "decks": [
     {
       "name": "Enel — DZayas (1)",

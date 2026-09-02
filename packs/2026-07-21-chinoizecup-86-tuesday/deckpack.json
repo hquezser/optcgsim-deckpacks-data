@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "ChinoizeCup #86 Tuesday",
   "author": "chinoizecup-scraper",
-  "description": "Top 16 from \"ChinoizeCup #86 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a5754d86355385f44dd51bc",
+  "description": "Top 16 from \"ChinoizeCup #86 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a5754d86355385f44dd51bc Merged across runs.",
   "decks": [
     {
       "name": "Monkey.D.Luffy — igot2staydown (1)",

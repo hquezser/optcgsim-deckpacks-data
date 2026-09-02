@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "ChinoizeCup #87 Wednesday",
   "author": "chinoizecup-scraper",
-  "description": "Top 16 from \"ChinoizeCup #87 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a5755ff6355385f44dd51c0",
+  "description": "Top 16 from \"ChinoizeCup #87 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a5755ff6355385f44dd51c0 Merged across runs.",
   "decks": [
     {
       "name": "Monkey.D.Luffy — Pako (1)",

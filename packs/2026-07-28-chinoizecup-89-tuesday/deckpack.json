@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "ChinoizeCup #89 Tuesday",
   "author": "chinoizecup-scraper",
-  "description": "Top 16 from \"ChinoizeCup #89 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a609267937230b102d41696",
+  "description": "Top 16 from \"ChinoizeCup #89 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a609267937230b102d41696 Merged across runs.",
   "decks": [
     {
       "name": "Donquixote Rosinante — FlyestRaven (1)",

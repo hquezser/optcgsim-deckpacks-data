@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "name": "[OP17] ChinoizeCup #100 Monday",
+  "author": "chinoizecup-scraper",
+  "description": "Top 16 from \"[OP17] ChinoizeCup #100 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a859fd478baaa6d1c2237a9",
+  "decks": [
+    {
+      "name": "Dracule Mihawk — UPS_Employee (1)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-020\n4xST32-003\n3xOP06-035\n4xOP12-023\n4xST32-001\n4xST32-002\n4xOP07-022\n4xOP12-034\n4xOP14-033\n3xOP17-022\n4xOP06-033\n2xOP08-036\n4xOP06-038\n4xOP01-055\n2xOP14-039"
+    },
+    {
+      "name": "Enel — Wortaxx (2)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-118\n2xOP09-072\n4xOP15-071\n4xOP15-061\n2xOP10-067\n4xOP15-067\n3xOP12-063\n1xOP13-076\n4xOP15-075\n3xOP05-077\n4xOP15-076\n4xOP15-077\n4xOP15-078\n3xOP15-074"
+    },
+    {
+      "name": "Rocks.D.Xebec — Nicolooo (3)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-039\n3xOP08-051\n2xOP17-044\n4xOP17-049\n4xOP17-052\n4xOP17-040\n4xOP17-046\n2xOP17-042\n4xOP17-045\n4xOP17-054\n4xOP17-118\n4xOP17-048\n3xOP17-050\n4xOP17-056\n4xOP17-055"
+    },
+    {
+      "name": "Rocks.D.Xebec — enderu (4)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-039\n4xOP08-051\n3xOP17-044\n4xOP17-049\n3xOP17-052\n4xOP17-040\n4xOP17-046\n3xOP17-042\n4xOP17-045\n4xOP17-054\n4xOP17-118\n4xOP17-048\n1xEB02-030\n4xOP17-056\n4xOP17-055"
+    },
+    {
+      "name": "Rocks.D.Xebec — fuat (5)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-039\n2xOP08-051\n3xOP17-044\n4xOP17-049\n2xOP17-052\n4xOP17-040\n4xOP17-046\n3xOP17-042\n4xOP17-045\n4xOP17-054\n4xOP17-118\n4xOP17-048\n4xOP17-050\n4xOP17-056\n4xOP17-055"
+    },
+    {
+      "name": "Dracule Mihawk — Selcuk (6)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-020\n4xST32-003\n2xOP06-035\n4xOP12-023\n4xST32-001\n4xST32-002\n4xOP07-022\n4xOP12-034\n3xOP14-033\n4xOP17-022\n4xOP06-033\n3xOP08-036\n4xOP06-038\n4xOP01-055\n2xOP14-039"
+    },
+    {
+      "name": "Enel — igordiasr (7)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP05-098\n4xEB04-058\n4xOP17-107\n2xEB01-056\n4xOP17-112\n4xOP17-102\n2xOP17-110\n4xOP17-109\n3xOP17-106\n4xOP16-119\n4xOP15-113\n3xOP17-114\n4xOP11-106\n4xEB01-059\n4xOP06-115"
+    },
+    {
+      "name": "Rocks.D.Xebec — Yony (8)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-039\n4xOP08-051\n4xOP17-049\n4xOP17-052\n4xOP17-040\n4xOP17-046\n3xOP08-047\n1xOP17-042\n2xOP17-045\n4xOP17-054\n4xOP17-118\n4xOP17-048\n4xOP17-050\n4xOP17-056\n4xOP17-055"
+    },
+    {
+      "name": "Sabo — Rotisserie15 (9)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-004\n4xST01-011\n4xOP17-089\n2xOP17-083\n4xOP17-119\n3xOP17-093\n3xOP17-086\n4xOP01-016\n4xOP17-087\n3xOP15-088\n4xOP17-095\n3xOP17-082\n4xOP17-084\n4xOP17-080\n2xOP04-016\n2xOP17-098"
+    },
+    {
+      "name": "Dracule Mihawk — DennisWgr (10)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-020\n4xST32-003\n4xOP12-023\n4xST32-001\n4xST32-002\n4xOP07-022\n4xOP14-033\n4xOP12-034\n4xOP17-022\n4xOP06-033\n2xOP08-036\n2xOP14-037\n4xOP06-038\n4xOP01-055\n2xOP14-039"
+    },
+    {
+      "name": "Sabo — lukas123 (11)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-004\n4xST01-011\n4xOP17-089\n2xOP17-083\n4xOP17-119\n4xOP17-093\n3xOP17-086\n2xOP01-016\n4xOP17-087\n3xOP15-088\n4xOP17-095\n4xOP17-082\n2xOP17-084\n4xOP17-080\n3xOP04-016\n1xOP17-098\n2xOP17-096"
+    },
+    {
+      "name": "Enel — lordRafa (12)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-118\n2xOP09-072\n4xOP15-071\n4xOP15-061\n2xOP10-067\n4xOP15-067\n3xOP12-063\n1xOP13-076\n4xOP15-075\n3xOP05-077\n4xOP15-076\n4xOP15-077\n4xOP15-078\n3xOP15-074"
+    },
+    {
+      "name": "Portgas.D.Ace — keeftcg (13)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP16-001\n4xOP16-004\n4xOP16-003\n4xOP17-005\n4xOP17-006\n4xOP16-017\n4xOP16-014\n4xOP13-016\n2xOP16-015\n4xOP16-118\n3xOP16-005\n2xST23-001\n4xOP16-011\n1xOP04-016\n2xOP17-017\n4xOP16-021"
+    },
+    {
+      "name": "Rocks.D.Xebec — Frodon (14)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-039\n3xOP08-051\n4xOP17-049\n4xOP17-052\n4xOP17-040\n4xOP17-046\n3xOP17-042\n4xOP17-045\n4xOP17-054\n4xOP17-118\n4xOP17-048\n4xOP17-050\n4xOP17-056\n4xOP17-055"
+    },
+    {
+      "name": "Portgas.D.Ace — Anacleto (15)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP16-001\n4xOP16-004\n4xOP16-003\n4xOP17-005\n4xOP16-017\n3xST30-009\n3xOP16-014\n4xOP13-016\n4xOP16-015\n2xOP16-010\n1xOP16-118\n4xOP16-005\n3xST23-001\n4xOP16-011\n2xOP17-017\n4xOP16-021"
+    },
+    {
+      "name": "Koala — Cudder04 (16)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP12-081\n3xOP12-112\n3xOP12-119\n4xOP17-091\n3xOP17-081\n3xOP12-089\n4xOP17-089\n4xOP17-119\n3xOP17-093\n4xOP17-087\n3xOP17-095\n4xOP17-082\n3xOP14-108\n3xOP17-084\n4xOP17-080\n2xOP14-096"
+    }
+  ]
+}

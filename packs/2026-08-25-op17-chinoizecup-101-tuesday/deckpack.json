@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "name": "[OP17] ChinoizeCup #101 Tuesday",
+  "author": "chinoizecup-scraper",
+  "description": "Top 16 from \"[OP17] ChinoizeCup #101 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a85a15c5a30714095574481",
+  "decks": [
+    {
+      "name": "Dracule Mihawk — MaGe (1)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-020\n1xOP06-035\n4xOP12-023\n4xST32-001\n4xST32-002\n4xOP07-022\n4xOP12-034\n4xOP17-022\n4xOP13-031\n4xOP06-033\n4xOP17-031\n2xOP08-036\n2xOP14-037\n3xOP06-038\n4xOP01-055\n2xOP14-039"
+    },
+    {
+      "name": "Enel — Wortaxx (2)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP15-058\n4xOP12-071\n4xOP15-118\n2xOP09-072\n4xOP15-071\n4xOP15-061\n2xOP10-067\n4xOP15-067\n3xOP12-063\n1xOP13-076\n4xOP15-075\n3xOP05-077\n4xOP15-076\n4xOP15-077\n4xOP15-078\n3xOP15-074"
+    },
+    {
+      "name": "Dracule Mihawk — Dearcan (3)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-020\n4xST32-003\n2xOP06-035\n4xOP12-023\n4xST32-001\n4xST32-002\n4xOP07-022\n4xOP14-033\n4xOP12-034\n4xOP17-022\n4xOP06-033\n1xOP08-036\n1xOP13-040\n4xOP06-038\n4xOP01-055\n2xOP14-039"
+    },
+    {
+      "name": "Rocks.D.Xebec — Corentin33 (4)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-039\n4xOP08-051\n4xOP17-044\n4xOP17-049\n4xOP17-040\n4xOP17-046\n3xOP17-042\n3xOP17-045\n4xOP17-054\n4xOP17-118\n4xOP17-048\n2xOP17-050\n2xEB02-030\n4xOP17-056\n4xOP17-055"
+    },
+    {
+      "name": "Rocks.D.Xebec — Gaston78910 (5)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-039\n4xOP08-051\n4xOP17-044\n4xOP17-049\n4xOP17-040\n4xOP17-046\n2xOP17-042\n4xOP17-045\n4xOP17-054\n4xOP17-118\n4xOP17-048\n3xOP17-050\n1xEB02-030\n4xOP17-056\n4xOP17-055"
+    },
+    {
+      "name": "Nico Robin — Victiny (6)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP09-062\n3xEB04-058\n3xST34-003\n4xOP17-107\n4xOP17-112\n4xOP17-102\n3xOP17-110\n4xOP17-109\n4xOP17-106\n3xOP16-119\n4xOP17-113\n4xOP17-114\n4xOP17-074\n4xOP09-078\n2xOP08-076"
+    },
+    {
+      "name": "Monkey.D.Luffy — lordRafa (7)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-079\n3xOP17-091\n1xOP17-090\n4xOP17-081\n2xOP17-089\n4xOP17-119\n4xOP17-093\n2xOP17-086\n4xOP17-087\n4xOP15-088\n4xOP17-094\n3xOP17-095\n3xOP17-082\n1xOP17-084\n4xOP17-080\n4xOP07-096\n3xST14-017"
+    },
+    {
+      "name": "Rocks.D.Xebec — Pixsci (8)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-039\n3xOP08-051\n3xOP17-044\n4xOP17-049\n3xOP17-052\n4xOP17-040\n3xOP17-046\n2xOP14-049\n3xOP17-042\n4xOP17-045\n3xOP17-054\n4xOP17-118\n4xOP17-048\n2xEB02-030\n4xOP17-056\n4xOP17-055"
+    },
+    {
+      "name": "Sabo — UPS_Employee (9)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP13-004\n4xST01-011\n1xOP17-090\n4xOP17-089\n2xOP17-083\n4xOP17-119\n4xOP17-093\n3xOP17-086\n2xOP01-016\n3xOP17-087\n3xOP15-088\n4xOP17-095\n4xOP17-082\n2xOP17-084\n4xOP17-080\n2xOP04-016\n2xOP17-098\n2xOP17-096"
+    },
+    {
+      "name": "Dracule Mihawk — Khoifish (10)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-020\n4xST32-003\n2xOP06-035\n4xOP12-023\n4xST32-001\n4xST32-002\n4xOP15-035\n4xOP12-034\n4xOP17-022\n2xOP12-031\n2xOP13-031\n4xOP06-033\n3xOP08-036\n4xOP06-038\n3xOP01-055\n2xOP14-039"
+    },
+    {
+      "name": "Shanks — PhoenixShiba (11)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-020\n4xOP17-027\n2xOP17-028\n3xOP17-021\n2xOP17-026\n3xOP17-029\n2xST32-001\n2xST32-002\n4xOP17-032\n3xOP17-033\n2xEB04-018\n2xOP17-034\n3xST16-004\n4xOP17-022\n4xOP17-031\n4xOP17-037\n2xOP17-038\n4xOP17-036"
+    },
+    {
+      "name": "Rocks.D.Xebec — Kizarusenpai (12)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-039\n3xOP17-044\n4xOP17-049\n2xOP17-052\n4xOP17-040\n4xOP17-046\n3xOP17-042\n4xOP17-045\n4xOP17-054\n4xOP17-118\n4xOP17-048\n4xOP17-050\n2xEB02-030\n4xOP17-056\n4xOP17-055"
+    },
+    {
+      "name": "Dracule Mihawk — freajski (13)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-020\n4xST32-003\n4xST32-001\n4xOP14-026\n4xST32-002\n3xST24-004\n2xOP07-022\n4xOP14-033\n4xOP12-034\n2xST32-005\n3xOP17-022\n2xOP14-027\n1xOP12-031\n2xOP08-036\n2xOP14-037\n3xOP06-038\n1xOP12-038\n3xOP01-055\n2xOP14-039"
+    },
+    {
+      "name": "Dracule Mihawk — LilyKei (14)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-020\n3xST32-003\n2xOP06-035\n4xOP12-023\n4xST32-001\n4xST32-002\n4xOP07-022\n3xOP14-033\n4xOP12-034\n3xOP17-022\n4xOP06-033\n3xOP08-036\n2xOP14-037\n4xOP06-038\n4xOP01-055\n2xOP14-039"
+    },
+    {
+      "name": "Kaido — JoKer242 (15)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP17-058\n4xOP17-073\n2xOP08-069\n3xST34-004\n4xOP06-076\n4xOP17-062\n2xOP17-063\n4xEB04-031\n2xOP17-061\n4xEB04-032\n4xOP17-074\n2xOP17-078\n2xOP17-077\n4xOP15-078\n3xOP07-076\n4xOP07-077\n2xOP17-076"
+    },
+    {
+      "name": "Dracule Mihawk — WPKaptain (16)",
+      "tags": [
+        "meta",
+        "online",
+        "op",
+        "2026"
+      ],
+      "text": "1xOP14-020\n2xOP06-035\n4xOP12-023\n4xST32-001\n4xST32-002\n4xOP07-022\n4xOP12-034\n3xOP17-022\n4xOP13-031\n4xOP06-033\n4xOP17-031\n2xOP08-036\n2xOP14-037\n3xOP06-038\n4xOP01-055\n2xOP14-039"
+    }
+  ]
+}
