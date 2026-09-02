@@ -7,10 +7,6 @@ on:
     - cron: "12 5 * * *"
   workflow_dispatch:
     inputs:
-      limitless:
-        description: "Scraper aussi Limitless (circuit papier, plus lent)"
-        type: boolean
-        default: true
       forcer_notification:
         description: >
           Notifier le site même si le corpus n'a pas changé. Sert à ÉPROUVER le chemin de
@@ -66,14 +62,23 @@ jobs:
         working-directory: optcgsim-deckpacks-data
         run: python scripts/scrape_chinoizecup.py --top 16 --delay 0.7 --limit-tournaments 20
 
+      # Limitless : circuit papier. Tourne à CHAQUE run, planifié comme manuel.
+      #
+      # Il était gardé par `if: schedule || inputs.limitless` pour ne pas solliciter
+      # Limitless à chaque dispatch. Effet réel : aucun run planifié n'ayant encore eu lieu,
+      # le circuit papier n'a plus été collecté du tout pendant un mois, sans que rien ne le
+      # signale — le corpus grossissait (côté en ligne), donc tout paraissait sain.
+      #
+      # Fenêtre à 3 mois et non 1 : sur 1 mois, un tournoi manqué pendant une semaine de
+      # panne sort définitivement de portée. C'est ce qui a fait perdre Wolverhampton. La
+      # fusion étant une union, re-scraper du déjà-vu ne coûte que des requêtes.
       - name: Scraper Limitless
-        if: github.event_name == 'schedule' || inputs.limitless
         working-directory: optcgsim-deckpacks-data
         # Région par région : le listing global renvoyait moins de tournois que l'union des
         # régions, même après correction de la pagination.
         run: |
           for r in eu na la oc asia; do
-            python scripts/scrape_limitless.py --region "$r" --time 1months --top 16 --delay 0.7 || true
+            python scripts/scrape_limitless.py --region "$r" --time 3months --top 16 --delay 0.7 || true
           done
 
       # Rien n'est commité sans être valide. Un corpus cassé publié automatiquement serait
