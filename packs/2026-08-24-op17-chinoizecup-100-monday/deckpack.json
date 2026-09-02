@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "[OP17] ChinoizeCup #100 Monday",
   "author": "chinoizecup-scraper",
-  "description": "Top 16 from \"[OP17] ChinoizeCup #100 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a859fd478baaa6d1c2237a9",
+  "description": "Top 16 from \"[OP17] ChinoizeCup #100 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a859fd478baaa6d1c2237a9 Merged across runs.",
   "decks": [
     {
       "name": "Dracule Mihawk — UPS_Employee (1)",

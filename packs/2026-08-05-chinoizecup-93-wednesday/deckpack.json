@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "ChinoizeCup #93 Wednesday",
   "author": "chinoizecup-scraper",
-  "description": "Top 16 from \"ChinoizeCup #93 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a69f434937230b102d48242",
+  "description": "Top 16 from \"ChinoizeCup #93 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a69f434937230b102d48242 Merged across runs.",
   "decks": [
     {
       "name": "Dracule Mihawk — WPKaptain (1)",

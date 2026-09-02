@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "[OP17] ChinoizeCup #103 Monday",
   "author": "chinoizecup-scraper",
-  "description": "Top 16 from \"[OP17] ChinoizeCup #103 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a8f02a77a62de813013f92f",
+  "description": "Top 16 from \"[OP17] ChinoizeCup #103 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a8f02a77a62de813013f92f Merged across runs.",
   "decks": [
     {
       "name": "Dracule Mihawk — legendarysword34 (1)",

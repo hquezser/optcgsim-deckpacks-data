@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "ChinoizeCup #91 Monday",
   "author": "chinoizecup-scraper",
-  "description": "Top 16 from \"ChinoizeCup #91 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a69f18b52c24ac2da64f093",
+  "description": "Top 16 from \"ChinoizeCup #91 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a69f18b52c24ac2da64f093 Merged across runs.",
   "decks": [
     {
       "name": "Monkey.D.Luffy — Adimski (1)",

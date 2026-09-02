@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "[OP17] ChinoizeCup #98 Tuesday",
   "author": "chinoizecup-scraper",
-  "description": "Top 16 from \"[OP17] ChinoizeCup #98 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a7d7b64cdc0391d7fa65402",
+  "description": "Top 16 from \"[OP17] ChinoizeCup #98 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a7d7b64cdc0391d7fa65402 Merged across runs.",
   "decks": [
     {
       "name": "Rocks.D.Xebec — Donkaiser (1)",

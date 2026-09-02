@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "ChinoizeCup #96 Wednesday",
   "author": "chinoizecup-scraper",
-  "description": "Top 16 from \"ChinoizeCup #96 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a72f170cdc0391d7fa5d226",
+  "description": "Top 16 from \"ChinoizeCup #96 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a72f170cdc0391d7fa5d226 Merged across runs.",
   "decks": [
     {
       "name": "Luffy & Ace — kevyzhou (1)",

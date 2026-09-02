@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "ChinoizeCup #92 Tuesday",
   "author": "chinoizecup-scraper",
-  "description": "Top 16 from \"ChinoizeCup #92 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a69f30e52c24ac2da64f096",
+  "description": "Top 16 from \"ChinoizeCup #92 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a69f30e52c24ac2da64f096 Merged across runs.",
   "decks": [
     {
       "name": "Monkey.D.Luffy — HashtagEMB (1)",

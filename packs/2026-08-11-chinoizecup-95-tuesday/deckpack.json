@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "ChinoizeCup #95 Tuesday",
   "author": "chinoizecup-scraper",
-  "description": "Top 16 from \"ChinoizeCup #95 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a72f07a2b308b6067b4a76f",
+  "description": "Top 16 from \"ChinoizeCup #95 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a72f07a2b308b6067b4a76f Merged across runs.",
   "decks": [
     {
       "name": "Boa Hancock — LilyKei (1)",

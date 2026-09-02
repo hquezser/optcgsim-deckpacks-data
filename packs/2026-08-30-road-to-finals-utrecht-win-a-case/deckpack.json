@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "ROAD TO FINALS UTRECHT - WIN A CASE",
   "author": "chinoizecup-scraper",
-  "description": "Top 16 from \"ROAD TO FINALS UTRECHT - WIN A CASE\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a438fca83fd320299bd49ef",
+  "description": "Top 16 from \"ROAD TO FINALS UTRECHT - WIN A CASE\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a438fca83fd320299bd49ef Merged across runs.",
   "decks": [
     {
       "name": "Monkey.D.Luffy — Jonathan_Frakes (1)",

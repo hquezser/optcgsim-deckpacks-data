@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "ChinoizeCup #94 Monday",
   "author": "chinoizecup-scraper",
-  "description": "Top 16 from \"ChinoizeCup #94 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a72eef32b308b6067b4a76b",
+  "description": "Top 16 from \"ChinoizeCup #94 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a72eef32b308b6067b4a76b Merged across runs.",
   "decks": [
     {
       "name": "Eustass\"Captain\"Kid — enderu (1)",

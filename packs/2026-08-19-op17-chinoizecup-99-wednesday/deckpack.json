@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "[OP17] ChinoizeCup #99 Wednesday",
   "author": "chinoizecup-scraper",
-  "description": "Top 16 from \"[OP17] ChinoizeCup #99 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a7d7ed32b308b6067b529d0",
+  "description": "Top 16 from \"[OP17] ChinoizeCup #99 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a7d7ed32b308b6067b529d0 Merged across runs.",
   "decks": [
     {
       "name": "Rocks.D.Xebec — Cenkonator (1)",
