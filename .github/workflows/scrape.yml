@@ -1,0 +1,113 @@
+name: Scraping planifié
+
+on:
+  schedule:
+    # Une fois par jour, 05:12 UTC. Heure décalée volontairement : les minutes rondes sont
+    # les plus chargées chez GitHub, et un cron à l'heure pile est souvent retardé.
+    - cron: "12 5 * * *"
+  workflow_dispatch:
+    inputs:
+      limitless:
+        description: "Scraper aussi Limitless (circuit papier, plus lent)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+# Jamais deux scrapings simultanés : ils écriraient dans le même `packs/`.
+concurrency:
+  group: scraping
+  cancel-in-progress: false
+
+jobs:
+  scraper:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: optcgsim-deckpacks-data
+
+      # Le validateur du format vit dans le dépôt voisin, atteint par chemin relatif.
+      - uses: actions/checkout@v4
+        with:
+          repository: hquezser/optcgsim-deckpacks
+          path: optcgsim-deckpacks
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        working-directory: optcgsim-deckpacks-data
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+
+      # ChinoizeCupStats : coupes en ligne, quotidiennes. C'est la source qui bouge le plus,
+      # et celle dont le pool est en avance sur le circuit papier.
+      #
+      # Sans `--force`, l'écriture est une UNION par nom de deck : un run qui voit moins de
+      # decks qu'un précédent (site incomplet, decklist en échec) ne peut pas détruire un
+      # pack plus riche. C'est ce qui rend un scraping non surveillé acceptable — l'incident
+      # inverse s'est produit à la main, un pack de 16 decks réduit à 5.
+      - name: Scraper ChinoizeCupStats
+        working-directory: optcgsim-deckpacks-data
+        run: python scripts/scrape_chinoizecup.py --top 16 --delay 0.7 --limit-tournaments 20
+
+      - name: Scraper Limitless
+        if: github.event_name == 'schedule' || inputs.limitless
+        working-directory: optcgsim-deckpacks-data
+        # Région par région : le listing global renvoyait moins de tournois que l'union des
+        # régions, même après correction de la pagination.
+        run: |
+          for r in eu na la oc asia; do
+            python scripts/scrape_limitless.py --region "$r" --time 1months --top 16 --delay 0.7 || true
+          done
+
+      # Rien n'est commité sans être valide. Un corpus cassé publié automatiquement serait
+      # pire que pas de mise à jour du tout.
+      - name: Valider tout le corpus
+        working-directory: optcgsim-deckpacks-data
+        run: python ../optcgsim-deckpacks/scripts/validate.py packs/*
+
+      - name: Tests de la règle de fusion
+        working-directory: optcgsim-deckpacks-data
+        run: python -m pytest -q tests/
+
+      - name: Commiter si le corpus a changé
+        id: commit
+        working-directory: optcgsim-deckpacks-data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- packs/; then
+            echo "change=non" >> "$GITHUB_OUTPUT"
+            echo "Corpus inchangé — rien à commiter."
+            exit 0
+          fi
+          n_t=$(ls -d packs/*/ | wc -l | tr -d ' ')
+          n_d=$(python -c 'import json,glob; print(sum(len(json.load(open(f))["decks"]) for f in glob.glob("packs/*/deckpack.json")))')
+          git add packs/
+          # Deux -m plutôt qu'une chaîne multiligne : dans un bloc `run: |`, une chaîne
+          # multiligne hériterait de l'indentation YAML jusque dans le message de commit.
+          git commit \
+            -m "packs : scraping automatique ($n_t tournois, $n_d decklists)" \
+            -m "Écriture par UNION : un run qui voit moins de decks ne peut pas appauvrir un pack existant. Corpus validé contre la spec, et tests de fusion verts, avant ce commit."
+          git push
+          echo "change=oui" >> "$GITHUB_OUTPUT"
+
+      # Le site vit dans un autre dépôt : il faut le prévenir, sinon il resterait sur des
+      # données périmées jusqu'au prochain changement de son propre code.
+      - name: Demander le redéploiement du site
+        if: steps.commit.outputs.change == 'oui'
+        env:
+          GH_TOKEN: ${{ secrets.DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::warning::secret DISPATCH_TOKEN absent — le site ne sera pas redéployé."
+            echo "Créez un token à portée 'repo' et ajoutez-le en secret DISPATCH_TOKEN."
+            exit 0
+          fi
+          gh api repos/hquezser/optcgsim-deckpacks-library/dispatches \
+            -f event_type=corpus-mis-a-jour
