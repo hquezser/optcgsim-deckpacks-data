@@ -36,6 +36,31 @@ from bs4 import BeautifulSoup
 BASE = "https://chinoizecupstats.com"
 USER_AGENT = "optcgsim-deckpacks-data/1.0 (community scraper; +https://github.com/hquezser)"
 
+# Nombre d'échecs SERVEUR consécutifs (429, 5xx) après lequel on arrête la collecte.
+#
+# Sans ce garde-fou, une erreur par tournoi faisait simplement « skip » et on passait au
+# suivant : sur un site qui répond 503 en bloc, le scraper enchaînait ses 20 tournois, donc
+# une vingtaine de requêtes contre un serveur qui vient précisément de dire qu'il est
+# saturé. Constaté le 2026-09-03, chinoizecupstats.com répondant 503 et son robots.txt
+# « usage_exceeded ».
+#
+# Trois, pas un : un 503 isolé arrive, et abandonner au premier rendrait la collecte
+# inutilement fragile. Une SÉRIE de trois, elle, ne se produit pas par hasard.
+MAX_ECHECS_SERVEUR = 3
+
+
+def _est_saturation(exc: Exception) -> bool:
+    """L'erreur dit-elle « je suis saturé » plutôt que « cette page n'existe pas » ?
+
+    Un 404 concerne un tournoi et ne justifie pas d'arrêter ; un 429 ou un 5xx concerne le
+    serveur entier, et insister est au mieux inutile, au pire nuisible.
+    """
+    r = getattr(exc, "response", None)
+    if r is None:
+        # Timeout, connexion refusée, DNS : pas un code HTTP, mais le même verdict.
+        return isinstance(exc, (requests.Timeout, requests.ConnectionError))
+    return r.status_code == 429 or r.status_code >= 500
+
 # Card image URL pattern: .../one-piece/<SET>/<CARD_ID>_EN.webp
 CARD_IMG_RE = re.compile(
     r"limitlesstcg\.nyc3\.cdn\.digitaloceanspaces\.com/one-piece/[^/]+/([^/]+)_EN\.webp"
@@ -298,6 +323,8 @@ def main(argv: Iterable[str] | None = None) -> int:
     cache: dict[str, Decklist | None] = {}
     written = 0
     skipped = 0
+    echecs_serveur = 0
+    interrompu = False
     for tid in tids:
         turl = f"{BASE}/tournaments/{tid}"
         try:
@@ -305,7 +332,19 @@ def main(argv: Iterable[str] | None = None) -> int:
         except requests.RequestException as e:
             print(f"  ! tournament {tid} fetch failed: {e}", file=sys.stderr)
             skipped += 1
+            if _est_saturation(e):
+                echecs_serveur += 1
+                if echecs_serveur >= MAX_ECHECS_SERVEUR:
+                    print(f"\n! SOURCE SATUREE : {echecs_serveur} echecs serveur "
+                          f"consecutifs sur {BASE}. Collecte interrompue — on ne reessaie "
+                          f"pas maintenant. Les packs deja ecrits sont conserves (la fusion "
+                          f"est une union), le prochain passage rattrapera.",
+                          file=sys.stderr)
+                    interrompu = True
+                    break
             continue
+        # Une réussite remet le compteur à zéro : ce sont les SÉRIES qui comptent.
+        echecs_serveur = 0
         time.sleep(args.delay)
         if not decks:
             print(f"  · {tid}: no decks in standings, skipping", file=sys.stderr)
@@ -372,7 +411,13 @@ def main(argv: Iterable[str] | None = None) -> int:
         print(f"  ✓ {t.slug}: {count} decks (dropped {dropped}){suffixe}", file=sys.stderr)
         written += 1
 
-    print(f"\nDone: {written} pack(s) written, {skipped} skipped → {out}/", file=sys.stderr)
+    etat = " — INTERROMPU (source saturée)" if interrompu else ""
+    print(f"\nDone: {written} pack(s) written, {skipped} skipped → {out}/{etat}",
+          file=sys.stderr)
+    # Code de sortie 0 même interrompu : le corpus écrit est valide et la fusion étant une
+    # union, rien n'est perdu. Faire échouer l'étape empêcherait le scraping de Limitless de
+    # tourner ensuite et bloquerait le commit de ce qui a bien été collecté. L'interruption
+    # est signalée par la ligne ci-dessus, que la CI remonte en annotation.
     return 0
 
 

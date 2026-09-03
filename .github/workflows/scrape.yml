@@ -60,7 +60,28 @@ jobs:
       # inverse s'est produit à la main, un pack de 16 decks réduit à 5.
       - name: Scraper ChinoizeCupStats
         working-directory: optcgsim-deckpacks-data
-        run: python scripts/scrape_chinoizecup.py --top 16 --delay 0.7 --limit-tournaments 20
+        # `pipefail` explicite : sans lui, `python … | tee` renverrait le code de `tee`,
+        # toujours 0, et une vraie panne du scraper passerait pour un succès.
+        run: |
+          set -o pipefail
+          python scripts/scrape_chinoizecup.py --top 16 --delay 0.7 \
+            --limit-tournaments 20 2>&1 | tee /tmp/chinoize.log
+
+      # La collecte s'arrête d'elle-même quand la source répond en 429/5xx trois fois de
+      # suite (cf. MAX_ECHECS_SERVEUR). Ce n'est PAS un échec — le corpus écrit est valide et
+      # la fusion étant une union, le prochain passage rattrape — mais ça doit être visible :
+      # si ça se répète, c'est que la source est durablement en difficulté, et c'est à nous
+      # d'espacer ou de demander un accès dédié.
+      - name: Signaler une source saturée
+        if: always()
+        run: |
+          if grep -q 'SOURCE SATUREE' /tmp/chinoize.log 2>/dev/null; then
+            echo "::warning title=Source saturée::chinoizecupstats.com a répondu en erreur serveur à répétition ; la collecte s'est interrompue d'elle-même."
+            echo "### ⚠ Source saturée" >> "$GITHUB_STEP_SUMMARY"
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            echo "La collecte ChinoizeCupStats s'est interrompue après des erreurs serveur répétées." >> "$GITHUB_STEP_SUMMARY"
+            echo "Si ça se reproduit, espacer le cron ou demander un accès dédié." >> "$GITHUB_STEP_SUMMARY"
+          fi
 
       # Limitless : circuit papier. Tourne à CHAQUE run, planifié comme manuel.
       #
