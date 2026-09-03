@@ -16,7 +16,7 @@ import re
 import sys
 import time
 from dataclasses import dataclass, field
-from datetime import datetime
+from datetime import date, datetime
 from pathlib import Path
 from typing import Iterable
 
@@ -367,6 +367,41 @@ def load_existing(path: Path) -> dict | None:
     return dp
 
 
+# Délai de grâce avant de considérer un tournoi comme définitivement collecté. Même valeur
+# et même raison que dans le scraper ChinoizeCup : un tournoi terminé ne change plus, mais
+# ses decklists peuvent arriver en retard sur la source.
+JOURS_DE_GRACE = 3
+
+
+def deja_collecte(path: Path, attendu: int, slug: str) -> bool:
+    """Le pack sur disque rend-il inutile de re-télécharger ses decklists ?
+
+    Vrai seulement si le pack existe, contient au moins autant de decks AVEC TEXTE que ce
+    que le listing propose, et que le tournoi est plus vieux que JOURS_DE_GRACE.
+
+    Sans ce garde-fou, chaque passage re-téléchargeait toutes les decklists de la fenêtre —
+    une par requête — alors que les packs étaient déjà complets. Le coût d'un tournoi doit
+    être payé une fois, pas tous les jours.
+
+    Les trois portes de rattrapage restent ouvertes : pack absent, pack incomplet (à
+    n'importe quel âge), ou tournoi récent.
+    """
+    try:
+        dp = load_existing(path)
+    except RuntimeError:
+        # Pack illisible : on ne saute pas. Le recollecter est la seule issue utile.
+        return False
+    if dp is None:
+        return False
+    avec_texte = sum(1 for d in dp["decks"] if d.get("text"))
+    if avec_texte < attendu or avec_texte == 0:
+        return False
+    m = re.match(r"^(\d{4})-(\d{2})-(\d{2})", slug)
+    if not m:
+        return True          # pas de date lisible : « complet » est le seul signal
+    return (date.today() - date(*map(int, m.groups()))).days > JOURS_DE_GRACE
+
+
 def merge_decks(existing: list[dict], new: list[dict]) -> tuple[list[dict], int, int]:
     """Union existing and freshly scraped decks, keyed on deck name.
 
@@ -498,6 +533,11 @@ def main(argv: Iterable[str] | None = None) -> int:
     ap.add_argument("--limit-tournaments", type=int, default=0, help="0 = all")
     ap.add_argument("--max-pages", type=int, default=50, help="listing pages to walk at most")
     ap.add_argument(
+        "--resync", action="store_true",
+        help="re-télécharger même les tournois déjà collectés (non destructif, "
+             "contrairement à --force)",
+    )
+    ap.add_argument(
         "--force",
         action="store_true",
         help="replace existing packs instead of merging into them (destructive)",
@@ -530,6 +570,7 @@ def main(argv: Iterable[str] | None = None) -> int:
     cache: dict[str, Decklist | None] = {}
     written = 0
     skipped = 0
+    sautes = 0
     failed = 0
     slugs: dict[str, str] = {}  # slug -> tournament url, so two events never share a pack
     for t in tournaments:
@@ -545,6 +586,13 @@ def main(argv: Iterable[str] | None = None) -> int:
             print(f"  ! slug collision on {t.slug}, using {t.slug}-{n}", file=sys.stderr)
             t.slug = f"{t.slug}-{n}"
         dp = build_deckpack(t, args.top, region_label, args.time)
+        # Déjà collecté et réglé : aucune requête. C'est ce qui rend une fenêtre large
+        # gratuite, et donc le rattrapage des trous possible.
+        if not (args.resync or args.force) and \
+                deja_collecte(Path(args.output) / t.slug / "deckpack.json",
+                              len(dp["decks"]), t.slug):
+            sautes += 1
+            continue
         # fetch decklists
         for d in dp["decks"]:
             url = d["_source_url"]
@@ -577,6 +625,7 @@ def main(argv: Iterable[str] | None = None) -> int:
 
     print(
         f"\nDone: {written} pack(s) written, {skipped} skipped"
+        + (f", {sautes} déjà collecté(s) et non redemandé(s)" if sautes else "")
         + (f", {failed} failed" if failed else "")
         + f" → {out}/",
         file=sys.stderr,

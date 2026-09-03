@@ -132,3 +132,61 @@ def test_un_manifeste_illisible_n_interrompt_pas_l_indexation(tmp_path):
 
 def test_un_dossier_de_sortie_absent_donne_un_index_vide(tmp_path):
     assert sc.indexer_deja_collectes(tmp_path / "absent") == {}
+
+
+# ── Même règle côté Limitless ───────────────────────────────────────────────────────────
+# Le scraper papier avait le même défaut : ~304 requêtes de decklistes par passage sur une
+# fenêtre déjà entièrement collectée.
+
+import scrape_limitless as sl  # noqa: E402
+
+
+def _pack_limitless(racine, slug, n_decks=16, n_avec_texte=16):
+    d = racine / slug
+    d.mkdir(parents=True)
+    (d / "deckpack.json").write_text(json.dumps({
+        "schema_version": 1,
+        "name": slug,
+        "author": "limitlesstcg-scraper",
+        "decks": [{"name": f"A — J{i} ({i + 1}st)", "tags": ["meta"],
+                   **({"text": "1xOP16-001\n4xOP16-020"} if i < n_avec_texte else {})}
+                  for i in range(n_decks)],
+    }), encoding="utf-8")
+    return d / "deckpack.json"
+
+
+def test_limitless_saute_un_tournoi_complet_et_ancien(tmp_path):
+    slug = f"{_slug_age(30)}-regional-x"
+    m = _pack_limitless(tmp_path, slug)
+    assert sl.deja_collecte(m, 16, slug)
+
+
+def test_limitless_redemande_un_tournoi_recent(tmp_path):
+    slug = f"{_slug_age(1)}-regional-x"
+    m = _pack_limitless(tmp_path, slug)
+    assert not sl.deja_collecte(m, 16, slug)
+
+
+def test_limitless_redemande_si_le_listing_propose_plus_de_decks(tmp_path):
+    """Le cas qui justifie de comparer au listing et pas seulement à soi-même : un top 8
+    collecté hier, passé en top 16 aujourd'hui, doit être recollecté.
+    """
+    slug = f"{_slug_age(30)}-regional-x"
+    m = _pack_limitless(tmp_path, slug, n_decks=8, n_avec_texte=8)
+    assert not sl.deja_collecte(m, 16, slug)
+    assert sl.deja_collecte(m, 8, slug)
+
+
+def test_limitless_redemande_un_pack_incomplet(tmp_path):
+    slug = f"{_slug_age(30)}-regional-x"
+    m = _pack_limitless(tmp_path, slug, n_decks=16, n_avec_texte=10)
+    assert not sl.deja_collecte(m, 16, slug)
+
+
+def test_limitless_ne_saute_pas_un_pack_absent_ou_illisible(tmp_path):
+    slug = f"{_slug_age(30)}-regional-x"
+    assert not sl.deja_collecte(tmp_path / slug / "deckpack.json", 16, slug)
+    d = tmp_path / slug
+    d.mkdir(parents=True)
+    (d / "deckpack.json").write_text("{ cassé", encoding="utf-8")
+    assert not sl.deja_collecte(d / "deckpack.json", 16, slug)
