@@ -54,6 +54,11 @@ jobs:
       # ChinoizeCupStats : coupes en ligne, quotidiennes. C'est la source qui bouge le plus,
       # et celle dont le pool est en avance sur le circuit papier.
       #
+      # Fenêtre à 40 tournois et non 20 : depuis que le scraper saute ce qu'il a déjà
+      # collecté (index par identifiant de tournoi), élargir ne coûte RIEN en requêtes et
+      # rattrape les trous qu'aurait laissés une semaine de CI en panne. Le coût d'un
+      # tournoi est payé une fois, pas tous les jours.
+      #
       # Sans `--force`, l'écriture est une UNION par nom de deck : un run qui voit moins de
       # decks qu'un précédent (site incomplet, decklist en échec) ne peut pas détruire un
       # pack plus riche. C'est ce qui rend un scraping non surveillé acceptable — l'incident
@@ -65,7 +70,7 @@ jobs:
         run: |
           set -o pipefail
           python scripts/scrape_chinoizecup.py --top 16 --delay 0.7 \
-            --limit-tournaments 20 2>&1 | tee /tmp/chinoize.log
+            --limit-tournaments 40 2>&1 | tee /tmp/chinoize.log
 
       # La collecte s'arrête d'elle-même quand la source répond en 429/5xx trois fois de
       # suite (cf. MAX_ECHECS_SERVEUR). Ce n'est PAS un échec — le corpus écrit est valide et

@@ -23,7 +23,7 @@ import re
 import sys
 import time
 from dataclasses import dataclass, field
-from datetime import datetime
+from datetime import date, datetime
 from pathlib import Path
 from typing import Iterable
 
@@ -47,6 +47,57 @@ USER_AGENT = "optcgsim-deckpacks-data/1.0 (community scraper; +https://github.co
 # Trois, pas un : un 503 isolé arrive, et abandonner au premier rendrait la collecte
 # inutilement fragile. Une SÉRIE de trois, elle, ne se produit pas par hasard.
 MAX_ECHECS_SERVEUR = 3
+
+# Délai de grâce avant de considérer un tournoi comme DÉFINITIVEMENT collecté.
+#
+# Un tournoi terminé ne change plus, mais ses decklists peuvent arriver en retard sur la
+# source : les rejouer pendant quelques jours rattrape ces ajouts. Passé ce délai, plus rien
+# ne bouge et re-télécharger est du gaspillage pur.
+#
+# Mesuré le 2026-09-03 : la synchro re-téléchargeait chaque jour les 20 tournois les plus
+# récents — 341 requêtes — alors que les 20 étaient DÉJÀ complets localement. Soit environ
+# 340 requêtes quotidiennes pour rien, contre un site qui répondait 503 le jour même.
+JOURS_DE_GRACE = 3
+
+# `Source tournament: https://…/tournaments/<id>` dans la description d'un pack. C'est la
+# clé qui relie un pack local à un tournoi de la source, et elle est écrite par ce script
+# depuis le début — donc utilisable sur tout le corpus existant, sans migration.
+_TID_DANS_DESCRIPTION = re.compile(r"/tournaments/([0-9a-f]{24})")
+
+
+def indexer_deja_collectes(out: Path) -> dict[str, bool]:
+    """tid -> « ce tournoi est définitivement collecté, ne pas le redemander ».
+
+    Vrai seulement si le pack local est COMPLET (chaque deck a son texte) et que le tournoi
+    est plus vieux que JOURS_DE_GRACE. Un pack incomplet, un tournoi récent ou un tournoi
+    inconnu redonnent lieu à une requête : le saut ne doit jamais empêcher de rattraper.
+    """
+    index: dict[str, bool] = {}
+    if not out.is_dir():
+        return index
+    aujourd_hui = date.today()
+    for manifeste in sorted(out.glob("*/deckpack.json")):
+        try:
+            d = json.loads(manifeste.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            continue
+        m = _TID_DANS_DESCRIPTION.search(d.get("description") or "")
+        if not m:
+            continue
+        decks = d.get("decks") or []
+        complet = bool(decks) and all(dk.get("text") for dk in decks)
+        if not complet:
+            index[m.group(1)] = False
+            continue
+        # Âge du tournoi, lu sur le préfixe de date du dossier. Sans date lisible, on s'en
+        # tient à « complet = réglé » : il n'y a rien d'autre sur quoi s'appuyer.
+        mdate = re.match(r"^(\d{4})-(\d{2})-(\d{2})", manifeste.parent.name)
+        if mdate:
+            jours = (aujourd_hui - date(*map(int, mdate.groups()))).days
+            index[m.group(1)] = jours > JOURS_DE_GRACE
+        else:
+            index[m.group(1)] = True
+    return index
 
 
 def _est_saturation(exc: Exception) -> bool:
@@ -297,6 +348,11 @@ def main(argv: Iterable[str] | None = None) -> int:
              "Example: 6a43969983fd320299bd4a17",
     )
     ap.add_argument(
+        "--resync", action="store_true",
+        help="re-télécharger même les tournois déjà collectés (non destructif, "
+             "contrairement à --force). À utiliser si la source a corrigé des decklists.",
+    )
+    ap.add_argument(
         "--force", action="store_true",
         help="replace existing packs instead of merging into them. Off by default: a run "
              "that sees fewer decks must never destroy a richer pack already on disk.",
@@ -320,13 +376,25 @@ def main(argv: Iterable[str] | None = None) -> int:
         if args.limit_tournaments:
             tids = tids[: args.limit_tournaments]
 
+    # Ce qu'on a déjà, pour ne pas le redemander. Calculé une fois, avant la boucle.
+    deja = {} if (args.resync or args.force) else indexer_deja_collectes(out)
+    if deja:
+        regles = sum(1 for v in deja.values() if v)
+        print(f"→ {len(deja)} tournoi(s) déjà en local, dont {regles} réglé(s) "
+              f"(> {JOURS_DE_GRACE} jours et complets) : ceux-là ne seront pas redemandés",
+              file=sys.stderr)
+
     cache: dict[str, Decklist | None] = {}
     written = 0
     skipped = 0
+    sautes = 0
     echecs_serveur = 0
     interrompu = False
     for tid in tids:
         turl = f"{BASE}/tournaments/{tid}"
+        if deja.get(tid):
+            sautes += 1
+            continue
         try:
             name, date_iso, decks = fetch_tournament(session, tid)
         except requests.RequestException as e:
@@ -412,7 +480,8 @@ def main(argv: Iterable[str] | None = None) -> int:
         written += 1
 
     etat = " — INTERROMPU (source saturée)" if interrompu else ""
-    print(f"\nDone: {written} pack(s) written, {skipped} skipped → {out}/{etat}",
+    epargne = f", {sautes} déjà collecté(s) et non redemandé(s)" if sautes else ""
+    print(f"\nDone: {written} pack(s) written, {skipped} skipped{epargne} → {out}/{etat}",
           file=sys.stderr)
     # Code de sortie 0 même interrompu : le corpus écrit est valide et la fusion étant une
     # union, rien n'est perdu. Faire échouer l'étape empêcherait le scraping de Limitless de
