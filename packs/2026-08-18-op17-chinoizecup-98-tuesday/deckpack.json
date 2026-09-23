@@ -1,11 +1,16 @@
 {
   "schema_version": 1,
   "name": "[OP17] ChinoizeCup #98 Tuesday",
+  "format": "OP17",
+  "date": "2026-08-18",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"[OP17] ChinoizeCup #98 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a7d7b64cdc0391d7fa65402 Merged across runs.",
   "decks": [
     {
       "name": "Rocks.D.Xebec — Donkaiser (1)",
+      "archetype": "Rocks.D.Xebec",
+      "player": "Donkaiser",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +21,9 @@
     },
     {
       "name": "Rocks.D.Xebec — Rukyy (2)",
+      "archetype": "Rocks.D.Xebec",
+      "player": "Rukyy",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +34,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Beton1996 (3)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Beton1996",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +47,9 @@
     },
     {
       "name": "Monkey.D.Luffy — TheEgman (4)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "TheEgman",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +60,9 @@
     },
     {
       "name": "Rocks.D.Xebec — fuat (5)",
+      "archetype": "Rocks.D.Xebec",
+      "player": "fuat",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +73,9 @@
     },
     {
       "name": "Rocks.D.Xebec — Roko Zoric (6)",
+      "archetype": "Rocks.D.Xebec",
+      "player": "Roko Zoric",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +86,9 @@
     },
     {
       "name": "Sabo — azirite (7)",
+      "archetype": "Sabo",
+      "player": "azirite",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +99,9 @@
     },
     {
       "name": "Rocks.D.Xebec — MrPolypous (8)",
+      "archetype": "Rocks.D.Xebec",
+      "player": "MrPolypous",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +112,9 @@
     },
     {
       "name": "Rocks.D.Xebec — MaGe (9)",
+      "archetype": "Rocks.D.Xebec",
+      "player": "MaGe",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +125,9 @@
     },
     {
       "name": "Rocks.D.Xebec — AsherB (10)",
+      "archetype": "Rocks.D.Xebec",
+      "player": "AsherB",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +138,9 @@
     },
     {
       "name": "Rocks.D.Xebec — Nicolooo (11)",
+      "archetype": "Rocks.D.Xebec",
+      "player": "Nicolooo",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +151,9 @@
     },
     {
       "name": "Sabo — troru (12)",
+      "archetype": "Sabo",
+      "player": "troru",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +164,9 @@
     },
     {
       "name": "Dracule Mihawk — DragoATX (13)",
+      "archetype": "Dracule Mihawk",
+      "player": "DragoATX",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +177,9 @@
     },
     {
       "name": "Sabo — Nightingale (14)",
+      "archetype": "Sabo",
+      "player": "Nightingale",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +190,9 @@
     },
     {
       "name": "Portgas.D.Ace — RubenTR (15)",
+      "archetype": "Portgas.D.Ace",
+      "player": "RubenTR",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +203,9 @@
     },
     {
       "name": "Rocks.D.Xebec — Sanders94 (16)",
+      "archetype": "Rocks.D.Xebec",
+      "player": "Sanders94",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

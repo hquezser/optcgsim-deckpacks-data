@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #51 Wednesday",
+  "date": "2026-04-29",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #51 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/69e9d45378b359b789d69dae",
   "decks": [
     {
       "name": "Nami — Martix (1)",
+      "archetype": "Nami",
+      "player": "Martix",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Enel — SaTa (2)",
+      "archetype": "Enel",
+      "player": "SaTa",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Nami — Tuncay (3)",
+      "archetype": "Nami",
+      "player": "Tuncay",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Portgas.D.Ace — asce712 (4)",
+      "archetype": "Portgas.D.Ace",
+      "player": "asce712",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Boa Hancock — volkiso (5)",
+      "archetype": "Boa Hancock",
+      "player": "volkiso",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Enel — DZayas (6)",
+      "archetype": "Enel",
+      "player": "DZayas",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Sanji — Nightingale (7)",
+      "archetype": "Sanji",
+      "player": "Nightingale",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Enel — FenoHS (8)",
+      "archetype": "Enel",
+      "player": "FenoHS",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Enel — Dietmarholzer (9)",
+      "archetype": "Enel",
+      "player": "Dietmarholzer",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Enel — Patpat (10)",
+      "archetype": "Enel",
+      "player": "Patpat",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (11)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Jewelry Bonney — ErickLeon (12)",
+      "archetype": "Jewelry Bonney",
+      "player": "ErickLeon",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Enel — lordRafa (13)",
+      "archetype": "Enel",
+      "player": "lordRafa",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Marshall.D.Teach — fuat (14)",
+      "archetype": "Marshall.D.Teach",
+      "player": "fuat",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Enel — Beton1996 (15)",
+      "archetype": "Enel",
+      "player": "Beton1996",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Monkey.D.Luffy — ricmasterflash (16)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "ricmasterflash",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

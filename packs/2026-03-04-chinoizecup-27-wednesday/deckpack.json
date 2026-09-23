@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #27 Wednesday",
+  "date": "2026-03-04",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #27 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/699a225bc9dc8186f7609b99",
   "decks": [
     {
       "name": "Donquixote Rosinante — Krullzor (1)",
+      "archetype": "Donquixote Rosinante",
+      "player": "Krullzor",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Imu — fuat (2)",
+      "archetype": "Imu",
+      "player": "fuat",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Shirahoshi — kevyzhou (3)",
+      "archetype": "Shirahoshi",
+      "player": "kevyzhou",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Donquixote Doflamingo — enderu (4)",
+      "archetype": "Donquixote Doflamingo",
+      "player": "enderu",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Monkey.D.Luffy — CDCe (5)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "CDCe",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Nami — hassantcg (6)",
+      "archetype": "Nami",
+      "player": "hassantcg",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Lim — Dissonance075 (7)",
+      "archetype": "Lim",
+      "player": "Dissonance075",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Donquixote Rosinante — bobamask (8)",
+      "archetype": "Donquixote Rosinante",
+      "player": "bobamask",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Boa Hancock — Matzel0307 (9)",
+      "archetype": "Boa Hancock",
+      "player": "Matzel0307",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (10)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Sanji — Radical (11)",
+      "archetype": "Sanji",
+      "player": "Radical",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Boa Hancock — Spartacus2224 (12)",
+      "archetype": "Boa Hancock",
+      "player": "Spartacus2224",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Pongui (13)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Pongui",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Portgas.D.Ace — Jellybeanzs (14)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Jellybeanzs",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Crocodile — Dinosaurtime (15)",
+      "archetype": "Crocodile",
+      "player": "Dinosaurtime",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Sanji — joshi490 (16)",
+      "archetype": "Sanji",
+      "player": "joshi490",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

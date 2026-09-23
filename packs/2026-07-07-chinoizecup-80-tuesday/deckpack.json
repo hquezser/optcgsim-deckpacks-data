@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #80 Tuesday",
+  "date": "2026-07-07",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #80 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a462d78c87cd9ff0a3151c0",
   "decks": [
     {
       "name": "Enel — Wortaxx (1)",
+      "archetype": "Enel",
+      "player": "Wortaxx",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Marshall.D.Teach — JTD (2)",
+      "archetype": "Marshall.D.Teach",
+      "player": "JTD",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Enel — lordRafa (3)",
+      "archetype": "Enel",
+      "player": "lordRafa",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Nami — Martix (4)",
+      "archetype": "Nami",
+      "player": "Martix",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Monkey.D.Luffy — igordiasr (5)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "igordiasr",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Nami — Karlitos1 (6)",
+      "archetype": "Nami",
+      "player": "Karlitos1",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Donquixote Rosinante — MaGe (7)",
+      "archetype": "Donquixote Rosinante",
+      "player": "MaGe",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Nami — Joller (8)",
+      "archetype": "Nami",
+      "player": "Joller",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Nami — Knee (9)",
+      "archetype": "Nami",
+      "player": "Knee",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Luffy & Ace — GreenD (10)",
+      "archetype": "Luffy & Ace",
+      "player": "GreenD",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Veki97 (11)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Veki97",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Portgas.D.Ace — asce712 (12)",
+      "archetype": "Portgas.D.Ace",
+      "player": "asce712",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Monkey.D.Luffy — tinnoy (13)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "tinnoy",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Enel — Kazzer (14)",
+      "archetype": "Enel",
+      "player": "Kazzer",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Nami — iacca7 (15)",
+      "archetype": "Nami",
+      "player": "iacca7",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Monkey.D.Luffy — JoKer242 (16)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "JoKer242",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

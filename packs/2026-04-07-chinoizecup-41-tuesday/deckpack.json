@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #41 Tuesday",
+  "date": "2026-04-07",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #41 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/69ce39e4d478313a15a398d5",
   "decks": [
     {
       "name": "Nami — NikolayBaydanov (1)",
+      "archetype": "Nami",
+      "player": "NikolayBaydanov",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Nami — Captivat3 (2)",
+      "archetype": "Nami",
+      "player": "Captivat3",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Gecko Moria — Djabundance (3)",
+      "archetype": "Gecko Moria",
+      "player": "Djabundance",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Kalgara — BMKid (4)",
+      "archetype": "Kalgara",
+      "player": "BMKid",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Roronoa Zoro — Fr4ud (5)",
+      "archetype": "Roronoa Zoro",
+      "player": "Fr4ud",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Crocodile — nytrex (6)",
+      "archetype": "Crocodile",
+      "player": "nytrex",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Enel — Simpiii (7)",
+      "archetype": "Enel",
+      "player": "Simpiii",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Marshall.D.Teach — Xevi (8)",
+      "archetype": "Marshall.D.Teach",
+      "player": "Xevi",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Nami — Medros (9)",
+      "archetype": "Nami",
+      "player": "Medros",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Nami — Legandes (10)",
+      "archetype": "Nami",
+      "player": "Legandes",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Enel — DZayas (11)",
+      "archetype": "Enel",
+      "player": "DZayas",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Enel — ricmasterflash (12)",
+      "archetype": "Enel",
+      "player": "ricmasterflash",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Enel — Wortaxx (13)",
+      "archetype": "Enel",
+      "player": "Wortaxx",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Donquixote Doflamingo — IamGoose (14)",
+      "archetype": "Donquixote Doflamingo",
+      "player": "IamGoose",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Nami — freajski (15)",
+      "archetype": "Nami",
+      "player": "freajski",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Boa Hancock — yolomoustachio (16)",
+      "archetype": "Boa Hancock",
+      "player": "yolomoustachio",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

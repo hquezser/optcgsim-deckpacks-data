@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #40 Monday",
+  "date": "2026-04-06",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #40 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/69ce394d36f5b5c303dc4c61",
   "decks": [
     {
       "name": "Enel — Frodon (1)",
+      "archetype": "Enel",
+      "player": "Frodon",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Lucy — Dearcan (2)",
+      "archetype": "Lucy",
+      "player": "Dearcan",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Enel — kevyzhou (3)",
+      "archetype": "Enel",
+      "player": "kevyzhou",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Crocodile — Kakacartas (4)",
+      "archetype": "Crocodile",
+      "player": "Kakacartas",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Lucy — BrokenBall (5)",
+      "archetype": "Lucy",
+      "player": "BrokenBall",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Portgas.D.Ace — bornax10 (6)",
+      "archetype": "Portgas.D.Ace",
+      "player": "bornax10",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Crocodile — mblawluffy (7)",
+      "archetype": "Crocodile",
+      "player": "mblawluffy",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Enel — Captivat3 (8)",
+      "archetype": "Enel",
+      "player": "Captivat3",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Enel — Hendrok (9)",
+      "archetype": "Enel",
+      "player": "Hendrok",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Gecko Moria — lukas123 (10)",
+      "archetype": "Gecko Moria",
+      "player": "lukas123",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Adimski (11)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Adimski",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Gecko Moria — OtakuProwder (12)",
+      "archetype": "Gecko Moria",
+      "player": "OtakuProwder",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Crocodile — Slodea (13)",
+      "archetype": "Crocodile",
+      "player": "Slodea",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Nami — Solmyr (14)",
+      "archetype": "Nami",
+      "player": "Solmyr",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Monkey.D.Luffy — CDCe (15)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "CDCe",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Donquixote Doflamingo — tsvaac (16)",
+      "archetype": "Donquixote Doflamingo",
+      "player": "tsvaac",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

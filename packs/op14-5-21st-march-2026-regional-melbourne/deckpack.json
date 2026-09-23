@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "OP14.5 21st March 2026 - Regional Melbourne",
+  "format": "OP14.5",
   "author": "limitlesstcg-scraper",
   "description": "Top 16 from \"OP14.5 21st March 2026 - Regional Melbourne\" (region=Oceania, time=6months). Scraped from https://onepiece.limitlesstcg.com/decks/lists. Source tournament: https://onepiece.limitlesstcg.com/tournaments/382",
   "decks": [
     {
       "name": "Purple/Yellow Rosinante — Joshua Allcock (1st)",
+      "archetype": "Purple/Yellow Rosinante",
+      "player": "Joshua Allcock",
+      "placement": 1,
       "tags": [
         "meta",
         "Oceania",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Purple/Yellow Rosinante — Jacob Kontominas (2nd)",
+      "archetype": "Purple/Yellow Rosinante",
+      "player": "Jacob Kontominas",
+      "placement": 2,
       "tags": [
         "meta",
         "Oceania",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Red/Blue Ace — Huy Doan (3rd)",
+      "archetype": "Red/Blue Ace",
+      "player": "Huy Doan",
+      "placement": 3,
       "tags": [
         "meta",
         "Oceania",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Purple/Yellow Rosinante — Kenny Pham (4th)",
+      "archetype": "Purple/Yellow Rosinante",
+      "player": "Kenny Pham",
+      "placement": 4,
       "tags": [
         "meta",
         "Oceania",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Purple Doflamingo — Yuxuan Feng (5th)",
+      "archetype": "Purple Doflamingo",
+      "player": "Yuxuan Feng",
+      "placement": 5,
       "tags": [
         "meta",
         "Oceania",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Black Imu — Jasper Zowiesyah (6th)",
+      "archetype": "Black Imu",
+      "player": "Jasper Zowiesyah",
+      "placement": 6,
       "tags": [
         "meta",
         "Oceania",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Green Mihawk — Tristan Leao (7th)",
+      "archetype": "Green Mihawk",
+      "player": "Tristan Leao",
+      "placement": 7,
       "tags": [
         "meta",
         "Oceania",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Red/Blue Ace — Hubert Chau (8th)",
+      "archetype": "Red/Blue Ace",
+      "player": "Hubert Chau",
+      "placement": 8,
       "tags": [
         "meta",
         "Oceania",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Blue/Yellow Nami — Nicholas Koh (9th)",
+      "archetype": "Blue/Yellow Nami",
+      "player": "Nicholas Koh",
+      "placement": 9,
       "tags": [
         "meta",
         "Oceania",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Green Mihawk — Kevin Ta (10th)",
+      "archetype": "Green Mihawk",
+      "player": "Kevin Ta",
+      "placement": 10,
       "tags": [
         "meta",
         "Oceania",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Purple/Yellow Rosinante — Ian Zhong (11th)",
+      "archetype": "Purple/Yellow Rosinante",
+      "player": "Ian Zhong",
+      "placement": 11,
       "tags": [
         "meta",
         "Oceania",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Black Imu — Zhuan Zhe Lim (12th)",
+      "archetype": "Black Imu",
+      "player": "Zhuan Zhe Lim",
+      "placement": 12,
       "tags": [
         "meta",
         "Oceania",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Blue/Purple Luffy — Mark Guan (13th)",
+      "archetype": "Blue/Purple Luffy",
+      "player": "Mark Guan",
+      "placement": 13,
       "tags": [
         "meta",
         "Oceania",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Green Mihawk — Jermaine Yuen (14th)",
+      "archetype": "Green Mihawk",
+      "player": "Jermaine Yuen",
+      "placement": 14,
       "tags": [
         "meta",
         "Oceania",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Black Imu — Isaac Low (15th)",
+      "archetype": "Black Imu",
+      "player": "Isaac Low",
+      "placement": 15,
       "tags": [
         "meta",
         "Oceania",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Red/Green Luffy — Andre Wong (16th)",
+      "archetype": "Red/Green Luffy",
+      "player": "Andre Wong",
+      "placement": 16,
       "tags": [
         "meta",
         "Oceania",

@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #61 Monday",
+  "date": "2026-05-25",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #61 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a0d9ff113f957d6d4b4bc65",
   "decks": [
     {
       "name": "Lucy — GoroseiBest (1)",
+      "archetype": "Lucy",
+      "player": "GoroseiBest",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Nami — Martix (2)",
+      "archetype": "Nami",
+      "player": "Martix",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Enel — Xevi (3)",
+      "archetype": "Enel",
+      "player": "Xevi",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Nami — Tecturo (4)",
+      "archetype": "Nami",
+      "player": "Tecturo",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Enel — WPKaptain (5)",
+      "archetype": "Enel",
+      "player": "WPKaptain",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Nami — loremassa (6)",
+      "archetype": "Nami",
+      "player": "loremassa",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Enel — TotoRambo (7)",
+      "archetype": "Enel",
+      "player": "TotoRambo",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Portgas.D.Ace — shacher (8)",
+      "archetype": "Portgas.D.Ace",
+      "player": "shacher",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Nami — entaku (9)",
+      "archetype": "Nami",
+      "player": "entaku",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Lucy — keeftcg (10)",
+      "archetype": "Lucy",
+      "player": "keeftcg",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Lucy — Dearcan (11)",
+      "archetype": "Lucy",
+      "player": "Dearcan",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Enel — SaTa (12)",
+      "archetype": "Enel",
+      "player": "SaTa",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Enel — FenoHS (13)",
+      "archetype": "Enel",
+      "player": "FenoHS",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Enel — mblawluffy (14)",
+      "archetype": "Enel",
+      "player": "mblawluffy",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Enel — Nightingale (15)",
+      "archetype": "Enel",
+      "player": "Nightingale",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Frodon (16)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Frodon",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

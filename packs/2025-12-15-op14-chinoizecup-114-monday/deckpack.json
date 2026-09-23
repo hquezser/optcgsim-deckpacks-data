@@ -1,11 +1,16 @@
 {
   "schema_version": 1,
   "name": "[OP14] ChinoizeCup #114 Monday",
+  "format": "OP14",
+  "date": "2025-12-15",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"[OP14] ChinoizeCup #114 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6925a45652eafbbc8117800b",
   "decks": [
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (1)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +21,9 @@
     },
     {
       "name": "Dracule Mihawk — AkAtlas (2)",
+      "archetype": "Dracule Mihawk",
+      "player": "AkAtlas",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +34,9 @@
     },
     {
       "name": "Monkey.D.Luffy — LunatikStrange (3)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "LunatikStrange",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +47,9 @@
     },
     {
       "name": "Gol.D.Roger — Raeffu (4)",
+      "archetype": "Gol.D.Roger",
+      "player": "Raeffu",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +60,9 @@
     },
     {
       "name": "Portgas.D.Ace — MikePsomas (5)",
+      "archetype": "Portgas.D.Ace",
+      "player": "MikePsomas",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +73,9 @@
     },
     {
       "name": "Jewelry Bonney — Dissonance075 (6)",
+      "archetype": "Jewelry Bonney",
+      "player": "Dissonance075",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +86,9 @@
     },
     {
       "name": "Boa Hancock — Law12 (7)",
+      "archetype": "Boa Hancock",
+      "player": "Law12",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +99,9 @@
     },
     {
       "name": "Boa Hancock — Jellybeanzs (8)",
+      "archetype": "Boa Hancock",
+      "player": "Jellybeanzs",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +112,9 @@
     },
     {
       "name": "Gol.D.Roger — RubenTR (9)",
+      "archetype": "Gol.D.Roger",
+      "player": "RubenTR",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +125,9 @@
     },
     {
       "name": "Monkey.D.Luffy — tinnoy (10)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "tinnoy",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +138,9 @@
     },
     {
       "name": "Jinbe — TCGSUXX (11)",
+      "archetype": "Jinbe",
+      "player": "TCGSUXX",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +151,9 @@
     },
     {
       "name": "Portgas.D.Ace — Anacleto (12)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Anacleto",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +164,9 @@
     },
     {
       "name": "Portgas.D.Ace — asce712 (13)",
+      "archetype": "Portgas.D.Ace",
+      "player": "asce712",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +177,9 @@
     },
     {
       "name": "Boa Hancock — Spartacus2224 (14)",
+      "archetype": "Boa Hancock",
+      "player": "Spartacus2224",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +190,9 @@
     },
     {
       "name": "Dracule Mihawk — Alfadas (15)",
+      "archetype": "Dracule Mihawk",
+      "player": "Alfadas",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +203,9 @@
     },
     {
       "name": "Donquixote Doflamingo — Potlehio_1 (16)",
+      "archetype": "Donquixote Doflamingo",
+      "player": "Potlehio_1",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

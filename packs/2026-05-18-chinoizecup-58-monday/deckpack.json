@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #58 Monday",
+  "date": "2026-05-18",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #58 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a05abc913f957d6d4b47a69",
   "decks": [
     {
       "name": "Enel — NikolayBaydanov (1)",
+      "archetype": "Enel",
+      "player": "NikolayBaydanov",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Lucy — Dearcan (2)",
+      "archetype": "Lucy",
+      "player": "Dearcan",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Enel — Ninja1k (3)",
+      "archetype": "Enel",
+      "player": "Ninja1k",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Crocodile — nytrex (4)",
+      "archetype": "Crocodile",
+      "player": "nytrex",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Lucy — Solmyr (5)",
+      "archetype": "Lucy",
+      "player": "Solmyr",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Enel — Slodea (6)",
+      "archetype": "Enel",
+      "player": "Slodea",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Smoker — Maciasoptcg (7)",
+      "archetype": "Smoker",
+      "player": "Maciasoptcg",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Enel — tsvaac (8)",
+      "archetype": "Enel",
+      "player": "tsvaac",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Nami — Gortiz (9)",
+      "archetype": "Nami",
+      "player": "Gortiz",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Enel — Kungar (10)",
+      "archetype": "Enel",
+      "player": "Kungar",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Nami — Spartacus2224 (11)",
+      "archetype": "Nami",
+      "player": "Spartacus2224",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Enel — SaTa (12)",
+      "archetype": "Enel",
+      "player": "SaTa",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Crocodile — BrokenBall (13)",
+      "archetype": "Crocodile",
+      "player": "BrokenBall",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Enel — WPKaptain (14)",
+      "archetype": "Enel",
+      "player": "WPKaptain",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Portgas.D.Ace — shacher (15)",
+      "archetype": "Portgas.D.Ace",
+      "player": "shacher",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Enel — lordRafa (16)",
+      "archetype": "Enel",
+      "player": "lordRafa",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

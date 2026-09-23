@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #59 Tuesday",
+  "date": "2026-05-19",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #59 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a05ac8013f957d6d4b47a6c",
   "decks": [
     {
       "name": "Kalgara — BMKid (1)",
+      "archetype": "Kalgara",
+      "player": "BMKid",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Monkey.D.Luffy — ricmasterflash (2)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "ricmasterflash",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Lucy — GoroseiBest (3)",
+      "archetype": "Lucy",
+      "player": "GoroseiBest",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Nami — YWJmanu (4)",
+      "archetype": "Nami",
+      "player": "YWJmanu",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Enel — ReydelosPiratas (5)",
+      "archetype": "Enel",
+      "player": "ReydelosPiratas",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Enel — WPKaptain (6)",
+      "archetype": "Enel",
+      "player": "WPKaptain",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Nami — Jamie V (7)",
+      "archetype": "Nami",
+      "player": "Jamie V",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Enel — jonjp (8)",
+      "archetype": "Enel",
+      "player": "jonjp",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Nami — TrenoFelice (9)",
+      "archetype": "Nami",
+      "player": "TrenoFelice",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Crocodile — Arulogunb (10)",
+      "archetype": "Crocodile",
+      "player": "Arulogunb",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Gecko Moria — Escanorr (11)",
+      "archetype": "Gecko Moria",
+      "player": "Escanorr",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Portgas.D.Ace — Lexinator22 (12)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Lexinator22",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Imu — ScareCrown (13)",
+      "archetype": "Imu",
+      "player": "ScareCrown",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Enel — Definitive (14)",
+      "archetype": "Enel",
+      "player": "Definitive",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Portgas.D.Ace — lordRafa (15)",
+      "archetype": "Portgas.D.Ace",
+      "player": "lordRafa",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Dracule Mihawk — DragoATX (16)",
+      "archetype": "Dracule Mihawk",
+      "player": "DragoATX",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

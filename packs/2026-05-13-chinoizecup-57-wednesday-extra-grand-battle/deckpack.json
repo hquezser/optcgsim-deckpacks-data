@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #57 Wednesday EXTRA GRAND BATTLE",
+  "date": "2026-05-13",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #57 Wednesday EXTRA GRAND BATTLE\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/69fc5548e23aab068aadd0aa",
   "decks": [
     {
       "name": "Nami — iacca7 (1)",
+      "archetype": "Nami",
+      "player": "iacca7",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Launus (2)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Launus",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Nami — NikolayBaydanov (3)",
+      "archetype": "Nami",
+      "player": "NikolayBaydanov",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Monkey.D.Luffy — CDCe (4)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "CDCe",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Ninssasin (5)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Ninssasin",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (6)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Enel — Ninja1k (7)",
+      "archetype": "Enel",
+      "player": "Ninja1k",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Malick B (8)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Malick B",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Enel — MayaPapaya (9)",
+      "archetype": "Enel",
+      "player": "MayaPapaya",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Enel — Challi (10)",
+      "archetype": "Enel",
+      "player": "Challi",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Lucy — Traumis (11)",
+      "archetype": "Lucy",
+      "player": "Traumis",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Nami — thanos29 (12)",
+      "archetype": "Nami",
+      "player": "thanos29",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Nami — ntt_jdog (13)",
+      "archetype": "Nami",
+      "player": "ntt_jdog",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Enel — Patpat (14)",
+      "archetype": "Enel",
+      "player": "Patpat",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Dracule Mihawk — freajski (15)",
+      "archetype": "Dracule Mihawk",
+      "player": "freajski",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Solmyr (16)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Solmyr",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

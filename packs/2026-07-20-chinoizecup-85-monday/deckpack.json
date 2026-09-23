@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #85 Monday",
+  "date": "2026-07-20",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #85 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a5753e5232a1a55ee10ccaa",
   "decks": [
     {
       "name": "Monkey.D.Luffy — Frodon (1)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Frodon",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Dracule Mihawk — WPKaptain (2)",
+      "archetype": "Dracule Mihawk",
+      "player": "WPKaptain",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Dracule Mihawk — Kereminator (3)",
+      "archetype": "Dracule Mihawk",
+      "player": "Kereminator",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Tommy N (4)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Tommy N",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Boa Hancock — yolomoustachio (5)",
+      "archetype": "Boa Hancock",
+      "player": "yolomoustachio",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Enel — SnillLiLYT (6)",
+      "archetype": "Enel",
+      "player": "SnillLiLYT",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Marshall.D.Teach — Xevi (7)",
+      "archetype": "Marshall.D.Teach",
+      "player": "Xevi",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Eustass\"Captain\"Kid — MaGe (8)",
+      "archetype": "Eustass\"Captain\"Kid",
+      "player": "MaGe",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (9)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Shanks — MaxiFree (10)",
+      "archetype": "Shanks",
+      "player": "MaxiFree",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Eustass\"Captain\"Kid — Gefen H (11)",
+      "archetype": "Eustass\"Captain\"Kid",
+      "player": "Gefen H",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Donquixote Rosinante — Kungar (12)",
+      "archetype": "Donquixote Rosinante",
+      "player": "Kungar",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Kalgara — BMKid (13)",
+      "archetype": "Kalgara",
+      "player": "BMKid",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Monkey.D.Luffy — DaJoosh (14)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "DaJoosh",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Krieg — markoqt (15)",
+      "archetype": "Krieg",
+      "player": "markoqt",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Dracule Mihawk — Mattia C (16)",
+      "archetype": "Dracule Mihawk",
+      "player": "Mattia C",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

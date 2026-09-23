@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #81 Wednesday",
+  "date": "2026-07-08",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #81 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a462e0bc87cd9ff0a3151c2",
   "decks": [
     {
       "name": "Donquixote Rosinante — kevyzhou (1)",
+      "archetype": "Donquixote Rosinante",
+      "player": "kevyzhou",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Nami — Gringoloco (2)",
+      "archetype": "Nami",
+      "player": "Gringoloco",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (3)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Kalgara — Matzel0307 (4)",
+      "archetype": "Kalgara",
+      "player": "Matzel0307",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Portgas.D.Ace — NikolayBaydanov (5)",
+      "archetype": "Portgas.D.Ace",
+      "player": "NikolayBaydanov",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Boa Hancock — Mossheadd (6)",
+      "archetype": "Boa Hancock",
+      "player": "Mossheadd",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Nami — UPS_Employee (7)",
+      "archetype": "Nami",
+      "player": "UPS_Employee",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Marshall.D.Teach — Icebarg (8)",
+      "archetype": "Marshall.D.Teach",
+      "player": "Icebarg",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Marshall.D.Teach — Simpiii (9)",
+      "archetype": "Marshall.D.Teach",
+      "player": "Simpiii",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Boa Hancock — volkiso (10)",
+      "archetype": "Boa Hancock",
+      "player": "volkiso",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Suppy (11)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Suppy",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Donquixote Rosinante — NinjaTrain (12)",
+      "archetype": "Donquixote Rosinante",
+      "player": "NinjaTrain",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Gol.D.Roger — RubenTR5 (13)",
+      "archetype": "Gol.D.Roger",
+      "player": "RubenTR5",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Veki97 (14)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Veki97",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Portgas.D.Ace — Redbeard1 (15)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Redbeard1",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Monkey.D.Luffy — igordiasr (16)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "igordiasr",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

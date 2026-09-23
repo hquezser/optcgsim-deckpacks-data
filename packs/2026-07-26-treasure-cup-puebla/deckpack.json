@@ -1,11 +1,16 @@
 {
   "schema_version": 1,
   "name": "OP16 26th July 2026 - Treasure Cup Puebla",
+  "format": "OP16",
+  "date": "2026-07-26",
   "author": "limitlesstcg-scraper",
   "description": "Top 15 from \"OP16 26th July 2026 - Treasure Cup Puebla\" (region=Latin America, time=3months). Scraped from https://onepiece.limitlesstcg.com/decks/lists. Merged with the previously scraped pack. Source tournament: https://onepiece.limitlesstcg.com/tournaments/449",
   "decks": [
     {
       "name": "Blue/Yellow Nami — LA/Smile (1st)",
+      "archetype": "Blue/Yellow Nami",
+      "player": "LA/Smile",
+      "placement": 1,
       "tags": [
         "meta",
         "all",
@@ -17,6 +22,9 @@
     },
     {
       "name": "Purple Enel — Jcobs (2nd)",
+      "archetype": "Purple Enel",
+      "player": "Jcobs",
+      "placement": 2,
       "tags": [
         "meta",
         "all",
@@ -28,6 +36,9 @@
     },
     {
       "name": "Blue/Yellow Nami — Peligro (3rd)",
+      "archetype": "Blue/Yellow Nami",
+      "player": "Peligro",
+      "placement": 3,
       "tags": [
         "meta",
         "all",
@@ -39,6 +50,9 @@
     },
     {
       "name": "Purple Enel — Celes [WL] (4th)",
+      "archetype": "Purple Enel",
+      "player": "Celes [WL]",
+      "placement": 4,
       "tags": [
         "meta",
         "all",
@@ -50,6 +64,9 @@
     },
     {
       "name": "Blue/Yellow Nami — Jose Luis Alva Cuadros (5th)",
+      "archetype": "Blue/Yellow Nami",
+      "player": "Jose Luis Alva Cuadros",
+      "placement": 5,
       "tags": [
         "meta",
         "all",
@@ -61,6 +78,9 @@
     },
     {
       "name": "Green/Blue Luffy — Zalo (6th)",
+      "archetype": "Green/Blue Luffy",
+      "player": "Zalo",
+      "placement": 6,
       "tags": [
         "meta",
         "all",
@@ -72,6 +92,9 @@
     },
     {
       "name": "Blue/Yellow Nami — CS Kasper (7th)",
+      "archetype": "Blue/Yellow Nami",
+      "player": "CS Kasper",
+      "placement": 7,
       "tags": [
         "meta",
         "all",
@@ -83,6 +106,9 @@
     },
     {
       "name": "Red/Blue Lucy — Crisaac31 (8th)",
+      "archetype": "Red/Blue Lucy",
+      "player": "Crisaac31",
+      "placement": 8,
       "tags": [
         "meta",
         "all",
@@ -94,6 +120,9 @@
     },
     {
       "name": "Purple Enel — Matias Castro (9th)",
+      "archetype": "Purple Enel",
+      "player": "Matias Castro",
+      "placement": 9,
       "tags": [
         "meta",
         "all",
@@ -105,6 +134,9 @@
     },
     {
       "name": "Purple/Yellow Rosinante — Tlapaleria EL ROTOMARTILLO (10th)",
+      "archetype": "Purple/Yellow Rosinante",
+      "player": "Tlapaleria EL ROTOMARTILLO",
+      "placement": 10,
       "tags": [
         "meta",
         "all",
@@ -116,6 +148,9 @@
     },
     {
       "name": "Black/Yellow Blackbeard — DANIEL (12th)",
+      "archetype": "Black/Yellow Blackbeard",
+      "player": "DANIEL",
+      "placement": 12,
       "tags": [
         "meta",
         "all",
@@ -127,6 +162,9 @@
     },
     {
       "name": "Green/Blue Luffy — [FM] Yoshimitsu (13th)",
+      "archetype": "Green/Blue Luffy",
+      "player": "[FM] Yoshimitsu",
+      "placement": 13,
       "tags": [
         "meta",
         "all",
@@ -138,6 +176,9 @@
     },
     {
       "name": "Green/Blue Luffy — Frankopolus (14th)",
+      "archetype": "Green/Blue Luffy",
+      "player": "Frankopolus",
+      "placement": 14,
       "tags": [
         "meta",
         "all",
@@ -149,6 +190,9 @@
     },
     {
       "name": "Purple Enel — CS Donquixote Dochinitos (15th)",
+      "archetype": "Purple Enel",
+      "player": "CS Donquixote Dochinitos",
+      "placement": 15,
       "tags": [
         "meta",
         "all",
@@ -160,6 +204,9 @@
     },
     {
       "name": "Blue/Yellow Nami — Alexis Romero Soto (16th)",
+      "archetype": "Blue/Yellow Nami",
+      "player": "Alexis Romero Soto",
+      "placement": 16,
       "tags": [
         "meta",
         "all",

@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #69 Wednesday",
+  "date": "2026-06-10",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #69 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a21370c47f3797bf6bab668",
   "decks": [
     {
       "name": "Luffy & Ace — kevyzhou (1)",
+      "archetype": "Luffy & Ace",
+      "player": "kevyzhou",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Donquixote Rosinante — GoroseiBest (2)",
+      "archetype": "Donquixote Rosinante",
+      "player": "GoroseiBest",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Marshall.D.Teach — fuat (3)",
+      "archetype": "Marshall.D.Teach",
+      "player": "fuat",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Monkey.D.Luffy — tinnoy (4)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "tinnoy",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Koby — Serifisss (5)",
+      "archetype": "Koby",
+      "player": "Serifisss",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Luffy & Ace — Pacio23 (6)",
+      "archetype": "Luffy & Ace",
+      "player": "Pacio23",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Enel — ReydelosPiratas (7)",
+      "archetype": "Enel",
+      "player": "ReydelosPiratas",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Boa Hancock — volkiso (8)",
+      "archetype": "Boa Hancock",
+      "player": "volkiso",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Marshall.D.Teach — igordiasr (9)",
+      "archetype": "Marshall.D.Teach",
+      "player": "igordiasr",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Donquixote Rosinante — asce712 (10)",
+      "archetype": "Donquixote Rosinante",
+      "player": "asce712",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Marshall.D.Teach — Polishh00 (11)",
+      "archetype": "Marshall.D.Teach",
+      "player": "Polishh00",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Kalgara — BMKid (12)",
+      "archetype": "Kalgara",
+      "player": "BMKid",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Donquixote Rosinante — GreenD (13)",
+      "archetype": "Donquixote Rosinante",
+      "player": "GreenD",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Nami — Timaeh (14)",
+      "archetype": "Nami",
+      "player": "Timaeh",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Marshall.D.Teach — xomnietrek (15)",
+      "archetype": "Marshall.D.Teach",
+      "player": "xomnietrek",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Lucy — Invictus (16)",
+      "archetype": "Lucy",
+      "player": "Invictus",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

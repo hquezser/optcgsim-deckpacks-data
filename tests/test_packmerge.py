@@ -203,6 +203,42 @@ def test_enrichit_text_et_tags_simultanément_compte_un_seul_enrichi():
     assert merged[0]["text"] == "1xNEW"
 
 
+def test_enrichit_meta_structurée_comble_ce_qui_manque():
+    """Méta v1 additif : un pack écrit avant les champs déclaratifs se les voit
+    ajouter à la première fusion qui les apporte — sans rien d'autre toucher."""
+    existing = [_deck("A", tags=["meta"], text="1xOP01-001")]
+    new = [_deck("A", text="1xOP01-001")]
+    new[0].update(archetype="Purple Enel", player="Joueuse A", placement=1)
+    merged, _, enrichis = packmerge.merge_decks(existing, new)
+    a = merged[0]
+    assert (a["archetype"], a["player"], a["placement"]) == ("Purple Enel", "Joueuse A", 1)
+    assert enrichis == 1
+
+
+def test_enrichit_meta_n_écrase_jamais_l_existant():
+    """Un champ déjà déclaré (pack maintenu à la main, ou scrapé avant une
+    correction de la source) n'est jamais réécrit par un nouveau run."""
+    existing = [_deck("A", text="1xOP01-001")]
+    existing[0].update(archetype="Déclaré Amont", player="P0", placement=2)
+    new = [_deck("A", text="1xOP01-001")]
+    new[0].update(archetype="Autre", player="P1", placement=1)
+    merged, _, enrichis = packmerge.merge_decks(existing, new)
+    a = merged[0]
+    assert (a["archetype"], a["player"], a["placement"]) == ("Déclaré Amont", "P0", 2)
+    assert enrichis == 0
+
+
+def test_enrichit_meta_partielle_comble_seulement_le_manquant():
+    existing = [_deck("A", text="1xOP01-001")]
+    existing[0]["placement"] = 5  # déjà déclaré, lui seul survit
+    new = [_deck("A", text="1xOP01-001")]
+    new[0].update(archetype="Enel", player="J", placement=1)
+    merged, _, enrichis = packmerge.merge_decks(existing, new)
+    a = merged[0]
+    assert (a["archetype"], a["player"], a["placement"]) == ("Enel", "J", 5)
+    assert enrichis == 1
+
+
 def test_enrichit_ne_mut_pas_les_données_nouvelles_du_caller():
     """`merge_decks` ne doit pas modifier les entrées de `new` (données fraîches du scraper),
     ni la liste `new` elle-même. L'existant peut être copié/enrichi en place dans le dict
@@ -364,6 +400,31 @@ def test_filet_interne_branchette_atteignable_via_monkeypatch(tmp_path):
 
 
 # --------------------------------------------------------------- describe
+
+
+def test_write_pack_préserve_format_et_date_de_l_existant(tmp_path):
+    """Union au niveau pack : un pack déjà déclaré (backfillé ou maintenu à la
+    main) garde ses `format`/`date` si le nouveau run ne les réémet pas."""
+    base = _pack([_deck("A")])
+    base["format"], base["date"] = "OP16", "2026-07-12"
+    _write_pack(tmp_path / "p", base)
+    dp = _pack([_deck("A"), _deck("B")])  # run sans déclaration pack-level
+    packmerge.write_pack_merged(tmp_path / "p", dp)
+    on_disk = _read_pack(tmp_path / "p")
+    assert on_disk["format"] == "OP16" and on_disk["date"] == "2026-07-12"
+
+
+def test_write_pack_format_du_run_gagne_sur_l_existant(tmp_path):
+    """La déclaration fraîche du run est conservée quand elle existe : un champ
+    corrigé en amont propage sa correction."""
+    base = _pack([_deck("A")])
+    base["format"], base["date"] = "OP15", "2026-07-12"
+    _write_pack(tmp_path / "p", base)
+    dp = _pack([_deck("A")])
+    dp["format"], dp["date"] = "OP16", "2026-07-12"
+    packmerge.write_pack_merged(tmp_path / "p", dp)
+    on_disk = _read_pack(tmp_path / "p")
+    assert on_disk["format"] == "OP16"
 
 
 def test_describe_reçoit_nombre_final_et_bool_fusion(tmp_path):

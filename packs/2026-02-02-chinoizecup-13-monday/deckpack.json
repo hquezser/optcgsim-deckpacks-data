@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #13 Monday",
+  "date": "2026-02-02",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #13 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/697343579c739a2ff7bf5df4",
   "decks": [
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (1)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Lim — Dissonance075 (2)",
+      "archetype": "Lim",
+      "player": "Dissonance075",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Sanji — Patpat (3)",
+      "archetype": "Sanji",
+      "player": "Patpat",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Portgas.D.Ace — Dannolo (4)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Dannolo",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Imu — Gortiz (5)",
+      "archetype": "Imu",
+      "player": "Gortiz",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Sanji — mblawluffy (6)",
+      "archetype": "Sanji",
+      "player": "mblawluffy",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Imu — Kizarusenpai (7)",
+      "archetype": "Imu",
+      "player": "Kizarusenpai",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Imu — Beton1996 (8)",
+      "archetype": "Imu",
+      "player": "Beton1996",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Dracule Mihawk — OtakuProwder (9)",
+      "archetype": "Dracule Mihawk",
+      "player": "OtakuProwder",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Jewelry Bonney — mimamumooo (10)",
+      "archetype": "Jewelry Bonney",
+      "player": "mimamumooo",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Jinbe — cicciopal (11)",
+      "archetype": "Jinbe",
+      "player": "cicciopal",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Sanji — Nightingale (12)",
+      "archetype": "Sanji",
+      "player": "Nightingale",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Boa Hancock — Matzel0307 (13)",
+      "archetype": "Boa Hancock",
+      "player": "Matzel0307",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Imu — TrafalgarBrasa (14)",
+      "archetype": "Imu",
+      "player": "TrafalgarBrasa",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Crocodile — EaZySamu (15)",
+      "archetype": "Crocodile",
+      "player": "EaZySamu",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Monkey.D.Luffy — iagog (16)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "iagog",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #25 Monday",
+  "date": "2026-03-02",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #25 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/699a20af3ef65252b0573e5e",
   "decks": [
     {
       "name": "Nami — loremassa (1)",
+      "archetype": "Nami",
+      "player": "loremassa",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Portgas.D.Ace — NikolayBaydanov (2)",
+      "archetype": "Portgas.D.Ace",
+      "player": "NikolayBaydanov",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Portgas.D.Ace — Xatoliuk (3)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Xatoliuk",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Monkey.D.Luffy — ricmasterflash (4)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "ricmasterflash",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Sanji — Nightingale (5)",
+      "archetype": "Sanji",
+      "player": "Nightingale",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Pongui (6)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Pongui",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Donquixote Rosinante — lukas123 (7)",
+      "archetype": "Donquixote Rosinante",
+      "player": "lukas123",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Imu — fuat (8)",
+      "archetype": "Imu",
+      "player": "fuat",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Donquixote Doflamingo — enderu (9)",
+      "archetype": "Donquixote Doflamingo",
+      "player": "enderu",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Imu — Solmyr (10)",
+      "archetype": "Imu",
+      "player": "Solmyr",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Roronoa Zoro & Sanji — tsvaac (11)",
+      "archetype": "Roronoa Zoro & Sanji",
+      "player": "tsvaac",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Monkey.D.Luffy — CDCe (12)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "CDCe",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Donquixote Rosinante — BMKid (13)",
+      "archetype": "Donquixote Rosinante",
+      "player": "BMKid",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Gol.D.Roger — cicciopal (14)",
+      "archetype": "Gol.D.Roger",
+      "player": "cicciopal",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Dracule Mihawk — lonotus (15)",
+      "archetype": "Dracule Mihawk",
+      "player": "lonotus",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (16)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

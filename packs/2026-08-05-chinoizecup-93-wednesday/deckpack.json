@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #93 Wednesday",
+  "date": "2026-08-05",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #93 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a69f434937230b102d48242 Merged across runs.",
   "decks": [
     {
       "name": "Dracule Mihawk — WPKaptain (1)",
+      "archetype": "Dracule Mihawk",
+      "player": "WPKaptain",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Dracule Mihawk — NikolayBaydanov (2)",
+      "archetype": "Dracule Mihawk",
+      "player": "NikolayBaydanov",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Donquixote Rosinante — luzsnikov (3)",
+      "archetype": "Donquixote Rosinante",
+      "player": "luzsnikov",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Monkey.D.Luffy — prootipie (4)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "prootipie",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Donquixote Rosinante — LyraMera (5)",
+      "archetype": "Donquixote Rosinante",
+      "player": "LyraMera",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Luffy & Ace — kevyzhou (6)",
+      "archetype": "Luffy & Ace",
+      "player": "kevyzhou",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Boa Hancock — volkiso (7)",
+      "archetype": "Boa Hancock",
+      "player": "volkiso",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Boa Hancock — LilyKei (8)",
+      "archetype": "Boa Hancock",
+      "player": "LilyKei",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Marshall.D.Teach — Ahab_693 (9)",
+      "archetype": "Marshall.D.Teach",
+      "player": "Ahab_693",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Enel — AlcantaraTCG (10)",
+      "archetype": "Enel",
+      "player": "AlcantaraTCG",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Monkey.D.Luffy — PhuocKe (11)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "PhuocKe",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Donquixote Rosinante — MaGe (12)",
+      "archetype": "Donquixote Rosinante",
+      "player": "MaGe",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Monkey.D.Luffy — NLTranquility (13)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "NLTranquility",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Monkey.D.Luffy — elkatraz (14)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "elkatraz",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Marshall.D.Teach — Kash1076 (15)",
+      "archetype": "Marshall.D.Teach",
+      "player": "Kash1076",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Charlotte Katakuri — topopablo11 (16)",
+      "archetype": "Charlotte Katakuri",
+      "player": "topopablo11",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

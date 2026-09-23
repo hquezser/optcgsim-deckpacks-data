@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "CHINOIZECUP #200",
+  "date": "2026-07-15",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"CHINOIZECUP #200\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a43969983fd320299bd4a17 Merged across runs.",
   "decks": [
     {
       "name": "Roronoa Zoro & Sanji — Krullzor (1)",
+      "archetype": "Roronoa Zoro & Sanji",
+      "player": "Krullzor",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Monkey.D.Luffy — igordiasr (2)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "igordiasr",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Dracule Mihawk — mirkosp95 (3)",
+      "archetype": "Dracule Mihawk",
+      "player": "mirkosp95",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Monkey.D.Luffy — igot2staydown (4)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "igot2staydown",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Donquixote Rosinante — Stringi020 (5)",
+      "archetype": "Donquixote Rosinante",
+      "player": "Stringi020",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Donquixote Rosinante — GoroseiBest (6)",
+      "archetype": "Donquixote Rosinante",
+      "player": "GoroseiBest",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Dracule Mihawk — Dearcan (7)",
+      "archetype": "Dracule Mihawk",
+      "player": "Dearcan",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Dracule Mihawk — WPKaptain (8)",
+      "archetype": "Dracule Mihawk",
+      "player": "WPKaptain",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Kuzan — Martix (9)",
+      "archetype": "Kuzan",
+      "player": "Martix",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Monkey.D.Luffy — PalzieJP (10)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "PalzieJP",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Enel — Ludvigando (11)",
+      "archetype": "Enel",
+      "player": "Ludvigando",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Kuzan — Satsli (12)",
+      "archetype": "Kuzan",
+      "player": "Satsli",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Donquixote Rosinante — Alpopanda (13)",
+      "archetype": "Donquixote Rosinante",
+      "player": "Alpopanda",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Boa Hancock — yolomoustachio (14)",
+      "archetype": "Boa Hancock",
+      "player": "yolomoustachio",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Donquixote Rosinante — Potlehio (15)",
+      "archetype": "Donquixote Rosinante",
+      "player": "Potlehio",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Crocodile — Slodea (16)",
+      "archetype": "Crocodile",
+      "player": "Slodea",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #29 Tuesday",
+  "date": "2026-03-10",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #29 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/69a593f8a0282967a7310212",
   "decks": [
     {
       "name": "Nami — MenS (1)",
+      "archetype": "Nami",
+      "player": "MenS",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Donquixote Doflamingo — Klaing88 (2)",
+      "archetype": "Donquixote Doflamingo",
+      "player": "Klaing88",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Dracule Mihawk — OtakuProwder (3)",
+      "archetype": "Dracule Mihawk",
+      "player": "OtakuProwder",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Shirahoshi — kevyzhou (4)",
+      "archetype": "Shirahoshi",
+      "player": "kevyzhou",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Jinbe — yung_mlody (5)",
+      "archetype": "Jinbe",
+      "player": "yung_mlody",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Portgas.D.Ace — YWJmanu (6)",
+      "archetype": "Portgas.D.Ace",
+      "player": "YWJmanu",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Portgas.D.Ace — Jellybeanzs (7)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Jellybeanzs",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Smoker — Matt_Murdock (8)",
+      "archetype": "Smoker",
+      "player": "Matt_Murdock",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Donquixote Rosinante — entaku (9)",
+      "archetype": "Donquixote Rosinante",
+      "player": "entaku",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (10)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Monkey.D.Luffy — ricmasterflash (11)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "ricmasterflash",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Monkey.D.Luffy — DDHDTV (12)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "DDHDTV",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Donquixote Rosinante — divalol (13)",
+      "archetype": "Donquixote Rosinante",
+      "player": "divalol",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Boa Hancock — yolomoustachio (14)",
+      "archetype": "Boa Hancock",
+      "player": "yolomoustachio",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Dracule Mihawk — mblawluffy (15)",
+      "archetype": "Dracule Mihawk",
+      "player": "mblawluffy",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Nami — Nem182 (16)",
+      "archetype": "Nami",
+      "player": "Nem182",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

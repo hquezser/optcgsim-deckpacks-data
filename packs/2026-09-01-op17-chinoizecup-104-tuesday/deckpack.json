@@ -1,11 +1,16 @@
 {
   "schema_version": 1,
   "name": "[OP17] ChinoizeCup #104 Tuesday",
+  "format": "OP17",
+  "date": "2026-09-01",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"[OP17] ChinoizeCup #104 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a8f03677a62de813013f933 Merged across runs.",
   "decks": [
     {
       "name": "Dracule Mihawk — OtakuProwder (1)",
+      "archetype": "Dracule Mihawk",
+      "player": "OtakuProwder",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +21,9 @@
     },
     {
       "name": "Dracule Mihawk — Vincaru (2)",
+      "archetype": "Dracule Mihawk",
+      "player": "Vincaru",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +34,9 @@
     },
     {
       "name": "Nico Robin — Kettensaege (3)",
+      "archetype": "Nico Robin",
+      "player": "Kettensaege",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +47,9 @@
     },
     {
       "name": "Nico Robin — Patpat (4)",
+      "archetype": "Nico Robin",
+      "player": "Patpat",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +60,9 @@
     },
     {
       "name": "Dracule Mihawk — UPS_Employee (5)",
+      "archetype": "Dracule Mihawk",
+      "player": "UPS_Employee",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +73,9 @@
     },
     {
       "name": "Edward.Newgate — AsherB (6)",
+      "archetype": "Edward.Newgate",
+      "player": "AsherB",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +86,9 @@
     },
     {
       "name": "Kaido — petemess (7)",
+      "archetype": "Kaido",
+      "player": "petemess",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +99,9 @@
     },
     {
       "name": "Kaido — ScuR (8)",
+      "archetype": "Kaido",
+      "player": "ScuR",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +112,9 @@
     },
     {
       "name": "Nico Robin — tapeinoxamomhlaki (9)",
+      "archetype": "Nico Robin",
+      "player": "tapeinoxamomhlaki",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +125,9 @@
     },
     {
       "name": "Enel — Wortaxx (10)",
+      "archetype": "Enel",
+      "player": "Wortaxx",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +138,9 @@
     },
     {
       "name": "Sabo — asce712 (11)",
+      "archetype": "Sabo",
+      "player": "asce712",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +151,9 @@
     },
     {
       "name": "Dracule Mihawk — Nickson777 (12)",
+      "archetype": "Dracule Mihawk",
+      "player": "Nickson777",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +164,9 @@
     },
     {
       "name": "Jewelry Bonney — Appelmoes (13)",
+      "archetype": "Jewelry Bonney",
+      "player": "Appelmoes",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +177,9 @@
     },
     {
       "name": "Dracule Mihawk — woodmann95 (14)",
+      "archetype": "Dracule Mihawk",
+      "player": "woodmann95",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +190,9 @@
     },
     {
       "name": "Enel — mblawluffy (15)",
+      "archetype": "Enel",
+      "player": "mblawluffy",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +203,9 @@
     },
     {
       "name": "Kaido — Kevin662 (16)",
+      "archetype": "Kaido",
+      "player": "Kevin662",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

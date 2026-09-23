@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #91 Monday",
+  "date": "2026-08-03",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #91 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a69f18b52c24ac2da64f093 Merged across runs.",
   "decks": [
     {
       "name": "Monkey.D.Luffy — Adimski (1)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Adimski",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Marshall.D.Teach — fuat (2)",
+      "archetype": "Marshall.D.Teach",
+      "player": "fuat",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Monkey.D.Luffy — mirkosp95 (3)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "mirkosp95",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Dracule Mihawk — Wil248 (4)",
+      "archetype": "Dracule Mihawk",
+      "player": "Wil248",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Enel — DZayas (5)",
+      "archetype": "Enel",
+      "player": "DZayas",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Boa Hancock — KaidoPato (6)",
+      "archetype": "Boa Hancock",
+      "player": "KaidoPato",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Dracule Mihawk — freajski (7)",
+      "archetype": "Dracule Mihawk",
+      "player": "freajski",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Eustass\"Captain\"Kid — Gefen H (8)",
+      "archetype": "Eustass\"Captain\"Kid",
+      "player": "Gefen H",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Portgas.D.Ace — NikolayBaydanov (9)",
+      "archetype": "Portgas.D.Ace",
+      "player": "NikolayBaydanov",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Monkey.D.Luffy — petemess (10)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "petemess",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Monkey.D.Luffy — ImpelDown (11)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "ImpelDown",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Enel — NatzZz (12)",
+      "archetype": "Enel",
+      "player": "NatzZz",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Dracule Mihawk — divalol (13)",
+      "archetype": "Dracule Mihawk",
+      "player": "divalol",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Eustass\"Captain\"Kid — enderu (14)",
+      "archetype": "Eustass\"Captain\"Kid",
+      "player": "enderu",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Enel — bornax10 (15)",
+      "archetype": "Enel",
+      "player": "bornax10",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Monkey.D.Luffy — MaxiFree (16)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "MaxiFree",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

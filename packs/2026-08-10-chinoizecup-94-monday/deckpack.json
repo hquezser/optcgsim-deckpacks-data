@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #94 Monday",
+  "date": "2026-08-10",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #94 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a72eef32b308b6067b4a76b Merged across runs.",
   "decks": [
     {
       "name": "Eustass\"Captain\"Kid — enderu (1)",
+      "archetype": "Eustass\"Captain\"Kid",
+      "player": "enderu",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (2)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Marshall.D.Teach — Xevi (3)",
+      "archetype": "Marshall.D.Teach",
+      "player": "Xevi",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Dracule Mihawk — freajski (4)",
+      "archetype": "Dracule Mihawk",
+      "player": "freajski",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Gefen H (5)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Gefen H",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Donquixote Rosinante — WPKaptain (6)",
+      "archetype": "Donquixote Rosinante",
+      "player": "WPKaptain",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Boa Hancock — 25Ciel (7)",
+      "archetype": "Boa Hancock",
+      "player": "25Ciel",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Sugar — Ramtin (8)",
+      "archetype": "Sugar",
+      "player": "Ramtin",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Enel — Shapa (9)",
+      "archetype": "Enel",
+      "player": "Shapa",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Yamato — Radical (10)",
+      "archetype": "Yamato",
+      "player": "Radical",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Enel — SnillLiLYT (11)",
+      "archetype": "Enel",
+      "player": "SnillLiLYT",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Sabo — Gringoloco (12)",
+      "archetype": "Sabo",
+      "player": "Gringoloco",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Matzel0307 (13)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Matzel0307",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Monkey.D.Luffy — PolGoFo (14)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "PolGoFo",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Monkey.D.Luffy — BillyBobby (15)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "BillyBobby",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Charlotte Katakuri — Nightingale (16)",
+      "archetype": "Charlotte Katakuri",
+      "player": "Nightingale",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

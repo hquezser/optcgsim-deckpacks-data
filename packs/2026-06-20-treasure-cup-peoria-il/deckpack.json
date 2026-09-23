@@ -1,11 +1,16 @@
 {
   "schema_version": 1,
   "name": "OP16 20th June 2026 - Treasure Cup Peoria, IL",
+  "format": "OP16",
+  "date": "2026-06-20",
   "author": "limitlesstcg-scraper",
   "description": "Top 16 from \"OP16 20th June 2026 - Treasure Cup Peoria, IL\" (region=North America, time=3months). Scraped from https://onepiece.limitlesstcg.com/decks/lists. Source tournament: https://onepiece.limitlesstcg.com/tournaments/439",
   "decks": [
     {
       "name": "Blue/Yellow Nami — Nicholas Pao (1st)",
+      "archetype": "Blue/Yellow Nami",
+      "player": "Nicholas Pao",
+      "placement": 1,
       "tags": [
         "meta",
         "North America",
@@ -16,6 +21,9 @@
     },
     {
       "name": "Purple Enel — Richard Yam (2nd)",
+      "archetype": "Purple Enel",
+      "player": "Richard Yam",
+      "placement": 2,
       "tags": [
         "meta",
         "North America",
@@ -26,6 +34,9 @@
     },
     {
       "name": "Red Ace — Long Le (3rd)",
+      "archetype": "Red Ace",
+      "player": "Long Le",
+      "placement": 3,
       "tags": [
         "meta",
         "North America",
@@ -36,6 +47,9 @@
     },
     {
       "name": "Purple Enel — Eric Quintana (4th)",
+      "archetype": "Purple Enel",
+      "player": "Eric Quintana",
+      "placement": 4,
       "tags": [
         "meta",
         "North America",
@@ -46,6 +60,9 @@
     },
     {
       "name": "Blue/Yellow Nami — SpreadOfCoconut (5th)",
+      "archetype": "Blue/Yellow Nami",
+      "player": "SpreadOfCoconut",
+      "placement": 5,
       "tags": [
         "meta",
         "North America",
@@ -56,6 +73,9 @@
     },
     {
       "name": "Red/Green Luffy & Ace — KZ (6th)",
+      "archetype": "Red/Green Luffy & Ace",
+      "player": "KZ",
+      "placement": 6,
       "tags": [
         "meta",
         "North America",
@@ -66,6 +86,9 @@
     },
     {
       "name": "Black/Yellow Blackbeard — TheTemplars (7th)",
+      "archetype": "Black/Yellow Blackbeard",
+      "player": "TheTemplars",
+      "placement": 7,
       "tags": [
         "meta",
         "North America",
@@ -76,6 +99,9 @@
     },
     {
       "name": "Purple Enel — Sparky (8th)",
+      "archetype": "Purple Enel",
+      "player": "Sparky",
+      "placement": 8,
       "tags": [
         "meta",
         "North America",
@@ -86,6 +112,9 @@
     },
     {
       "name": "Purple Enel — Gerald Orrison (9th)",
+      "archetype": "Purple Enel",
+      "player": "Gerald Orrison",
+      "placement": 9,
       "tags": [
         "meta",
         "North America",
@@ -96,6 +125,9 @@
     },
     {
       "name": "Purple Enel — gary h (10th)",
+      "archetype": "Purple Enel",
+      "player": "gary h",
+      "placement": 10,
       "tags": [
         "meta",
         "North America",
@@ -106,6 +138,9 @@
     },
     {
       "name": "Yellow Enel — Zhanjo (11th)",
+      "archetype": "Yellow Enel",
+      "player": "Zhanjo",
+      "placement": 11,
       "tags": [
         "meta",
         "North America",
@@ -116,6 +151,9 @@
     },
     {
       "name": "Green Mihawk — TC (12th)",
+      "archetype": "Green Mihawk",
+      "player": "TC",
+      "placement": 12,
       "tags": [
         "meta",
         "North America",
@@ -126,6 +164,9 @@
     },
     {
       "name": "Purple Enel — Michael Tal (13th)",
+      "archetype": "Purple Enel",
+      "player": "Michael Tal",
+      "placement": 13,
       "tags": [
         "meta",
         "North America",
@@ -136,6 +177,9 @@
     },
     {
       "name": "Black Yamato — Stitch (14th)",
+      "archetype": "Black Yamato",
+      "player": "Stitch",
+      "placement": 14,
       "tags": [
         "meta",
         "North America",
@@ -146,6 +190,9 @@
     },
     {
       "name": "Black/Yellow Blackbeard — Charlotte Ray (15th)",
+      "archetype": "Black/Yellow Blackbeard",
+      "player": "Charlotte Ray",
+      "placement": 15,
       "tags": [
         "meta",
         "North America",
@@ -156,6 +203,9 @@
     },
     {
       "name": "Purple Enel — tira (16th)",
+      "archetype": "Purple Enel",
+      "player": "tira",
+      "placement": 16,
       "tags": [
         "meta",
         "North America",

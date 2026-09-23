@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "LCQ - ChinoizeCup",
+  "date": "2025-12-17",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"LCQ - ChinoizeCup\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/693949b71b3b036ef6dbdcd4",
   "decks": [
     {
       "name": "Portgas.D.Ace — Kakashiha (1)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Kakashiha",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Portgas.D.Ace — Gefen H (2)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Gefen H",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Imu — Davidmele (3)",
+      "archetype": "Imu",
+      "player": "Davidmele",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Jewelry Bonney — isu19 (3)",
+      "archetype": "Jewelry Bonney",
+      "player": "isu19",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Imu — tinnoy (5)",
+      "archetype": "Imu",
+      "player": "tinnoy",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Portgas.D.Ace — M4xd (5)",
+      "archetype": "Portgas.D.Ace",
+      "player": "M4xd",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Roronoa Zoro — Pain7 (5)",
+      "archetype": "Roronoa Zoro",
+      "player": "Pain7",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Imu — Ponina (5)",
+      "archetype": "Imu",
+      "player": "Ponina",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Imu — Victiny (9)",
+      "archetype": "Imu",
+      "player": "Victiny",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Portgas.D.Ace — BigKahuna999 (9)",
+      "archetype": "Portgas.D.Ace",
+      "player": "BigKahuna999",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Imu — Simpiii (9)",
+      "archetype": "Imu",
+      "player": "Simpiii",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Lim — ricmasterflash (9)",
+      "archetype": "Lim",
+      "player": "ricmasterflash",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Imu — path_daclique (9)",
+      "archetype": "Imu",
+      "player": "path_daclique",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Imu — Ninja1k (9)",
+      "archetype": "Imu",
+      "player": "Ninja1k",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Portgas.D.Ace — Drazhem (9)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Drazhem",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Roronoa Zoro — Bijoux (9)",
+      "archetype": "Roronoa Zoro",
+      "player": "Bijoux",
+      "placement": 9,
       "tags": [
         "meta",
         "online",

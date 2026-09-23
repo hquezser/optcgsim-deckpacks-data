@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #90 Wednesday",
+  "date": "2026-07-29",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #90 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a6094dd52c24ac2da648c8e Merged across runs.",
   "decks": [
     {
       "name": "Enel — DZayas (1)",
+      "archetype": "Enel",
+      "player": "DZayas",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Dracule Mihawk — UPS_Employee (2)",
+      "archetype": "Dracule Mihawk",
+      "player": "UPS_Employee",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Charlotte Katakuri — EchoShadowz (3)",
+      "archetype": "Charlotte Katakuri",
+      "player": "EchoShadowz",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Enel — Juraraw (4)",
+      "archetype": "Enel",
+      "player": "Juraraw",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Sabo — luzsnikov (5)",
+      "archetype": "Sabo",
+      "player": "luzsnikov",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Nami — kakuszicsabi (6)",
+      "archetype": "Nami",
+      "player": "kakuszicsabi",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Donquixote Rosinante — MaGe (7)",
+      "archetype": "Donquixote Rosinante",
+      "player": "MaGe",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Gringoloco (8)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Gringoloco",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Dracule Mihawk — freajski (9)",
+      "archetype": "Dracule Mihawk",
+      "player": "freajski",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Sabo — Maciasoptcg (10)",
+      "archetype": "Sabo",
+      "player": "Maciasoptcg",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Dracule Mihawk — Cinnas (11)",
+      "archetype": "Dracule Mihawk",
+      "player": "Cinnas",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Dracule Mihawk — Jump236 (12)",
+      "archetype": "Dracule Mihawk",
+      "player": "Jump236",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Dracule Mihawk — Udikris U (13)",
+      "archetype": "Dracule Mihawk",
+      "player": "Udikris U",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (14)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Dracule Mihawk — Kereminator (15)",
+      "archetype": "Dracule Mihawk",
+      "player": "Kereminator",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Dracule Mihawk — renenene (16)",
+      "archetype": "Dracule Mihawk",
+      "player": "renenene",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

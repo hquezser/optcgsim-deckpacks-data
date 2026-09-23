@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #24 Wednesday",
+  "date": "2026-02-25",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #24 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/698de852988cfc979bd0e273",
   "decks": [
     {
       "name": "Donquixote Rosinante — Krullzor (1)",
+      "archetype": "Donquixote Rosinante",
+      "player": "Krullzor",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Imu — Philippe L (2)",
+      "archetype": "Imu",
+      "player": "Philippe L",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Dracule Mihawk — lonotus (3)",
+      "archetype": "Dracule Mihawk",
+      "player": "lonotus",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Portgas.D.Ace — Jellybeanzs (4)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Jellybeanzs",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Gecko Moria — SinfulEgg (5)",
+      "archetype": "Gecko Moria",
+      "player": "SinfulEgg",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Trafalgar Law — Warn (6)",
+      "archetype": "Trafalgar Law",
+      "player": "Warn",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Sabo — Patpat (7)",
+      "archetype": "Sabo",
+      "player": "Patpat",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Nefeltari Vivi — ricmasterflash (8)",
+      "archetype": "Nefeltari Vivi",
+      "player": "ricmasterflash",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Crocodile — Gligi (9)",
+      "archetype": "Crocodile",
+      "player": "Gligi",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Jinbe — yung_mlody (10)",
+      "archetype": "Jinbe",
+      "player": "yung_mlody",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Nami — Xevi (11)",
+      "archetype": "Nami",
+      "player": "Xevi",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Portgas.D.Ace — Lexinator22 (12)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Lexinator22",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Donquixote Rosinante — Cristian14 (13)",
+      "archetype": "Donquixote Rosinante",
+      "player": "Cristian14",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Sanji — Bonesaw (14)",
+      "archetype": "Sanji",
+      "player": "Bonesaw",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (15)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Monkey.D.Luffy — ShoWTimE (16)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "ShoWTimE",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

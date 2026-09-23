@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #34 Monday",
+  "date": "2026-03-23",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #34 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/69a5959637ec291d6c2e74f5",
   "decks": [
     {
       "name": "Lucy — Solmyr (1)",
+      "archetype": "Lucy",
+      "player": "Solmyr",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Donquixote Doflamingo — tsvaac (2)",
+      "archetype": "Donquixote Doflamingo",
+      "player": "tsvaac",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Lucy — keeftcg (3)",
+      "archetype": "Lucy",
+      "player": "keeftcg",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Jewelry Bonney — Dissonance075 (4)",
+      "archetype": "Jewelry Bonney",
+      "player": "Dissonance075",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Portgas.D.Ace — Lexinator22 (5)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Lexinator22",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Enel — yung_mlody (6)",
+      "archetype": "Enel",
+      "player": "yung_mlody",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Enel — Wortaxx (7)",
+      "archetype": "Enel",
+      "player": "Wortaxx",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Nami — Spartacus2224 (8)",
+      "archetype": "Nami",
+      "player": "Spartacus2224",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Xatoliuk (9)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Xatoliuk",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Gol.D.Roger — TotoRambo (10)",
+      "archetype": "Gol.D.Roger",
+      "player": "TotoRambo",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Nami — onuron (11)",
+      "archetype": "Nami",
+      "player": "onuron",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Monkey.D.Luffy — tinnoy (12)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "tinnoy",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Kalgara — Nightingale (13)",
+      "archetype": "Kalgara",
+      "player": "Nightingale",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Kalgara — Matzel0307 (14)",
+      "archetype": "Kalgara",
+      "player": "Matzel0307",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Kalgara — BMKid (15)",
+      "archetype": "Kalgara",
+      "player": "BMKid",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Monkey.D.Luffy — CDCe (16)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "CDCe",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

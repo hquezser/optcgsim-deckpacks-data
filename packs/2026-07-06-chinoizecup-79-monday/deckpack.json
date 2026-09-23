@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #79 Monday",
+  "date": "2026-07-06",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #79 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a462d0c83fd320299bd63af",
   "decks": [
     {
       "name": "Portgas.D.Ace — NikolayBaydanov (1)",
+      "archetype": "Portgas.D.Ace",
+      "player": "NikolayBaydanov",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Donquixote Rosinante — freajski (2)",
+      "archetype": "Donquixote Rosinante",
+      "player": "freajski",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Donquixote Rosinante — Kungar (3)",
+      "archetype": "Donquixote Rosinante",
+      "player": "Kungar",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Monkey.D.Luffy — fuat (4)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "fuat",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Nightingale (5)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Nightingale",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Nami — KiritoSaga (6)",
+      "archetype": "Nami",
+      "player": "KiritoSaga",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Portgas.D.Ace — asce712 (7)",
+      "archetype": "Portgas.D.Ace",
+      "player": "asce712",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Jellybeanzs (8)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Jellybeanzs",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Donquixote Rosinante — WPKaptain (9)",
+      "archetype": "Donquixote Rosinante",
+      "player": "WPKaptain",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Monkey.D.Luffy — HashtagEMB (10)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "HashtagEMB",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Crocodile — Slodea (11)",
+      "archetype": "Crocodile",
+      "player": "Slodea",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Monkey.D.Luffy — blund (12)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "blund",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Nami — OphionRage (13)",
+      "archetype": "Nami",
+      "player": "OphionRage",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Monkey.D.Luffy — cicciopal (14)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "cicciopal",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Devonntje (15)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Devonntje",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Monkey.D.Luffy — ReydelosPiratas (16)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "ReydelosPiratas",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

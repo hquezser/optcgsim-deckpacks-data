@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #63 Wednesday",
+  "date": "2026-05-27",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #63 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a0da13edfbdf089cbbddca0",
   "decks": [
     {
       "name": "Enel — Martix (1)",
+      "archetype": "Enel",
+      "player": "Martix",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Donquixote Rosinante — BMKid (2)",
+      "archetype": "Donquixote Rosinante",
+      "player": "BMKid",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (3)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Lucy — Heltia (4)",
+      "archetype": "Lucy",
+      "player": "Heltia",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Launus (5)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Launus",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Enel — Ninja1k (6)",
+      "archetype": "Enel",
+      "player": "Ninja1k",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Dracule Mihawk — Ahab_693 (7)",
+      "archetype": "Dracule Mihawk",
+      "player": "Ahab_693",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Jewelry Bonney — Patpat (8)",
+      "archetype": "Jewelry Bonney",
+      "player": "Patpat",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Gefen H (9)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Gefen H",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Enel — prootipie (10)",
+      "archetype": "Enel",
+      "player": "prootipie",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Enel — M4xd (11)",
+      "archetype": "Enel",
+      "player": "M4xd",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Enel — ReydelosPiratas (12)",
+      "archetype": "Enel",
+      "player": "ReydelosPiratas",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Lucy — LorCap97 (13)",
+      "archetype": "Lucy",
+      "player": "LorCap97",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Nami — EsorY11 (14)",
+      "archetype": "Nami",
+      "player": "EsorY11",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Dracule Mihawk — Syncsy (15)",
+      "archetype": "Dracule Mihawk",
+      "player": "Syncsy",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Enel — lordRafa (16)",
+      "archetype": "Enel",
+      "player": "lordRafa",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #66 Wednesday",
+  "date": "2026-06-03",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #66 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a1711658c163b809799866b",
   "decks": [
     {
       "name": "Yamato — kevyzhou (1)",
+      "archetype": "Yamato",
+      "player": "kevyzhou",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Enel — DZayas (2)",
+      "archetype": "Enel",
+      "player": "DZayas",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Kalgara — BMKid (3)",
+      "archetype": "Kalgara",
+      "player": "BMKid",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Marshall.D.Teach — TonyBojji (4)",
+      "archetype": "Marshall.D.Teach",
+      "player": "TonyBojji",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Donquixote Rosinante — LunatikStrange (5)",
+      "archetype": "Donquixote Rosinante",
+      "player": "LunatikStrange",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Enel — WPKaptain (6)",
+      "archetype": "Enel",
+      "player": "WPKaptain",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Enel — OTKViti (7)",
+      "archetype": "Enel",
+      "player": "OTKViti",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Marshall.D.Teach — Asmodeus (8)",
+      "archetype": "Marshall.D.Teach",
+      "player": "Asmodeus",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Marshall.D.Teach — duschdmarke (9)",
+      "archetype": "Marshall.D.Teach",
+      "player": "duschdmarke",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Frodon (10)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Frodon",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Marshall.D.Teach — David Medina Vega (11)",
+      "archetype": "Marshall.D.Teach",
+      "player": "David Medina Vega",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Monkey.D.Luffy — nikiangelov (12)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "nikiangelov",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Monkey.D.Luffy — EsorY11 (13)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "EsorY11",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Donquixote Rosinante — DACE (14)",
+      "archetype": "Donquixote Rosinante",
+      "player": "DACE",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Yamato — Launus (16)",
+      "archetype": "Yamato",
+      "player": "Launus",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

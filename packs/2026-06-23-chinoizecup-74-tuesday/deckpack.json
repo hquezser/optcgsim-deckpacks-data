@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #74 Tuesday",
+  "date": "2026-06-23",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #74 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a32613ce334c3c9befd85aa",
   "decks": [
     {
       "name": "Donquixote Rosinante — MaGe (1)",
+      "archetype": "Donquixote Rosinante",
+      "player": "MaGe",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Marshall.D.Teach — duschdmarke (2)",
+      "archetype": "Marshall.D.Teach",
+      "player": "duschdmarke",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Marshall.D.Teach — Knee (3)",
+      "archetype": "Marshall.D.Teach",
+      "player": "Knee",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Donquixote Rosinante — Potlehio (4)",
+      "archetype": "Donquixote Rosinante",
+      "player": "Potlehio",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Donquixote Rosinante — Kevin662 (5)",
+      "archetype": "Donquixote Rosinante",
+      "player": "Kevin662",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Enel — DZayas (6)",
+      "archetype": "Enel",
+      "player": "DZayas",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Nami — MenS (7)",
+      "archetype": "Nami",
+      "player": "MenS",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Marshall.D.Teach — Arulogunb (8)",
+      "archetype": "Marshall.D.Teach",
+      "player": "Arulogunb",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Enel — terlollo (9)",
+      "archetype": "Enel",
+      "player": "terlollo",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Marshall.D.Teach — JoKer242 (10)",
+      "archetype": "Marshall.D.Teach",
+      "player": "JoKer242",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Nami — Martix (11)",
+      "archetype": "Nami",
+      "player": "Martix",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Donquixote Rosinante — GoroseiBest (12)",
+      "archetype": "Donquixote Rosinante",
+      "player": "GoroseiBest",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Nami — prani (13)",
+      "archetype": "Nami",
+      "player": "prani",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Donquixote Rosinante — AkanotTCG (14)",
+      "archetype": "Donquixote Rosinante",
+      "player": "AkanotTCG",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Dracule Mihawk — iwo29 (15)",
+      "archetype": "Dracule Mihawk",
+      "player": "iwo29",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Shanks — ricmasterflash (16)",
+      "archetype": "Shanks",
+      "player": "ricmasterflash",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

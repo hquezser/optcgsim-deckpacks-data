@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #112 Tuesday",
+  "date": "2025-12-09",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #112 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6925a0d152eafbbc81177ffe",
   "decks": [
     {
       "name": "Portgas.D.Ace — Gringoloco (1)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Gringoloco",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Imu — Ninja1k (2)",
+      "archetype": "Imu",
+      "player": "Ninja1k",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Lim — ricmasterflash (3)",
+      "archetype": "Lim",
+      "player": "ricmasterflash",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Portgas.D.Ace — lukas123 (4)",
+      "archetype": "Portgas.D.Ace",
+      "player": "lukas123",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Roronoa Zoro — freajski (5)",
+      "archetype": "Roronoa Zoro",
+      "player": "freajski",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Portgas.D.Ace — erki (6)",
+      "archetype": "Portgas.D.Ace",
+      "player": "erki",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Trafalgar Law — Giggius94 (7)",
+      "archetype": "Trafalgar Law",
+      "player": "Giggius94",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Portgas.D.Ace — Asmodeus (8)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Asmodeus",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Imu — TonyBojji (9)",
+      "archetype": "Imu",
+      "player": "TonyBojji",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Imu — Dresio (10)",
+      "archetype": "Imu",
+      "player": "Dresio",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Imu — AcePrado (11)",
+      "archetype": "Imu",
+      "player": "AcePrado",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Portgas.D.Ace — Ezepter (12)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Ezepter",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Portgas.D.Ace — Cinnas (13)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Cinnas",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Law12 (14)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Law12",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Portgas.D.Ace — sleepyteuth (15)",
+      "archetype": "Portgas.D.Ace",
+      "player": "sleepyteuth",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Jewelry Bonney — Sophie1301 (16)",
+      "archetype": "Jewelry Bonney",
+      "player": "Sophie1301",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

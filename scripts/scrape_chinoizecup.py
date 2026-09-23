@@ -298,30 +298,55 @@ def slugify(s: str) -> str:
     return s or "tournament"
 
 
+_FORMAT_DECLARED_RE = re.compile(r"OP\d+(\.\d+)?", re.IGNORECASE)
+_ISO_DATE_RE = re.compile(r"\d{4}-\d{2}-\d{2}")
+
+
+def _placement_int(p: str) -> int | None:
+    m = re.match(r"\d+", p or "")
+    return int(m.group()) if m else None
+
+
 def build_deckpack(t: Tournament, top: int) -> dict:
     year = t.date.split("-")[0] if t.date else "unknown"
     tags_template = ["meta", "online", t.format_tag.lower(), year]
     decks = []
     for row in t.decks[:top]:
+        # Méta structurée (v1 additif) : on déclare ce que la source publie —
+        # un champ absent vaut mieux qu'un champ deviné.
+        meta = {}
+        if row.leader:
+            meta["archetype"] = row.leader
+        if row.player:
+            meta["player"] = row.player
+        place = _placement_int(row.placement)
+        if place is not None:
+            meta["placement"] = place
         decks.append({
             "name": f"{row.leader} — {row.player} ({row.placement})",
+            **meta,
             "tags": list(tags_template),
             "text": "",
             "_source_url": row.url,
             "_placement": row.placement,
         })
-    return {
-        "schema_version": 1,
-        "name": t.name,
-        "author": "chinoizecup-scraper",
-        "description": (
-            f"Top {len(decks)} from \"{t.name}\" "
-            f"(source=chinoizecupstats.com, online cup). "
-            f"Scraped from {BASE}/tournaments. "
-            f"Source tournament: {t.url}"
-        ),
-        "decks": decks,
-    }
+    # Le site ne publie pas de format par événement (format_tag = « op » générique) :
+    # rien à déclarer, le consommateur déduira du pool — c'est le comportement
+    # historique et il est juste. La date, elle, est connue.
+    dp = {"schema_version": 1, "name": t.name}
+    if t.format_tag and _FORMAT_DECLARED_RE.fullmatch(t.format_tag):
+        dp["format"] = t.format_tag.upper()
+    if t.date and _ISO_DATE_RE.fullmatch(t.date):
+        dp["date"] = t.date
+    dp["author"] = "chinoizecup-scraper"
+    dp["description"] = (
+        f"Top {len(decks)} from \"{t.name}\" "
+        f"(source=chinoizecupstats.com, online cup). "
+        f"Scraped from {BASE}/tournaments. "
+        f"Source tournament: {t.url}"
+    )
+    dp["decks"] = decks
+    return dp
 
 
 def strip_internal(dp: dict) -> dict:

@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #92 Tuesday",
+  "date": "2026-08-04",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #92 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a69f30e52c24ac2da64f096 Merged across runs.",
   "decks": [
     {
       "name": "Monkey.D.Luffy — HashtagEMB (1)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "HashtagEMB",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Enel — SnillLiLYT (2)",
+      "archetype": "Enel",
+      "player": "SnillLiLYT",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Marshall.D.Teach — penguino s (3)",
+      "archetype": "Marshall.D.Teach",
+      "player": "penguino s",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Enel — Kazzer (4)",
+      "archetype": "Enel",
+      "player": "Kazzer",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Monkey.D.Luffy — igot2staydown (5)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "igot2staydown",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Monkey.D.Luffy — ricmasterflash (6)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "ricmasterflash",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Donquixote Rosinante — MaGe (7)",
+      "archetype": "Donquixote Rosinante",
+      "player": "MaGe",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Donquixote Rosinante — lukas123 (8)",
+      "archetype": "Donquixote Rosinante",
+      "player": "lukas123",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Rafiq (9)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Rafiq",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Suppy (10)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Suppy",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Marshall.D.Teach — Deaven (11)",
+      "archetype": "Marshall.D.Teach",
+      "player": "Deaven",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Dracule Mihawk — OtakuProwder (12)",
+      "archetype": "Dracule Mihawk",
+      "player": "OtakuProwder",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Luffy & Ace — BMKid (13)",
+      "archetype": "Luffy & Ace",
+      "player": "BMKid",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Rotisserie15 (14)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Rotisserie15",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Dracule Mihawk — Homunculiii (15)",
+      "archetype": "Dracule Mihawk",
+      "player": "Homunculiii",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Sabo — luzsnikov (16)",
+      "archetype": "Sabo",
+      "player": "luzsnikov",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

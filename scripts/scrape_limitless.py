@@ -309,6 +309,16 @@ def decklist_to_text(dl: Decklist) -> str:
     return "\n".join(f"{n}x{cid}" for n, cid in dl.cards)
 
 
+_FORMAT_DECLARED_RE = re.compile(r"OP\d+(\.\d+)?", re.IGNORECASE)
+_ISO_DATE_RE = re.compile(r"\d{4}-\d{2}-\d{2}")
+
+
+def _placement_int(p: str) -> int | None:
+    """« 1st » / « 3 » -> 1 / 3 ; None si le placement n'a pas de chiffres."""
+    m = re.match(r"\d+", p or "")
+    return int(m.group()) if m else None
+
+
 def build_deckpack(t: Tournament, top: int, region_label: str, time_label: str) -> dict:
     year = t.date.split("-")[0] if t.date else "unknown"
     # "all" is the absence of a region filter, not a region — don't tag decks with it.
@@ -316,20 +326,37 @@ def build_deckpack(t: Tournament, top: int, region_label: str, time_label: str) 
     tags_template += [t.format_tag.lower(), year]
     decks = []
     for row in t.decks[:top]:
+        # Méta structurée (v1 additif) : on déclare ce que la source publie, ce qui
+        # dispense les consommateurs de re-parser le `name`. Un champ absent vaut
+        # mieux qu'un champ deviné — les champs vides ne sont pas émis.
+        meta = {}
+        if row.archetype:
+            meta["archetype"] = row.archetype
+        if row.player:
+            meta["player"] = row.player
+        place = _placement_int(row.placement)
+        if place is not None:
+            meta["placement"] = place
         decks.append({
             "name": f"{row.archetype} — {row.player} ({row.placement})",
+            **meta,
             "tags": list(tags_template),
             "text": "",  # filled by caller after fetch
             "_source_url": row.url,
             "_placement": row.placement,
         })
-    return {
-        "schema_version": 1,
-        "name": t.name,
-        "author": "limitlesstcg-scraper",
-        "description": describe(t, len(decks), region_label, time_label, False),
-        "decks": decks,
-    }
+    # `format`/`date` déclarés au niveau pack : le site les déduisait du préfixe du
+    # nom et du slug de dossier — conventions internes qu'une déclaration rend
+    # inutiles. On n'émet que ce que la source donne vraiment.
+    dp = {"schema_version": 1, "name": t.name}
+    if t.format_tag and _FORMAT_DECLARED_RE.fullmatch(t.format_tag):
+        dp["format"] = t.format_tag.upper()
+    if t.date and _ISO_DATE_RE.fullmatch(t.date):
+        dp["date"] = t.date
+    dp["author"] = "limitlesstcg-scraper"
+    dp["description"] = describe(t, len(decks), region_label, time_label, False)
+    dp["decks"] = decks
+    return dp
 
 
 def strip_internal(dp: dict) -> dict:
@@ -345,7 +372,10 @@ NAME_PLACEMENT_RE = re.compile(r"\((\d+)(?:st|nd|rd|th)\)\s*$")
 
 
 def placement_key(deck: dict) -> tuple[int, str]:
-    """Sort key from the trailing placement in a deck name ('… (12th)'). Unparseable last."""
+    """Sort key : `placement` déclaré d'abord, sinon le suffixe du nom ('… (12th)')."""
+    p = deck.get("placement")
+    if isinstance(p, int) and not isinstance(p, bool):
+        return (p, deck.get("name", ""))
     m = NAME_PLACEMENT_RE.search(deck.get("name", ""))
     return (int(m.group(1)) if m else 10**6, deck.get("name", ""))
 
@@ -431,6 +461,12 @@ def merge_decks(existing: list[dict], new: list[dict]) -> tuple[list[dict], int,
         if nd.get("text") and nd["text"] != cur.get("text"):
             cur["text"] = nd["text"]
             changed = True
+        # Méta structurée : combler seulement ce qui manque — l'existant déclaré
+        # (ou écrit à la main) n'est jamais écrasé par un nouveau run.
+        for k in ("archetype", "player", "placement"):
+            if k not in cur and k in nd:
+                cur[k] = nd[k]
+                changed = True
         updated += changed
     out.sort(key=placement_key)
     return out, added, updated
@@ -467,6 +503,11 @@ def write_pack(
         before = len(existing["decks"])
         decks, added, updated = merge_decks(existing["decks"], dp["decks"])
         dp["decks"] = decks
+        # Union au niveau pack aussi : un champ déclaratif déjà sur disque (pack
+        # backfillé, maintenu à la main) survit à un run qui ne le réémet pas.
+        for k in ("format", "date"):
+            if k not in dp and k in existing:
+                dp[k] = existing[k]
         dp["description"] = describe(t, len(decks), region_label, time_label, True)
         note = f"merged: {before} existing + {added} new"
         if updated:

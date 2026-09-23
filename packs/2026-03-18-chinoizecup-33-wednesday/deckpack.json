@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #33 Wednesday",
+  "date": "2026-03-18",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #33 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/69a80c5d6a05f00a8c4a3df1",
   "decks": [
     {
       "name": "Dracule Mihawk — lonotus (1)",
+      "archetype": "Dracule Mihawk",
+      "player": "lonotus",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Sanji — Radical (2)",
+      "archetype": "Sanji",
+      "player": "Radical",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Imu — iacca7 (3)",
+      "archetype": "Imu",
+      "player": "iacca7",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Portgas.D.Ace — ItachiPain911 (4)",
+      "archetype": "Portgas.D.Ace",
+      "player": "ItachiPain911",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Sanji — Ninja1k (5)",
+      "archetype": "Sanji",
+      "player": "Ninja1k",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Trafalgar Law — Deniz (6)",
+      "archetype": "Trafalgar Law",
+      "player": "Deniz",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Imu — ReydelosPiratas (7)",
+      "archetype": "Imu",
+      "player": "ReydelosPiratas",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Monkey.D.Luffy — tinnoy (8)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "tinnoy",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Monkey.D.Luffy — andydolai (9)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "andydolai",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (10)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Jinbe — Solmyr (11)",
+      "archetype": "Jinbe",
+      "player": "Solmyr",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Portgas.D.Ace — asce712 (12)",
+      "archetype": "Portgas.D.Ace",
+      "player": "asce712",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Sanji — Nightingale (13)",
+      "archetype": "Sanji",
+      "player": "Nightingale",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Portgas.D.Ace — Jonathan_Frakes (14)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Jonathan_Frakes",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Portgas.D.Ace — YWJmanu (15)",
+      "archetype": "Portgas.D.Ace",
+      "player": "YWJmanu",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Nami — TheDN5 (16)",
+      "archetype": "Nami",
+      "player": "TheDN5",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

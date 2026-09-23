@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #18 Wednesday",
+  "date": "2026-02-11",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #18 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/697e0ba09c739a2ff7bfc53d",
   "decks": [
     {
       "name": "Monkey.D.Luffy — kevyzhou (1)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "kevyzhou",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Imu — Gortiz (2)",
+      "archetype": "Imu",
+      "player": "Gortiz",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Imu — AcePrado (3)",
+      "archetype": "Imu",
+      "player": "AcePrado",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Jinbe — MILO22 (4)",
+      "archetype": "Jinbe",
+      "player": "MILO22",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Crocodile — Slodea (5)",
+      "archetype": "Crocodile",
+      "player": "Slodea",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (6)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Imu — Captivat3 (7)",
+      "archetype": "Imu",
+      "player": "Captivat3",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Spartacus2224 (8)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Spartacus2224",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Donquixote Doflamingo — BrokenBall (9)",
+      "archetype": "Donquixote Doflamingo",
+      "player": "BrokenBall",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Monkey.D.Luffy — SaBR (10)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "SaBR",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Imu — ReydelosPiratas (11)",
+      "archetype": "Imu",
+      "player": "ReydelosPiratas",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Jinbe — Picco (12)",
+      "archetype": "Jinbe",
+      "player": "Picco",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Gringoloco (13)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Gringoloco",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Roronoa Zoro — HashtagEMB (14)",
+      "archetype": "Roronoa Zoro",
+      "player": "HashtagEMB",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Nami — JTD (15)",
+      "archetype": "Nami",
+      "player": "JTD",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Boa Hancock — volkiso (16)",
+      "archetype": "Boa Hancock",
+      "player": "volkiso",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

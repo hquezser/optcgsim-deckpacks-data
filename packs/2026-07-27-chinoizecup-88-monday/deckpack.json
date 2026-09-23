@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #88 Monday",
+  "date": "2026-07-27",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #88 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a60912952c24ac2da648c87 Merged across runs.",
   "decks": [
     {
       "name": "Sabo — WPKaptain (1)",
+      "archetype": "Sabo",
+      "player": "WPKaptain",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Beton1996 (2)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Beton1996",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Dracule Mihawk — legendarysword34 (3)",
+      "archetype": "Dracule Mihawk",
+      "player": "legendarysword34",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Monkey.D.Luffy — kevyzhou (4)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "kevyzhou",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Dracule Mihawk — Kereminator (5)",
+      "archetype": "Dracule Mihawk",
+      "player": "Kereminator",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Matzel0307 (6)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Matzel0307",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Eustass\"Captain\"Kid — Gefen H (7)",
+      "archetype": "Eustass\"Captain\"Kid",
+      "player": "Gefen H",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Boa Hancock — Leo48 (8)",
+      "archetype": "Boa Hancock",
+      "player": "Leo48",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Enel — SnillLiLYT (9)",
+      "archetype": "Enel",
+      "player": "SnillLiLYT",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Enel — bornax10 (10)",
+      "archetype": "Enel",
+      "player": "bornax10",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Monkey.D.Luffy — HashtagEMB (11)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "HashtagEMB",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Donquixote Rosinante — Karstinen (12)",
+      "archetype": "Donquixote Rosinante",
+      "player": "Karstinen",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Eustass\"Captain\"Kid — enderu (13)",
+      "archetype": "Eustass\"Captain\"Kid",
+      "player": "enderu",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Gringoloco (14)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Gringoloco",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Sabo — Kantezor (15)",
+      "archetype": "Sabo",
+      "player": "Kantezor",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Sabo — Simpiii (16)",
+      "archetype": "Sabo",
+      "player": "Simpiii",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

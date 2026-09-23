@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #89 Tuesday",
+  "date": "2026-07-28",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #89 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a609267937230b102d41696 Merged across runs.",
   "decks": [
     {
       "name": "Donquixote Rosinante — FlyestRaven (1)",
+      "archetype": "Donquixote Rosinante",
+      "player": "FlyestRaven",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Frodon (2)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Frodon",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Dracule Mihawk — Captivat3 (3)",
+      "archetype": "Dracule Mihawk",
+      "player": "Captivat3",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Sabo — tinnoy (4)",
+      "archetype": "Sabo",
+      "player": "tinnoy",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Sabo — MaGe (5)",
+      "archetype": "Sabo",
+      "player": "MaGe",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Dracule Mihawk — OtakuProwder (6)",
+      "archetype": "Dracule Mihawk",
+      "player": "OtakuProwder",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Enel — Kazzer (7)",
+      "archetype": "Enel",
+      "player": "Kazzer",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Monkey.D.Luffy — ricmasterflash (8)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "ricmasterflash",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Monkey.D.Luffy — igordiasr (9)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "igordiasr",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Enel — Wortaxx (10)",
+      "archetype": "Enel",
+      "player": "Wortaxx",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Sabo — WPKaptain (11)",
+      "archetype": "Sabo",
+      "player": "WPKaptain",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Nami — Giaco4123 (12)",
+      "archetype": "Nami",
+      "player": "Giaco4123",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Portgas.D.Ace — NikolayBaydanov (13)",
+      "archetype": "Portgas.D.Ace",
+      "player": "NikolayBaydanov",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Shanks — renenene (14)",
+      "archetype": "Shanks",
+      "player": "renenene",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Sabo — asce712 (15)",
+      "archetype": "Sabo",
+      "player": "asce712",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (16)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #45 Wednesday",
+  "date": "2026-04-15",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #45 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/69d5f8a6b9ec970afa6057fc",
   "decks": [
     {
       "name": "Nami — Ninssasin (1)",
+      "archetype": "Nami",
+      "player": "Ninssasin",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Portgas.D.Ace — Lexinator22 (2)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Lexinator22",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Nami — Tecturo (3)",
+      "archetype": "Nami",
+      "player": "Tecturo",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Lim — ricmasterflash (4)",
+      "archetype": "Lim",
+      "player": "ricmasterflash",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (5)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Nami — Jamie V (6)",
+      "archetype": "Nami",
+      "player": "Jamie V",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Nami — Gortiz (7)",
+      "archetype": "Nami",
+      "player": "Gortiz",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Nami — Martix (8)",
+      "archetype": "Nami",
+      "player": "Martix",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Monkey.D.Luffy — igot2staydown (9)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "igot2staydown",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Enel — Captivat3 (10)",
+      "archetype": "Enel",
+      "player": "Captivat3",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Nami — lonotus (11)",
+      "archetype": "Nami",
+      "player": "lonotus",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Enel — ReydelosPiratas (12)",
+      "archetype": "Enel",
+      "player": "ReydelosPiratas",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Portgas.D.Ace — irswinterzzz (13)",
+      "archetype": "Portgas.D.Ace",
+      "player": "irswinterzzz",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Imu — ScareCrown (14)",
+      "archetype": "Imu",
+      "player": "ScareCrown",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Nico Robin — Rukyy (15)",
+      "archetype": "Nico Robin",
+      "player": "Rukyy",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Gecko Moria — fuat (16)",
+      "archetype": "Gecko Moria",
+      "player": "fuat",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

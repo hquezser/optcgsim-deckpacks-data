@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #47 Tuesday",
+  "date": "2026-04-21",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #47 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/69df9cc378b359b789d62a2d",
   "decks": [
     {
       "name": "Enel — ricmasterflash (1)",
+      "archetype": "Enel",
+      "player": "ricmasterflash",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Nami — Ninssasin (2)",
+      "archetype": "Nami",
+      "player": "Ninssasin",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Enel — Martix (3)",
+      "archetype": "Enel",
+      "player": "Martix",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Portgas.D.Ace — Lexinator22 (4)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Lexinator22",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Nami — Legandes (5)",
+      "archetype": "Nami",
+      "player": "Legandes",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Portgas.D.Ace — bornax10 (6)",
+      "archetype": "Portgas.D.Ace",
+      "player": "bornax10",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Nami — Gringoloco (7)",
+      "archetype": "Nami",
+      "player": "Gringoloco",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Lucy — Tsaams (8)",
+      "archetype": "Lucy",
+      "player": "Tsaams",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Monkey.D.Luffy — igot2staydown (9)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "igot2staydown",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Nami — iacca7 (10)",
+      "archetype": "Nami",
+      "player": "iacca7",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Portgas.D.Ace — PROidan (11)",
+      "archetype": "Portgas.D.Ace",
+      "player": "PROidan",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (12)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Lucy — ImpelDown (13)",
+      "archetype": "Lucy",
+      "player": "ImpelDown",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Portgas.D.Ace — Gefen H (14)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Gefen H",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Enel — Frodon (15)",
+      "archetype": "Enel",
+      "player": "Frodon",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Enel — lordRafa (16)",
+      "archetype": "Enel",
+      "player": "lordRafa",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

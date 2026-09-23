@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup - Heroine Battles",
+  "date": "2026-02-22",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup - Heroine Battles\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6981f099bd2fb4559555ad00",
   "decks": [
     {
       "name": "Nami — Gortiz (1)",
+      "archetype": "Nami",
+      "player": "Gortiz",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Nami — Hashiro (2)",
+      "archetype": "Nami",
+      "player": "Hashiro",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Shirahoshi — Decim (3)",
+      "archetype": "Shirahoshi",
+      "player": "Decim",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Nefeltari Vivi — Slodea (4)",
+      "archetype": "Nefeltari Vivi",
+      "player": "Slodea",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Nefeltari Vivi — Potlehio (5)",
+      "archetype": "Nefeltari Vivi",
+      "player": "Potlehio",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Shirahoshi — kevyzhou (6)",
+      "archetype": "Shirahoshi",
+      "player": "kevyzhou",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Nefeltari Vivi — TheCaptain14 (7)",
+      "archetype": "Nefeltari Vivi",
+      "player": "TheCaptain14",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Nami — Simpiii (8)",
+      "archetype": "Nami",
+      "player": "Simpiii",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Lim — Ninja1k (9)",
+      "archetype": "Lim",
+      "player": "Ninja1k",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Nami — AkAtlas (10)",
+      "archetype": "Nami",
+      "player": "AkAtlas",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Jewelry Bonney — Kakashiha (11)",
+      "archetype": "Jewelry Bonney",
+      "player": "Kakashiha",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Nami — Gamerboi694 (12)",
+      "archetype": "Nami",
+      "player": "Gamerboi694",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Nami — volkiso (13)",
+      "archetype": "Nami",
+      "player": "volkiso",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Nefeltari Vivi — tsvaac (14)",
+      "archetype": "Nefeltari Vivi",
+      "player": "tsvaac",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Boa Hancock — Nyler (15)",
+      "archetype": "Boa Hancock",
+      "player": "Nyler",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Jewelry Bonney — Traumis (16)",
+      "archetype": "Jewelry Bonney",
+      "player": "Traumis",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

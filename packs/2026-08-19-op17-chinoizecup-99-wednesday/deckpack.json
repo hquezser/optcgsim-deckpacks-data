@@ -1,11 +1,16 @@
 {
   "schema_version": 1,
   "name": "[OP17] ChinoizeCup #99 Wednesday",
+  "format": "OP17",
+  "date": "2026-08-19",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"[OP17] ChinoizeCup #99 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a7d7ed32b308b6067b529d0 Merged across runs.",
   "decks": [
     {
       "name": "Rocks.D.Xebec — Cenkonator (1)",
+      "archetype": "Rocks.D.Xebec",
+      "player": "Cenkonator",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +21,9 @@
     },
     {
       "name": "Monkey.D.Luffy — LilyKei (2)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "LilyKei",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +34,9 @@
     },
     {
       "name": "Portgas.D.Ace — mstrkenc (3)",
+      "archetype": "Portgas.D.Ace",
+      "player": "mstrkenc",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +47,9 @@
     },
     {
       "name": "Sabo — Noostag (4)",
+      "archetype": "Sabo",
+      "player": "Noostag",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +60,9 @@
     },
     {
       "name": "Luffy & Ace — Tetra (5)",
+      "archetype": "Luffy & Ace",
+      "player": "Tetra",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +73,9 @@
     },
     {
       "name": "Rocks.D.Xebec — Gaston78910 (6)",
+      "archetype": "Rocks.D.Xebec",
+      "player": "Gaston78910",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +86,9 @@
     },
     {
       "name": "Dracule Mihawk — FenoHS (7)",
+      "archetype": "Dracule Mihawk",
+      "player": "FenoHS",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +99,9 @@
     },
     {
       "name": "Kaido — MaGe (8)",
+      "archetype": "Kaido",
+      "player": "MaGe",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +112,9 @@
     },
     {
       "name": "Dracule Mihawk — Brian (9)",
+      "archetype": "Dracule Mihawk",
+      "player": "Brian",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +125,9 @@
     },
     {
       "name": "Kaido — petemess (10)",
+      "archetype": "Kaido",
+      "player": "petemess",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +138,9 @@
     },
     {
       "name": "Portgas.D.Ace — Yonxlj (11)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Yonxlj",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +151,9 @@
     },
     {
       "name": "Dracule Mihawk — Dearcan (12)",
+      "archetype": "Dracule Mihawk",
+      "player": "Dearcan",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +164,9 @@
     },
     {
       "name": "Kaido — theribeyesteak (13)",
+      "archetype": "Kaido",
+      "player": "theribeyesteak",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +177,9 @@
     },
     {
       "name": "Rocks.D.Xebec — Miguelitorinho (14)",
+      "archetype": "Rocks.D.Xebec",
+      "player": "Miguelitorinho",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +190,9 @@
     },
     {
       "name": "Sabo — WPKaptain (15)",
+      "archetype": "Sabo",
+      "player": "WPKaptain",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +203,9 @@
     },
     {
       "name": "Rocks.D.Xebec — Gefen H (16)",
+      "archetype": "Rocks.D.Xebec",
+      "player": "Gefen H",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

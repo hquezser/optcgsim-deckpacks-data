@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #52 Monday",
+  "date": "2026-05-04",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #52 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/69f308a3e23aab068aad5c40",
   "decks": [
     {
       "name": "Monkey.D.Luffy — ricmasterflash (1)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "ricmasterflash",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Lucy — Solmyr (2)",
+      "archetype": "Lucy",
+      "player": "Solmyr",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Portgas.D.Ace — NikolayBaydanov (3)",
+      "archetype": "Portgas.D.Ace",
+      "player": "NikolayBaydanov",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Nami — lonotus (4)",
+      "archetype": "Nami",
+      "player": "lonotus",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Enel — Kungar (5)",
+      "archetype": "Enel",
+      "player": "Kungar",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Crocodile — kevyzhou (6)",
+      "archetype": "Crocodile",
+      "player": "kevyzhou",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Kalgara — Matzel0307 (7)",
+      "archetype": "Kalgara",
+      "player": "Matzel0307",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Enel — fabioballo (8)",
+      "archetype": "Enel",
+      "player": "fabioballo",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Kuzan — Tsaams (9)",
+      "archetype": "Kuzan",
+      "player": "Tsaams",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Nami — Ninssasin (10)",
+      "archetype": "Nami",
+      "player": "Ninssasin",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Crocodile — Slodea (11)",
+      "archetype": "Crocodile",
+      "player": "Slodea",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Enel — TotoRambo (12)",
+      "archetype": "Enel",
+      "player": "TotoRambo",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Portgas.D.Ace — Lexinator22 (13)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Lexinator22",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Nami — Gringoloco (14)",
+      "archetype": "Nami",
+      "player": "Gringoloco",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Enel — Frodon (15)",
+      "archetype": "Enel",
+      "player": "Frodon",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Crocodile — enderu (16)",
+      "archetype": "Crocodile",
+      "player": "enderu",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

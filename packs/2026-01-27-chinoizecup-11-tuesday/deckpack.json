@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #11 Tuesday",
+  "date": "2026-01-27",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #11 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/695f90fcba66621ba08b7020",
   "decks": [
     {
       "name": "Trafalgar Law — Chewton (1)",
+      "archetype": "Trafalgar Law",
+      "player": "Chewton",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Jinbe — yung_mlody (2)",
+      "archetype": "Jinbe",
+      "player": "yung_mlody",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Monkey.D.Luffy — ricmasterflash (3)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "ricmasterflash",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Portgas.D.Ace — Mattev (4)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Mattev",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Donquixote Doflamingo — Benni08B (5)",
+      "archetype": "Donquixote Doflamingo",
+      "player": "Benni08B",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Jinbe — HashtagEMB (6)",
+      "archetype": "Jinbe",
+      "player": "HashtagEMB",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Portgas.D.Ace — kitoxme (7)",
+      "archetype": "Portgas.D.Ace",
+      "player": "kitoxme",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Crocodile — Maciasoptcg (8)",
+      "archetype": "Crocodile",
+      "player": "Maciasoptcg",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Dracule Mihawk — TonyBojji (9)",
+      "archetype": "Dracule Mihawk",
+      "player": "TonyBojji",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Imu — Solo1993 (10)",
+      "archetype": "Imu",
+      "player": "Solo1993",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Simpiii (11)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Simpiii",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Donquixote Doflamingo — Klaing88 (12)",
+      "archetype": "Donquixote Doflamingo",
+      "player": "Klaing88",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Donquixote Doflamingo — Latrickz (13)",
+      "archetype": "Donquixote Doflamingo",
+      "player": "Latrickz",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Crocodile — AtrociousJake (14)",
+      "archetype": "Crocodile",
+      "player": "AtrociousJake",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Imu — Limniotis (15)",
+      "archetype": "Imu",
+      "player": "Limniotis",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Monkey.D.Luffy — ShoWTimE (16)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "ShoWTimE",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

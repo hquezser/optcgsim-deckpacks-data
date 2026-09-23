@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #35 Tuesday",
+  "date": "2026-03-24",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #35 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/69a5960e1e69d12000d8130d",
   "decks": [
     {
       "name": "Dracule Mihawk — OtakuProwder (1)",
+      "archetype": "Dracule Mihawk",
+      "player": "OtakuProwder",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Nami — Gringoloco (2)",
+      "archetype": "Nami",
+      "player": "Gringoloco",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Kalgara — Tsaams (3)",
+      "archetype": "Kalgara",
+      "player": "Tsaams",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Enel — DZayas (4)",
+      "archetype": "Enel",
+      "player": "DZayas",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Lucy — MaxMaxMax3 (5)",
+      "archetype": "Lucy",
+      "player": "MaxMaxMax3",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Lucy — Szychu (6)",
+      "archetype": "Lucy",
+      "player": "Szychu",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Nami — Legandes (7)",
+      "archetype": "Nami",
+      "player": "Legandes",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Lucy — Dearcan (8)",
+      "archetype": "Lucy",
+      "player": "Dearcan",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Crocodile — mblawluffy (9)",
+      "archetype": "Crocodile",
+      "player": "mblawluffy",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Portgas.D.Ace — Lexinator22 (10)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Lexinator22",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Enel — Khaall (11)",
+      "archetype": "Enel",
+      "player": "Khaall",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Portgas.D.Ace — mazz00 (12)",
+      "archetype": "Portgas.D.Ace",
+      "player": "mazz00",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Nami — Prussia (13)",
+      "archetype": "Nami",
+      "player": "Prussia",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Crocodile — Solmyr (14)",
+      "archetype": "Crocodile",
+      "player": "Solmyr",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Monkey.D.Luffy — ricmasterflash (15)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "ricmasterflash",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Krieg — Clément Tassa (16)",
+      "archetype": "Krieg",
+      "player": "Clément Tassa",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

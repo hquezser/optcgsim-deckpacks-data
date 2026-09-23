@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #30 Wednesday",
+  "date": "2026-03-11",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #30 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/69a594e5a0282967a7310216",
   "decks": [
     {
       "name": "Dracule Mihawk — BachiXP (1)",
+      "archetype": "Dracule Mihawk",
+      "player": "BachiXP",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Portgas.D.Ace — cloudman (2)",
+      "archetype": "Portgas.D.Ace",
+      "player": "cloudman",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Portgas.D.Ace — Jellybeanzs (3)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Jellybeanzs",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Portgas.D.Ace — Lexinator22 (4)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Lexinator22",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Nami — Spartacus2224 (5)",
+      "archetype": "Nami",
+      "player": "Spartacus2224",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Portgas.D.Ace — Puttichai Khajornkeittikhun (6)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Puttichai Khajornkeittikhun",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Boa Hancock — Danpar98 (7)",
+      "archetype": "Boa Hancock",
+      "player": "Danpar98",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Portgas.D.Ace — ItachiPain911 (8)",
+      "archetype": "Portgas.D.Ace",
+      "player": "ItachiPain911",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Sanji — Thani (9)",
+      "archetype": "Sanji",
+      "player": "Thani",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Monkey.D.Luffy — CardDex (10)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "CardDex",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Monkey.D.Luffy — joshi490 (11)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "joshi490",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Koala — Mufasetas (12)",
+      "archetype": "Koala",
+      "player": "Mufasetas",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Nami — hassantcg (13)",
+      "archetype": "Nami",
+      "player": "hassantcg",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Portgas.D.Ace — Choysauce (14)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Choysauce",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Shirahoshi — Solmyr (15)",
+      "archetype": "Shirahoshi",
+      "player": "Solmyr",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Donquixote Rosinante — ReydelosPiratas (16)",
+      "archetype": "Donquixote Rosinante",
+      "player": "ReydelosPiratas",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

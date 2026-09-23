@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #12 Wednesday",
+  "date": "2026-01-28",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #12 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/695f928b4500833d87026b96",
   "decks": [
     {
       "name": "Donquixote Rosinante — Krullzor (1)",
+      "archetype": "Donquixote Rosinante",
+      "player": "Krullzor",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Portgas.D.Ace — Jellybeanzs (2)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Jellybeanzs",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Aarn0ud (3)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Aarn0ud",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Lim — Dissonance075 (4)",
+      "archetype": "Lim",
+      "player": "Dissonance075",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Spartacus2224 (5)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Spartacus2224",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Portgas.D.Ace — kitoxme (6)",
+      "archetype": "Portgas.D.Ace",
+      "player": "kitoxme",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (7)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Dracule Mihawk — Patpat (8)",
+      "archetype": "Dracule Mihawk",
+      "player": "Patpat",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Sabo — AkAtlas (9)",
+      "archetype": "Sabo",
+      "player": "AkAtlas",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Jewelry Bonney — cekko (10)",
+      "archetype": "Jewelry Bonney",
+      "player": "cekko",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Portgas.D.Ace — MaxiFree (11)",
+      "archetype": "Portgas.D.Ace",
+      "player": "MaxiFree",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Crocodile — BrokenBall (12)",
+      "archetype": "Crocodile",
+      "player": "BrokenBall",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Portgas.D.Ace — Lexinator22 (13)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Lexinator22",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Dracule Mihawk — beaverwarrior (14)",
+      "archetype": "Dracule Mihawk",
+      "player": "beaverwarrior",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Simpiii (15)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Simpiii",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Foxy — fatchildcookie (16)",
+      "archetype": "Foxy",
+      "player": "fatchildcookie",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

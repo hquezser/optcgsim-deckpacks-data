@@ -1,11 +1,16 @@
 {
   "schema_version": 1,
   "name": "[OP14] New Year - ChinoizeCup",
+  "format": "OP14",
+  "date": "2025-12-29",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"[OP14] New Year - ChinoizeCup\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6925b8f9b11d3f5498bc72ec",
   "decks": [
     {
       "name": "Dracule Mihawk — AkAtlas (1)",
+      "archetype": "Dracule Mihawk",
+      "player": "AkAtlas",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +21,9 @@
     },
     {
       "name": "Roronoa Zoro — BabaMigu (2)",
+      "archetype": "Roronoa Zoro",
+      "player": "BabaMigu",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +34,9 @@
     },
     {
       "name": "Boa Hancock — Spartacus2224 (3)",
+      "archetype": "Boa Hancock",
+      "player": "Spartacus2224",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +47,9 @@
     },
     {
       "name": "Monkey.D.Luffy — snorlax1cynda (4)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "snorlax1cynda",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +60,9 @@
     },
     {
       "name": "Boa Hancock — Wowa_1999 (5)",
+      "archetype": "Boa Hancock",
+      "player": "Wowa_1999",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +73,9 @@
     },
     {
       "name": "Crocodile — BrokenBall (6)",
+      "archetype": "Crocodile",
+      "player": "BrokenBall",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +86,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Chinoize (7)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Chinoize",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +99,9 @@
     },
     {
       "name": "Dracule Mihawk — Simpiii (8)",
+      "archetype": "Dracule Mihawk",
+      "player": "Simpiii",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +112,9 @@
     },
     {
       "name": "Imu — Umbiven94 (9)",
+      "archetype": "Imu",
+      "player": "Umbiven94",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +125,9 @@
     },
     {
       "name": "Imu — clumsi (10)",
+      "archetype": "Imu",
+      "player": "clumsi",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +138,9 @@
     },
     {
       "name": "Dracule Mihawk — Jrpriest (11)",
+      "archetype": "Dracule Mihawk",
+      "player": "Jrpriest",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +151,9 @@
     },
     {
       "name": "Portgas.D.Ace — Karim (12)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Karim",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +164,9 @@
     },
     {
       "name": "Marshall.D.Teach — fuat (13)",
+      "archetype": "Marshall.D.Teach",
+      "player": "fuat",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +177,9 @@
     },
     {
       "name": "Boa Hancock — Raynor5 (14)",
+      "archetype": "Boa Hancock",
+      "player": "Raynor5",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +190,9 @@
     },
     {
       "name": "Dracule Mihawk — TonyBojji (15)",
+      "archetype": "Dracule Mihawk",
+      "player": "TonyBojji",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +203,9 @@
     },
     {
       "name": "Belo Betty — Elibeer (16)",
+      "archetype": "Belo Betty",
+      "player": "Elibeer",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

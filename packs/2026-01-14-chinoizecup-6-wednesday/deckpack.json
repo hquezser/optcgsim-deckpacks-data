@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #6 Wednesday",
+  "date": "2026-01-14",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #6 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6952aa2aba66621ba08acf80",
   "decks": [
     {
       "name": "Gecko Moria — BrokenBall (1)",
+      "archetype": "Gecko Moria",
+      "player": "BrokenBall",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Boa Hancock — Frodon (2)",
+      "archetype": "Boa Hancock",
+      "player": "Frodon",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Crocodile — zettazetta (3)",
+      "archetype": "Crocodile",
+      "player": "zettazetta",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Dracule Mihawk — Cinnas (4)",
+      "archetype": "Dracule Mihawk",
+      "player": "Cinnas",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Simpiii (5)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Simpiii",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Kuzan — Gefen H (6)",
+      "archetype": "Kuzan",
+      "player": "Gefen H",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Malick B (7)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Malick B",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Portgas.D.Ace — CDCe (8)",
+      "archetype": "Portgas.D.Ace",
+      "player": "CDCe",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Boa Hancock — Squarkz96 (9)",
+      "archetype": "Boa Hancock",
+      "player": "Squarkz96",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Gecko Moria — djoledjoxn (10)",
+      "archetype": "Gecko Moria",
+      "player": "djoledjoxn",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Dracule Mihawk — Canepis (11)",
+      "archetype": "Dracule Mihawk",
+      "player": "Canepis",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Kaido — GreenD (12)",
+      "archetype": "Kaido",
+      "player": "GreenD",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Dracule Mihawk — Patpat (13)",
+      "archetype": "Dracule Mihawk",
+      "player": "Patpat",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Law12 (14)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Law12",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Boa Hancock — Kazzer (15)",
+      "archetype": "Boa Hancock",
+      "player": "Kazzer",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Dracule Mihawk — ItachiPain911 (16)",
+      "archetype": "Dracule Mihawk",
+      "player": "ItachiPain911",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

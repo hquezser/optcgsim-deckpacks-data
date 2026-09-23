@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #82 Monday",
+  "date": "2026-07-13",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #82 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a4e0c96063cb29d318e682f",
   "decks": [
     {
       "name": "Marshall.D.Teach — mblawluffy (1)",
+      "archetype": "Marshall.D.Teach",
+      "player": "mblawluffy",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Donquixote Rosinante — freajski (2)",
+      "archetype": "Donquixote Rosinante",
+      "player": "freajski",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Donquixote Rosinante — WPKaptain (3)",
+      "archetype": "Donquixote Rosinante",
+      "player": "WPKaptain",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Dracule Mihawk — OtakuProwder (4)",
+      "archetype": "Dracule Mihawk",
+      "player": "OtakuProwder",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Monkey.D.Luffy — ricmasterflash (5)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "ricmasterflash",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Nami — Gringoloco (6)",
+      "archetype": "Nami",
+      "player": "Gringoloco",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Enel — Wortaxx (7)",
+      "archetype": "Enel",
+      "player": "Wortaxx",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Portgas.D.Ace — NatzZz (8)",
+      "archetype": "Portgas.D.Ace",
+      "player": "NatzZz",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Donquixote Rosinante — petesaad4 (9)",
+      "archetype": "Donquixote Rosinante",
+      "player": "petesaad4",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Nami — Tenn10 (10)",
+      "archetype": "Nami",
+      "player": "Tenn10",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Nami — Joller (11)",
+      "archetype": "Nami",
+      "player": "Joller",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Monkey.D.Luffy — tinnoy (12)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "tinnoy",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Donquixote Rosinante — asce712 (13)",
+      "archetype": "Donquixote Rosinante",
+      "player": "asce712",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Donquixote Rosinante — NinjaTrain (14)",
+      "archetype": "Donquixote Rosinante",
+      "player": "NinjaTrain",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Lucy — Ray_flyaway (15)",
+      "archetype": "Lucy",
+      "player": "Ray_flyaway",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Shanks — MaxiFree (16)",
+      "archetype": "Shanks",
+      "player": "MaxiFree",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

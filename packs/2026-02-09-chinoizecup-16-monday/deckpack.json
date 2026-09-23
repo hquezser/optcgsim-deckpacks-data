@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #16 Monday",
+  "date": "2026-02-09",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #16 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/697e09c89c739a2ff7bfc535",
   "decks": [
     {
       "name": "Sanji — Nightingale (1)",
+      "archetype": "Sanji",
+      "player": "Nightingale",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Monkey.D.Luffy — kevyzhou (2)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "kevyzhou",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Imu — mblawluffy (3)",
+      "archetype": "Imu",
+      "player": "mblawluffy",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Gol.D.Roger — HashtagEMB (4)",
+      "archetype": "Gol.D.Roger",
+      "player": "HashtagEMB",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Donquixote Rosinante — Potlehio (5)",
+      "archetype": "Donquixote Rosinante",
+      "player": "Potlehio",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Crocodile — nytrex (6)",
+      "archetype": "Crocodile",
+      "player": "nytrex",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Crocodile — Maciasoptcg (7)",
+      "archetype": "Crocodile",
+      "player": "Maciasoptcg",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Simpiii (8)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Simpiii",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Sabo — AkAtlas (9)",
+      "archetype": "Sabo",
+      "player": "AkAtlas",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Lim — Dissonance075 (10)",
+      "archetype": "Lim",
+      "player": "Dissonance075",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Monkey.D.Luffy — andydolai (11)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "andydolai",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Kuzan — Gefen H (12)",
+      "archetype": "Kuzan",
+      "player": "Gefen H",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Dracule Mihawk — Dearcan (13)",
+      "archetype": "Dracule Mihawk",
+      "player": "Dearcan",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Marshall.D.Teach — Xevi (14)",
+      "archetype": "Marshall.D.Teach",
+      "player": "Xevi",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Imu — fuat (15)",
+      "archetype": "Imu",
+      "player": "fuat",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Gringoloco (16)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Gringoloco",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

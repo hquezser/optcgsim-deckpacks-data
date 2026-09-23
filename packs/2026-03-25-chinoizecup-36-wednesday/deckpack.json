@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #36 Wednesday",
+  "date": "2026-03-25",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #36 Wednesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/69a596801e69d12000d8130e",
   "decks": [
     {
       "name": "Portgas.D.Ace — bornax10 (1)",
+      "archetype": "Portgas.D.Ace",
+      "player": "bornax10",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Enel — TheSimbiote (2)",
+      "archetype": "Enel",
+      "player": "TheSimbiote",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Jewelry Bonney — mimamumooo (3)",
+      "archetype": "Jewelry Bonney",
+      "player": "mimamumooo",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Lucy — Kevnoa (4)",
+      "archetype": "Lucy",
+      "player": "Kevnoa",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Enel — Wortaxx (5)",
+      "archetype": "Enel",
+      "player": "Wortaxx",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Enel — ricmasterflash (6)",
+      "archetype": "Enel",
+      "player": "ricmasterflash",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Boa Hancock — lonotus (7)",
+      "archetype": "Boa Hancock",
+      "player": "lonotus",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Gol.D.Roger — RubenTR (8)",
+      "archetype": "Gol.D.Roger",
+      "player": "RubenTR",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Enel — yung_mlody (9)",
+      "archetype": "Enel",
+      "player": "yung_mlody",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Portgas.D.Ace — asce712 (10)",
+      "archetype": "Portgas.D.Ace",
+      "player": "asce712",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Gecko Moria — mikelop99 (11)",
+      "archetype": "Gecko Moria",
+      "player": "mikelop99",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Roronoa Zoro — Jokezz (12)",
+      "archetype": "Roronoa Zoro",
+      "player": "Jokezz",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Lucy — SlashREI (13)",
+      "archetype": "Lucy",
+      "player": "SlashREI",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Enel — Jael Torres (14)",
+      "archetype": "Enel",
+      "player": "Jael Torres",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Enel — Bepiepelaar (15)",
+      "archetype": "Enel",
+      "player": "Bepiepelaar",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Jewelry Bonney — Malick B (16)",
+      "archetype": "Jewelry Bonney",
+      "player": "Malick B",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

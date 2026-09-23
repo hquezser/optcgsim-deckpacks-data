@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #10 Monday",
+  "date": "2026-01-26",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #10 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/695f8f38ba66621ba08b701a",
   "decks": [
     {
       "name": "Portgas.D.Ace — bornax10 (1)",
+      "archetype": "Portgas.D.Ace",
+      "player": "bornax10",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Monkey.D.Luffy — ricmasterflash (2)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "ricmasterflash",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Spartacus2224 (3)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Spartacus2224",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Sabo — AkAtlas (4)",
+      "archetype": "Sabo",
+      "player": "AkAtlas",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Jinbe — cicciopal (5)",
+      "archetype": "Jinbe",
+      "player": "cicciopal",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Boa Hancock — Matzel0307 (6)",
+      "archetype": "Boa Hancock",
+      "player": "Matzel0307",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Jinbe — yung_mlody (7)",
+      "archetype": "Jinbe",
+      "player": "yung_mlody",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Dracule Mihawk — ImAzire (8)",
+      "archetype": "Dracule Mihawk",
+      "player": "ImAzire",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Crocodile — nytrex (9)",
+      "archetype": "Crocodile",
+      "player": "nytrex",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Marshall.D.Teach — Xevi (10)",
+      "archetype": "Marshall.D.Teach",
+      "player": "Xevi",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Kuzan — Gefen H (11)",
+      "archetype": "Kuzan",
+      "player": "Gefen H",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Portgas.D.Ace — Reflexzi (12)",
+      "archetype": "Portgas.D.Ace",
+      "player": "Reflexzi",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Jinbe — BrainDRot (13)",
+      "archetype": "Jinbe",
+      "player": "BrainDRot",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Boa Hancock — juruu (14)",
+      "archetype": "Boa Hancock",
+      "player": "juruu",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Sanji — Nightingale (15)",
+      "archetype": "Sanji",
+      "player": "Nightingale",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Polishh00 (16)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Polishh00",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #68 Tuesday",
+  "date": "2026-06-09",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #68 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a21363747f3797bf6bab665",
   "decks": [
     {
       "name": "Donquixote Rosinante — FlyestRaven (1)",
+      "archetype": "Donquixote Rosinante",
+      "player": "FlyestRaven",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Nami — Joller (2)",
+      "archetype": "Nami",
+      "player": "Joller",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Boa Hancock — Solmyr (3)",
+      "archetype": "Boa Hancock",
+      "player": "Solmyr",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Lucy — Kizarusenpai (4)",
+      "archetype": "Lucy",
+      "player": "Kizarusenpai",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Rebecca — BrokenBall (5)",
+      "archetype": "Rebecca",
+      "player": "BrokenBall",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Donquixote Rosinante — Kungar (6)",
+      "archetype": "Donquixote Rosinante",
+      "player": "Kungar",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Donquixote Rosinante — asce712 (7)",
+      "archetype": "Donquixote Rosinante",
+      "player": "asce712",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Marshall.D.Teach — Dearcan (8)",
+      "archetype": "Marshall.D.Teach",
+      "player": "Dearcan",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Nami — Timaeh (9)",
+      "archetype": "Nami",
+      "player": "Timaeh",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Nami — Gringoloco (10)",
+      "archetype": "Nami",
+      "player": "Gringoloco",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Sengoku — nytrex (11)",
+      "archetype": "Sengoku",
+      "player": "nytrex",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Yamato — ItachiPain911 (12)",
+      "archetype": "Yamato",
+      "player": "ItachiPain911",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Marshall.D.Teach — Jrpriest (13)",
+      "archetype": "Marshall.D.Teach",
+      "player": "Jrpriest",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Martix (14)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Martix",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Kalgara — BMKid (15)",
+      "archetype": "Kalgara",
+      "player": "BMKid",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Sengoku — Speedhealer (16)",
+      "archetype": "Sengoku",
+      "player": "Speedhealer",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

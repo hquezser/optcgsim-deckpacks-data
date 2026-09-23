@@ -58,7 +58,8 @@ def merge_decks(existing: list[dict], new: list[dict]) -> tuple[list[dict], int,
             ajoutes += 1
             continue
         cible = par_nom[nom]
-        avant = (tuple(cible.get("tags") or ()), cible.get("text"))
+        avant = (tuple(cible.get("tags") or ()), cible.get("text"),
+                 cible.get("archetype"), cible.get("player"), cible.get("placement"))
         tags = list(cible.get("tags") or ())
         for t in d.get("tags") or ():
             if t not in tags:
@@ -67,7 +68,13 @@ def merge_decks(existing: list[dict], new: list[dict]) -> tuple[list[dict], int,
             cible["tags"] = tags
         if d.get("text"):
             cible["text"] = d["text"]
-        if (tuple(cible.get("tags") or ()), cible.get("text")) != avant:
+        # Méta structurée : combler seulement ce qui manque — l'existant déclaré
+        # n'est jamais écrasé par un nouveau run.
+        for k in ("archetype", "player", "placement"):
+            if k not in cible and k in d:
+                cible[k] = d[k]
+        if (tuple(cible.get("tags") or ()), cible.get("text"),
+                cible.get("archetype"), cible.get("player"), cible.get("placement")) != avant:
             enrichis += 1
 
     return [par_nom[n] for n in ordre], ajoutes, enrichis
@@ -91,6 +98,11 @@ def write_pack_merged(pack_dir: Path, dp: dict, *, force: bool = False,
         avant = len(existing["decks"])
         decks, ajoutes, enrichis = merge_decks(existing["decks"], dp["decks"])
         dp["decks"] = decks
+        # Union au niveau pack aussi : un champ déclaratif déjà sur disque survit
+        # à un run qui ne le réémet pas.
+        for k in ("format", "date"):
+            if k not in dp and k in existing:
+                dp[k] = existing[k]
         note = f"fusion : {avant} existant(s) + {ajoutes} nouveau(x)"
         if enrichis:
             note += f", {enrichis} enrichi(s)"

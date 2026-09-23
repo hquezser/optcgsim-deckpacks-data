@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #95 Tuesday",
+  "date": "2026-08-11",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #95 Tuesday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a72f07a2b308b6067b4a76f Merged across runs.",
   "decks": [
     {
       "name": "Boa Hancock — LilyKei (1)",
+      "archetype": "Boa Hancock",
+      "player": "LilyKei",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Monkey.D.Luffy — ricmasterflash (2)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "ricmasterflash",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Dracule Mihawk — UPS_Employee (3)",
+      "archetype": "Dracule Mihawk",
+      "player": "UPS_Employee",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Dracule Mihawk — azirite (4)",
+      "archetype": "Dracule Mihawk",
+      "player": "azirite",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Enel — YWJmanu (5)",
+      "archetype": "Enel",
+      "player": "YWJmanu",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Kuzan — Twelve_12 (6)",
+      "archetype": "Kuzan",
+      "player": "Twelve_12",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Marshall.D.Teach — ImScreex (7)",
+      "archetype": "Marshall.D.Teach",
+      "player": "ImScreex",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Enel — SnillLiLYT (8)",
+      "archetype": "Enel",
+      "player": "SnillLiLYT",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Sabo — luzsnikov (9)",
+      "archetype": "Sabo",
+      "player": "luzsnikov",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Donquixote Rosinante — lukas123 (10)",
+      "archetype": "Donquixote Rosinante",
+      "player": "lukas123",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Dracule Mihawk — asce712 (11)",
+      "archetype": "Dracule Mihawk",
+      "player": "asce712",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Dracule Mihawk — iacca7 (12)",
+      "archetype": "Dracule Mihawk",
+      "player": "iacca7",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Nami — PROidan (13)",
+      "archetype": "Nami",
+      "player": "PROidan",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Marshall.D.Teach — fuat (14)",
+      "archetype": "Marshall.D.Teach",
+      "player": "fuat",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Enel — Kazzer (15)",
+      "archetype": "Enel",
+      "player": "Kazzer",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Michael K (16)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Michael K",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

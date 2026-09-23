@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "name": "ChinoizeCup #76 Monday",
+  "date": "2026-06-29",
   "author": "chinoizecup-scraper",
   "description": "Top 16 from \"ChinoizeCup #76 Monday\" (source=chinoizecupstats.com, online cup). Scraped from https://chinoizecupstats.com/tournaments. Source tournament: https://chinoizecupstats.com/tournaments/6a3ce44783fd320299bcfbed",
   "decks": [
     {
       "name": "Nami — Djalvinpr (1)",
+      "archetype": "Nami",
+      "player": "Djalvinpr",
+      "placement": 1,
       "tags": [
         "meta",
         "online",
@@ -16,6 +20,9 @@
     },
     {
       "name": "Enel — bornax10 (2)",
+      "archetype": "Enel",
+      "player": "bornax10",
+      "placement": 2,
       "tags": [
         "meta",
         "online",
@@ -26,6 +33,9 @@
     },
     {
       "name": "Enel — DZayas (3)",
+      "archetype": "Enel",
+      "player": "DZayas",
+      "placement": 3,
       "tags": [
         "meta",
         "online",
@@ -36,6 +46,9 @@
     },
     {
       "name": "Kalgara — Gefen H (4)",
+      "archetype": "Kalgara",
+      "player": "Gefen H",
+      "placement": 4,
       "tags": [
         "meta",
         "online",
@@ -46,6 +59,9 @@
     },
     {
       "name": "Portgas.D.Ace — asce712 (5)",
+      "archetype": "Portgas.D.Ace",
+      "player": "asce712",
+      "placement": 5,
       "tags": [
         "meta",
         "online",
@@ -56,6 +72,9 @@
     },
     {
       "name": "Nami — prani (6)",
+      "archetype": "Nami",
+      "player": "prani",
+      "placement": 6,
       "tags": [
         "meta",
         "online",
@@ -66,6 +85,9 @@
     },
     {
       "name": "Nami — VanThePokemon9 (7)",
+      "archetype": "Nami",
+      "player": "VanThePokemon9",
+      "placement": 7,
       "tags": [
         "meta",
         "online",
@@ -76,6 +98,9 @@
     },
     {
       "name": "Marshall.D.Teach — Bixes (8)",
+      "archetype": "Marshall.D.Teach",
+      "player": "Bixes",
+      "placement": 8,
       "tags": [
         "meta",
         "online",
@@ -86,6 +111,9 @@
     },
     {
       "name": "Enel — SnillLiLYT (9)",
+      "archetype": "Enel",
+      "player": "SnillLiLYT",
+      "placement": 9,
       "tags": [
         "meta",
         "online",
@@ -96,6 +124,9 @@
     },
     {
       "name": "Monkey.D.Luffy — fuat (10)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "fuat",
+      "placement": 10,
       "tags": [
         "meta",
         "online",
@@ -106,6 +137,9 @@
     },
     {
       "name": "Shanks — kevyzhou (11)",
+      "archetype": "Shanks",
+      "player": "kevyzhou",
+      "placement": 11,
       "tags": [
         "meta",
         "online",
@@ -116,6 +150,9 @@
     },
     {
       "name": "Monkey.D.Luffy — Nightingale (12)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "Nightingale",
+      "placement": 12,
       "tags": [
         "meta",
         "online",
@@ -126,6 +163,9 @@
     },
     {
       "name": "Kalgara — Hisoak (13)",
+      "archetype": "Kalgara",
+      "player": "Hisoak",
+      "placement": 13,
       "tags": [
         "meta",
         "online",
@@ -136,6 +176,9 @@
     },
     {
       "name": "Enel — Wortaxx (14)",
+      "archetype": "Enel",
+      "player": "Wortaxx",
+      "placement": 14,
       "tags": [
         "meta",
         "online",
@@ -146,6 +189,9 @@
     },
     {
       "name": "Donquixote Rosinante — Kungar (15)",
+      "archetype": "Donquixote Rosinante",
+      "player": "Kungar",
+      "placement": 15,
       "tags": [
         "meta",
         "online",
@@ -156,6 +202,9 @@
     },
     {
       "name": "Monkey.D.Luffy — PolGoFo (16)",
+      "archetype": "Monkey.D.Luffy",
+      "player": "PolGoFo",
+      "placement": 16,
       "tags": [
         "meta",
         "online",

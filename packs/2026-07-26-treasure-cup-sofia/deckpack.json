@@ -1,11 +1,16 @@
 {
   "schema_version": 1,
   "name": "OP16 26th July 2026 - Treasure Cup Sofia",
+  "format": "OP16",
+  "date": "2026-07-26",
   "author": "limitlesstcg-scraper",
   "description": "Top 16 from \"OP16 26th July 2026 - Treasure Cup Sofia\" (region=Europe, time=3months). Scraped from https://onepiece.limitlesstcg.com/decks/lists. Merged with the previously scraped pack. Source tournament: https://onepiece.limitlesstcg.com/tournaments/447",
   "decks": [
     {
       "name": "Green/Blue Luffy — Gabi313 (1st)",
+      "archetype": "Green/Blue Luffy",
+      "player": "Gabi313",
+      "placement": 1,
       "tags": [
         "meta",
         "all",
@@ -17,6 +22,9 @@
     },
     {
       "name": "Black/Yellow Blackbeard — Klimczur (2nd)",
+      "archetype": "Black/Yellow Blackbeard",
+      "player": "Klimczur",
+      "placement": 2,
       "tags": [
         "meta",
         "all",
@@ -28,6 +36,9 @@
     },
     {
       "name": "Green/Blue Luffy — ΜΣΦΡ Feno (3rd)",
+      "archetype": "Green/Blue Luffy",
+      "player": "ΜΣΦΡ Feno",
+      "placement": 3,
       "tags": [
         "meta",
         "all",
@@ -39,6 +50,9 @@
     },
     {
       "name": "Purple/Yellow Rosinante — MaGe (4th)",
+      "archetype": "Purple/Yellow Rosinante",
+      "player": "MaGe",
+      "placement": 4,
       "tags": [
         "meta",
         "all",
@@ -50,6 +64,9 @@
     },
     {
       "name": "Blue/Yellow Nami — JoseVi (5th)",
+      "archetype": "Blue/Yellow Nami",
+      "player": "JoseVi",
+      "placement": 5,
       "tags": [
         "meta",
         "all",
@@ -61,6 +78,9 @@
     },
     {
       "name": "Purple Enel — Sandro Kišur (6th)",
+      "archetype": "Purple Enel",
+      "player": "Sandro Kišur",
+      "placement": 6,
       "tags": [
         "meta",
         "all",
@@ -72,6 +92,9 @@
     },
     {
       "name": "Blue/Yellow Nami — Ludox2 (7th)",
+      "archetype": "Blue/Yellow Nami",
+      "player": "Ludox2",
+      "placement": 7,
       "tags": [
         "meta",
         "all",
@@ -83,6 +106,9 @@
     },
     {
       "name": "Blue/Yellow Nami — Imran Khan Jadoon (8th)",
+      "archetype": "Blue/Yellow Nami",
+      "player": "Imran Khan Jadoon",
+      "placement": 8,
       "tags": [
         "meta",
         "all",
@@ -94,6 +120,9 @@
     },
     {
       "name": "Purple Enel — Juan Méndez Casado (9th)",
+      "archetype": "Purple Enel",
+      "player": "Juan Méndez Casado",
+      "placement": 9,
       "tags": [
         "meta",
         "all",
@@ -105,6 +134,9 @@
     },
     {
       "name": "Green/Purple Luffy — Doc. P (10th)",
+      "archetype": "Green/Purple Luffy",
+      "player": "Doc. P",
+      "placement": 10,
       "tags": [
         "meta",
         "all",
@@ -116,6 +148,9 @@
     },
     {
       "name": "Purple Enel — Georgios Karapiperis (11th)",
+      "archetype": "Purple Enel",
+      "player": "Georgios Karapiperis",
+      "placement": 11,
       "tags": [
         "meta",
         "all",
@@ -127,6 +162,9 @@
     },
     {
       "name": "Green/Blue Luffy — Luca Caré (12th)",
+      "archetype": "Green/Blue Luffy",
+      "player": "Luca Caré",
+      "placement": 12,
       "tags": [
         "meta",
         "all",
@@ -138,6 +176,9 @@
     },
     {
       "name": "Purple Enel — Gianluca Noviello (13th)",
+      "archetype": "Purple Enel",
+      "player": "Gianluca Noviello",
+      "placement": 13,
       "tags": [
         "meta",
         "all",
@@ -149,6 +190,9 @@
     },
     {
       "name": "Purple/Yellow Rosinante — Daniel Winkler (14th)",
+      "archetype": "Purple/Yellow Rosinante",
+      "player": "Daniel Winkler",
+      "placement": 14,
       "tags": [
         "meta",
         "all",
@@ -160,6 +204,9 @@
     },
     {
       "name": "Green/Blue Luffy — Bartosz Kosmacz (15th)",
+      "archetype": "Green/Blue Luffy",
+      "player": "Bartosz Kosmacz",
+      "placement": 15,
       "tags": [
         "meta",
         "all",
@@ -171,6 +218,9 @@
     },
     {
       "name": "Green/Blue Luffy — Morscinho (16th)",
+      "archetype": "Green/Blue Luffy",
+      "player": "Morscinho",
+      "placement": 16,
       "tags": [
         "meta",
         "all",
